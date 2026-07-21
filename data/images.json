@@ -39,6 +39,14 @@
   "url": "https://images.openfoodfacts.org/images/products/008/800/402/1344/front_en.3.full.jpg",
   "w": 235
  },
+ "fernet-branca": {
+  "credit": "Open Food Facts contributors (ODbL/CC-BY-SA)",
+  "file": "assets/bottles/fernet-branca.jpg",
+  "h": 720,
+  "source": "off",
+  "url": "https://images.openfoodfacts.org/images/products/800/440/000/1317/front_de.21.full.jpg",
+  "w": 720
+ },
  "four-roses-single-barrel": {
   "credit": "Open Food Facts contributors (ODbL/CC-BY-SA)",
   "file": "assets/bottles/four-roses-single-barrel.jpg",
@@ -47,6 +55,14 @@
   "url": "https://images.openfoodfacts.org/images/products/500/029/960/3017/front_en.3.full.jpg",
   "w": 542
  },
+ "george-t-stagg": {
+  "credit": "Wikipedia — George T. Stagg (see article for license)",
+  "file": "assets/bottles/george-t-stagg.jpg",
+  "h": 720,
+  "source": "wikipedia",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/George_T_Stagg.JPG",
+  "w": 393
+ },
  "grand-marnier": {
   "credit": "Open Food Facts contributors (ODbL/CC-BY-SA)",
   "file": "assets/bottles/grand-marnier.jpg",
@@ -54,6 +70,14 @@
   "source": "off",
   "url": "https://images.openfoodfacts.org/images/products/301/830/000/4748/front.7.full.jpg",
   "w": 577
+ },
+ "green-spot": {
+  "credit": "Matt Wunderle (CC BY 2.0)",
+  "file": "assets/bottles/green-spot.jpg",
+  "h": 612,
+  "source": "commons",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Green_Spot_and_Yellow_Spot_Irish_Whiskey.jpg",
+  "w": 612
  },
  "guinness-draught": {
   "credit": "Open Food Facts contributors (ODbL/CC-BY-SA)",
@@ -103,6 +127,14 @@
   "url": "https://images.openfoodfacts.org/images/products/500/028/100/5409/front.3.full.jpg",
   "w": 540
  },
+ "laphroaig-10": {
+  "credit": "Open Food Facts contributors (ODbL/CC-BY-SA)",
+  "file": "assets/bottles/laphroaig-10.jpg",
+  "h": 720,
+  "source": "off",
+  "url": "https://images.openfoodfacts.org/images/products/501/001/964/1564/front.7.full.jpg",
+  "w": 249
+ },
  "luxardo-maraschino": {
   "credit": "Kenneth C. Zirkel (CC BY-SA 4.0)",
   "file": "assets/bottles/luxardo-maraschino.jpg",
@@ -134,6 +166,22 @@
   "source": "off",
   "url": "https://images.openfoodfacts.org/images/products/075/360/406/2119/front.5.full.jpg",
   "w": 183
+ },
+ "pappy-van-winkle-23": {
+  "credit": "Wikipedia — Pappy Van Winkle's Family Reserve (see article for license)",
+  "file": "assets/bottles/pappy-van-winkle-23.jpg",
+  "h": 720,
+  "source": "wikipedia",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Pappy_Van_Winkle.JPG",
+  "w": 398
+ },
+ "plymouth-gin": {
+  "credit": "Wikipedia — Plymouth Gin (see article for license)",
+  "file": "assets/bottles/plymouth-gin.jpg",
+  "h": 720,
+  "source": "wikipedia",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Plymouth_Gin_1793_Black_Friars_Distillery_2.jpg/1920px-Plymouth_Gin_1793_Black_Friars_Distillery_2.jpg",
+  "w": 540
  },
  "st-germain-elderflower": {
   "credit": "Sylvain1972 (CC BY-SA 3.0)",

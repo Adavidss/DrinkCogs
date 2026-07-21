@@ -1,6 +1,6 @@
 // DrinkCogs — cards.js: bottle card / row / strip components shared across pages.
 
-import { bottleName, producerOf, catLabelOf, flagOf, photoOf } from './db.js';
+import { bottleName, producerOf, catLabelOf, flagOf, photoOf, catColor } from './db.js';
 import { bottleSVG } from './bottle-svg.js';
 import * as store from './store.js';
 import { esc, icon, money, num, AVAILABILITY } from './ui.js';
@@ -12,13 +12,48 @@ import { esc, icon, money, num, AVAILABILITY } from './ui.js';
  */
 export function bottleMedia(b, opts = {}) {
   const h = opts.h ?? 124;
-  const p = opts.art ? null : photoOf(b);
+  const p = opts.art ? null : (photoOf(b) || (b.photoExt ? { file: b.photoExt } : null));
   if (p) {
     return `<img class="bphoto" src="${esc(p.file)}" alt="${esc(bottleName(b))} bottle"
       loading="lazy" decoding="async" style="max-height:${h}px"
       onerror="this.remove()">`;
   }
   return bottleSVG(b, { h, label: opts.label });
+}
+
+/**
+ * Pseudo-bottle for a saved open-database item, built from its snapshot —
+ * enough for cards, shelf, dashboard and CSV export to work offline.
+ */
+export function pseudoFromSnapshot(id, snap) {
+  return {
+    live: true, id, code: snap.code,
+    name: snap.name || 'Open-database bottle', shortName: snap.name || id,
+    brand: snap.brand || null,
+    category: snap.category || 'rtd', subcategory: null,
+    abv: snap.abv ?? null, ageYears: null, vintage: null,
+    msrp: null, estValue: null, sizeMl: snap.sizeMl ?? null,
+    availability: null, countryId: null, producerId: null,
+    color: catColor(snap.category || 'rtd'),
+    photoExt: snap.photo || null,
+    flavor: null,
+  };
+}
+
+/** Card for a live open-database search result. */
+export function liveCard(b) {
+  return `
+  <div class="bcard" data-live="${esc(b.code)}">
+    <a class="bcard-cover" href="#/live/${esc(b.code)}" aria-label="${esc(b.name)}"></a>
+    ${store.hasStatus(b.id, 'owned') ? `<span class="badge badge-accent bcard-own">${icon('check')} Owned</span>` : ''}
+    <div class="bcard-fig"><img class="bphoto" src="${esc(b.photoSmall || b.photo)}" alt="" loading="lazy" decoding="async" style="max-height:124px" onerror="this.closest('.bcard').remove()"></div>
+    <div class="bcard-name">${esc(b.name)}</div>
+    <div class="bcard-sub">${esc(b.brand || b.categoryLabel || '')}</div>
+    <div class="bcard-meta">
+      ${b.abv != null ? `<span class="badge">${num(b.abv, 1)}%</span>` : ''}
+      <span class="badge badge-accent">open db</span>
+    </div>
+  </div>`;
 }
 
 export function bottleCard(b, opts = {}) {

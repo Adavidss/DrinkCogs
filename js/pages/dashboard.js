@@ -2,7 +2,7 @@
 
 import { DB, bottleName, producerOf, countryOf, topCatOf } from '../db.js';
 import { esc, icon, money, num, setTitle, plural } from '../ui.js';
-import { bottleMedia } from '../cards.js';
+import {bottleMedia, pseudoFromSnapshot } from '../cards.js';
 import { donutHTML, barsHTML, histogramHTML, radarSVG, radarAxesFor } from '../charts.js';
 import { sectionHead } from '../cards.js';
 import * as store from '../store.js';
@@ -12,7 +12,9 @@ export async function render(root) {
 
   const paint = () => {
     const entries = store.allEntries();
-    const owned = entries.filter(e => e.statuses.includes('owned')).map(e => ({ e, b: DB.bottleById.get(e.id) })).filter(x => x.b);
+    const owned = entries.filter(e => e.statuses.includes('owned'))
+      .map(e => ({ e, b: DB.bottleById.get(e.id) || (store.isLiveId(e.id) && store.snapshotOf(e.id) ? pseudoFromSnapshot(e.id, store.snapshotOf(e.id)) : null) }))
+      .filter(x => x.b);
     const counts = store.countByStatus();
 
     if (!entries.length) {
@@ -57,8 +59,8 @@ export async function render(root) {
     const countryCount = new Map();
     for (const b of bottles) {
       const c = countryOf(b);
-      const k = c ? `${c.flag} ${c.name}` : b.countryId;
-      countryCount.set(k, (countryCount.get(k) || 0) + 1);
+      const k = c ? `${c.flag} ${c.name}` : b.countryId; // live items may have neither
+      if (k) countryCount.set(k, (countryCount.get(k) || 0) + 1);
     }
 
     const prodCount = new Map();
@@ -83,7 +85,8 @@ export async function render(root) {
 
     // average flavor profile of owned bottles
     const avgFlavor = {};
-    for (const f of DB.flavors) avgFlavor[f.id] = avg(bottles.map(b => b.flavor?.[f.id] ?? 0)) ?? 0;
+    const flavored = bottles.filter(b => b.flavor); // curated only — live items carry no profile
+    for (const f of DB.flavors) avgFlavor[f.id] = avg(flavored.map(b => b.flavor[f.id] ?? 0)) ?? 0;
     const axes = radarAxesFor(DB.flavors, [avgFlavor]);
 
     const stat = (val, label, note) => `

@@ -3,7 +3,7 @@
 import { DB, bottleName, producerOf, countryOf } from '../db.js';
 import { esc, icon, num, setTitle, plural, toast, modal, debounce } from '../ui.js';
 import { bottleSVG, shelfHeight } from '../bottle-svg.js';
-import { bottleGrid, bottleList } from '../cards.js';
+import {bottleGrid, bottleList, pseudoFromSnapshot } from '../cards.js';
 import * as store from '../store.js';
 
 const SHELF_SORTS = [
@@ -78,7 +78,9 @@ export async function render(root, [view], sp) {
   const paint = () => {
     const entries = new Map(store.allEntries().map(e => [e.id, e]));
     const counts = store.countByStatus();
-    const all = [...entries.keys()].map(id => DB.bottleById.get(id)).filter(Boolean);
+    const all = [...entries.keys()].map(id =>
+      DB.bottleById.get(id) || (store.isLiveId(id) && store.snapshotOf(id) ? pseudoFromSnapshot(id, store.snapshotOf(id)) : null)
+    ).filter(Boolean);
     let bottles = statusFilter === 'all' ? all : all.filter(b => store.hasStatus(b.id, statusFilter));
     if (q) {
       const qq = q.toLowerCase();
@@ -152,7 +154,7 @@ export async function render(root, [view], sp) {
     root.querySelector('#cq').addEventListener('input', debounce(e => { q = e.target.value.trim(); paint(); }, 150));
     root.querySelector('#csort').addEventListener('change', e => { sort = e.target.value; paint(); });
     root.querySelector('#exportJson').addEventListener('click', () => downloadFile('drinkcogs-collection.json', store.exportJSON(), 'application/json'));
-    root.querySelector('#exportCsv').addEventListener('click', () => downloadFile('drinkcogs-collection.csv', store.exportCSV(id => DB.bottleById.get(id)), 'text/csv'));
+    root.querySelector('#exportCsv').addEventListener('click', () => downloadFile('drinkcogs-collection.csv', store.exportCSV(id => DB.bottleById.get(id) || (store.snapshotOf(id) ? pseudoFromSnapshot(id, store.snapshotOf(id)) : null)), 'text/csv'));
     root.querySelector('#importBtn').addEventListener('click', importFlow);
     root.querySelector('#printBtn').addEventListener('click', () => window.print());
     root.querySelector('#clearBtn')?.addEventListener('click', clearFlow);

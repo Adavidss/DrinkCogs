@@ -14,10 +14,10 @@ export async function render(root) {
   root.innerHTML = `
     <section class="home-hero">
       <h1>The encyclopedia of<br>exceptional drinks</h1>
-      <p class="tagline">${num(s.bottles)} bottles · ${num(s.producers)} producers · ${num(s.countries)} countries — plus your own private collection, notes and shelf.</p>
+      <p class="tagline">${num(s.bottles)} curated bottles — plus live search of the entire open drinks database. Discover anything, save it to your shelf, share it.</p>
       <form class="home-search" id="homeSearch" role="search">
         <span class="hs-icon">${icon('search')}</span>
-        <input type="search" placeholder="Try “Lagavulin”, “wheated bourbon”, “Oaxaca”…" aria-label="Search the encyclopedia" autocomplete="off">
+        <input type="search" placeholder="Search any drink on earth…" aria-label="Search the encyclopedia" autocomplete="off">
         <button class="hs-go" type="submit" aria-label="Search">${icon('arrowR')}</button>
       </form>
       <div class="home-quick">

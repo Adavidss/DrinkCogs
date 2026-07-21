@@ -41,6 +41,7 @@ function emit(name) { window.dispatchEvent(new CustomEvent(name)); }
 
 let col = loadJSON(COLLECTION_KEY, { items: {} });
 if (!col.items) col = { items: {} };
+if (!col.snapshots) col.snapshots = {}; // live (open-database) bottles saved for offline rendering
 let compareIds = loadJSON(COMPARE_KEY, []);
 
 function persist() { saveJSON(COLLECTION_KEY, col); emit('dc:collection'); }
@@ -61,6 +62,7 @@ function prune(id) {
   const e = col.items[id];
   if (e && !e.statuses.length && !Object.values(e.notes).some(v => v !== '' && v != null && v !== false)) {
     delete col.items[id];
+    delete col.snapshots[id];
   }
 }
 
@@ -90,7 +92,19 @@ export function setNote(id, field, value) {
   persist();
 }
 
-export function removeEntry(id) { delete col.items[id]; persist(); }
+export function removeEntry(id) { delete col.items[id]; delete col.snapshots[id]; persist(); }
+
+/* ---------- live-bottle snapshots (open-database items) ---------- */
+
+export const isLiveId = id => id.startsWith('off:');
+
+export function saveSnapshot(id, snap) {
+  col.snapshots[id] = { ...(col.snapshots[id] || {}), ...snap };
+  // persist() is called by the toggle/note that follows; avoid double events
+  saveJSON(COLLECTION_KEY, col);
+}
+
+export function snapshotOf(id) { return col.snapshots[id] || null; }
 
 export function allEntries() {
   return Object.entries(col.items).map(([id, e]) => ({ id, ...e }));
@@ -115,12 +129,15 @@ export function importJSON(text, { merge = true } = {}) {
   const items = data?.collection?.items ?? data?.items;
   if (!items || typeof items !== 'object') throw new Error('Not a DrinkCogs export file');
   let n = 0;
-  if (!merge) col = { items: {} };
+  if (!merge) col = { items: {}, snapshots: {} };
+  if (!col.snapshots) col.snapshots = {};
   for (const [id, e] of Object.entries(items)) {
     if (!e || !Array.isArray(e.statuses)) continue;
     col.items[id] = { statuses: e.statuses.filter(s => STATUSES.some(x => x.id === s)), notes: e.notes || {}, addedAt: e.addedAt, updatedAt: e.updatedAt };
     n++;
   }
+  const snaps = data?.collection?.snapshots;
+  if (snaps && typeof snaps === 'object') Object.assign(col.snapshots, snaps);
   persist();
   return n;
 }
@@ -145,7 +162,7 @@ export function exportCSV(resolveBottle) {
   return rows.join('\n');
 }
 
-export function clearAll() { col = { items: {} }; persist(); }
+export function clearAll() { col = { items: {}, snapshots: {} }; persist(); }
 
 export function loadSample(sample) {
   for (const [id, e] of Object.entries(sample)) col.items[id] = e;

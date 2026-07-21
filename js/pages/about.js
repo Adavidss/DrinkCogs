@@ -14,7 +14,7 @@ export async function render(root) {
         <div class="card prose">
           <h3>What this is</h3>
           <p class="mt-1">DrinkCogs is an interactive encyclopedia of alcoholic beverages — ${num(DB.stats.bottles)} bottles across whiskey, rum, gin, agave spirits, brandy, liqueurs, wine, beer, sake, soju, cider and ready-to-drink cocktails — crossed with a personal collection manager. Think of it as Discogs for drinks: curated metadata instead of community reviews, flavor fingerprints instead of star ratings.</p>
-          <p>It's a fully static site. There is no backend, no account, no analytics. The encyclopedia ships as JSON files; your collection, notes and theme live only in this browser's local storage.</p>
+          <p>Search reaches beyond the curated layer: every query also asks the open drinks database (Open Food Facts, hundreds of thousands of community-catalogued bottles) live from your browser, and any result can be saved to your collection and shared by link. It's a fully static site. There is no backend, no account, no analytics. The encyclopedia ships as JSON files; your collection, notes and theme live only in this browser's local storage.</p>
         </div>
         <div class="card prose">
           <h3>Your data & privacy</h3>

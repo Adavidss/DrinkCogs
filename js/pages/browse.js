@@ -3,7 +3,8 @@
 import { DB, childrenOf } from '../db.js';
 import { esc, icon, num, setTitle, debounce, buildQuery, plural } from '../ui.js';
 import { searchBottles, applyFilters, parseFilters, filtersToQuery, sortBottles, SORTS, EMPTY_FILTERS } from '../search.js';
-import { bottleGrid, bottleList } from '../cards.js';
+import { bottleGrid, bottleList, liveCard } from '../cards.js';
+import { searchLive } from '../live.js';
 
 export async function render(root, _params, sp) {
   setTitle('Browse');
@@ -117,6 +118,14 @@ export async function render(root, _params, sp) {
         </div>
         <div class="active-filters chip-row" id="activeChips"></div>
         <div id="results" aria-live="polite"></div>
+
+        <div id="liveBlock" class="section" hidden>
+          <div class="section-head">
+            <h2>From the open drinks database</h2>
+            <span class="small faint nowrap">live · <a href="https://world.openfoodfacts.org" target="_blank" rel="noopener">Open Food Facts</a></span>
+          </div>
+          <div id="liveResults" aria-live="polite"></div>
+        </div>
       </div>
     </div>
   `;
@@ -155,6 +164,29 @@ export async function render(root, _params, sp) {
     history.replaceState(null, '', '#/browse' + q);
   }
 
+  /* Live open-database search: fires alongside local results for any query. */
+  let liveSeq = 0;
+  const paintLive = debounce(async () => {
+    const block = $('#liveBlock'), out = $('#liveResults');
+    if (!block) return;
+    const q = f.q;
+    if (!q || q.length < 3) { block.hidden = true; return; }
+    const seq = ++liveSeq;
+    block.hidden = false;
+    out.innerHTML = `<p class="muted small">Searching the whole drinks internet for “${esc(q)}”…</p>`;
+    try {
+      const hits = await searchLive(q, { limit: 18 });
+      if (seq !== liveSeq || f.q !== q) return; // stale response
+      out.innerHTML = hits.length
+        ? `<div class="grid-bottles">${hits.map(liveCard).join('')}</div>
+           <p class="small faint mt-1">Community-submitted products — open any result for details, links and saving. Photos and data quality vary.</p>`
+        : `<p class="muted small">Nothing in the open database for “${esc(q)}” — try fewer words or the brand name alone.</p>`;
+    } catch {
+      if (seq !== liveSeq) return;
+      out.innerHTML = `<p class="muted small">The open database didn't answer (offline or busy). Your curated results above still work.</p>`;
+    }
+  }, 450);
+
   function paint() {
     const list = currentResults();
     $('#resultCount').textContent = plural(list.length, 'bottle');
@@ -162,6 +194,7 @@ export async function render(root, _params, sp) {
     $('#results').innerHTML = viewMode === 'grid'
       ? bottleGrid(list, { emptyText: 'Try loosening a filter or two.' })
       : bottleList(list);
+    paintLive();
     syncURL();
   }
 

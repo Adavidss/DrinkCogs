@@ -132,6 +132,24 @@ def commons_search(bottle):
     return None
 
 
+def wikipedia_image(bottle):
+    """Wikipedia lead image via REST summary; returns (image_url, credit) or None.
+    Brand articles often carry a bottle photo; logos get culled at eyeball time."""
+    for title in [bottle['name'], bottle.get('shortName'), bottle.get('brand')]:
+        if not title:
+            continue
+        url = ('https://en.wikipedia.org/api/rest_v1/page/summary/'
+               + urllib.parse.quote(title.replace(' ', '_')) + '?redirect=true')
+        try:
+            d = fetch_json(url)
+        except Exception:
+            continue
+        img = (d.get('originalimage') or d.get('thumbnail') or {}).get('source')
+        if d.get('type') == 'standard' and img and re.search(r'\.(jpe?g|png)', img, re.I):
+            return img, f"Wikipedia — {d.get('title', title)} (see article for license)"
+    return None
+
+
 def save_image(bottle_id, raw):
     img = Image.open(io.BytesIO(raw))
     img.load()
@@ -171,7 +189,11 @@ def main():
             r = commons_search(b)
             if r:
                 found = (r[0], r[1], 'commons')
-            elif allow_off:
+            if not found:
+                r = wikipedia_image(b)
+                if r:
+                    found = (r[0], r[1], 'wikipedia')
+            if not found and allow_off:
                 r = off_search(b)
                 if r:
                     found = (r[0], r[1], 'off')

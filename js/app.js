@@ -19,6 +19,7 @@ import * as collection from './pages/collection.js';
 import * as dashboard from './pages/dashboard.js';
 import * as compare from './pages/compare.js';
 import * as about from './pages/about.js';
+import * as live from './pages/live.js';
 
 const view = document.getElementById('view');
 
@@ -28,6 +29,7 @@ const ROUTES = [
   [/^$/, home.render, 'home'],
   [/^browse$/, browse.render, 'browse'],
   [/^bottle\/([\w-]+)$/, bottle.render, 'browse'],
+  [/^live\/(\w+)$/, live.render, 'browse'],
   [/^producers$/, producers.renderIndex, 'explore'],
   [/^producer\/([\w-]+)$/, producers.renderOne, 'explore'],
   [/^countries$/, places.renderIndex, 'explore'],
@@ -155,7 +157,7 @@ function renderSuggest() {
       <span class="s-emoji">🍸</span>
       <span><span class="s-name">${esc(c.name)}</span><br><span class="s-sub">Cocktail</span></span>
     </a>`);
-  rows.push(`<a class="suggest-item suggest-all" href="#/browse?q=${encodeURIComponent(q)}">See all results for “${esc(q)}”</a>`);
+  rows.push(`<a class="suggest-item suggest-all" href="#/browse?q=${encodeURIComponent(q)}">Search everywhere for “${esc(q)}” — curated + the open drinks database</a>`);
   suggestBox.innerHTML = rows.join('');
   suggestBox.hidden = false;
   searchInput.setAttribute('aria-expanded', 'true');

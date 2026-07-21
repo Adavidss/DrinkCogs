@@ -2,7 +2,7 @@
 // Strategy: precache the app shell + database on install; stale-while-revalidate
 // at runtime so updates roll in on the next visit.
 
-const VERSION = 'drinkcogs-v3';
+const VERSION = 'drinkcogs-v4';
 
 // Development kill-switch: on localhost the worker uninstalls itself so the
 // dev server is always hit directly. Production (GitHub Pages) is unaffected.
@@ -39,6 +39,9 @@ const SHELL = [
   './js/pages/dashboard.js',
   './js/pages/compare.js',
   './js/pages/about.js',
+  './js/pages/live.js',
+  './js/live.js',
+  './js/links.js',
   './data/bottles.json',
   './data/producers.json',
   './data/countries.json',

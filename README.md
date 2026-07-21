@@ -8,7 +8,8 @@ Think *Discogs for drinks*: a curated, metadata-rich catalog of bourbon, scotch,
 
 ## What it does
 
-- **Encyclopedia** — 100 bottles at launch, each with full specs (ABV/proof, age, mash bill, botanicals, grapes, barrels, cask finishes, filtration, coloring), original prose (description, history, production), tasting notes, awards, interesting facts, release timelines and serving guidance (glassware, temperature, pairings, cocktails).
+- **Internet-wide discovery** — every search also queries the open drinks database (Open Food Facts) live from the browser: any drink on earth is findable, gets its own shareable page (barcode URL) with photo, Wikipedia context and buy/review links, and can be saved to your collection.
+- **Encyclopedia** — 100 curated bottles at launch, each with full specs (ABV/proof, age, mash bill, botanicals, grapes, barrels, cask finishes, filtration, coloring), original prose (description, history, production), tasting notes, awards, interesting facts, release timelines and serving guidance (glassware, temperature, pairings, cocktails).
 - **Flavor system** — every bottle carries a curated 20-dimension flavor fingerprint rendered as radar charts; no community ratings anywhere.
 - **Instant search & Discogs-style filters** — category, country, region, ABV, age, price, style, availability, limited/discontinued flags, flavor emphasis.
 - **Smart discovery** — metadata-only recommendations: similar profiles, higher-proof / budget / premium alternatives, same house, same region, same cask finish.
