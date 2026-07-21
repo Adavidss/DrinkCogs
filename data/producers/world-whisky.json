@@ -1,0 +1,261 @@
+[
+  {
+    "id": "glenfiddich-distillery",
+    "name": "Glenfiddich Distillery",
+    "type": "distillery",
+    "countryId": "scotland",
+    "regionId": "speyside",
+    "location": "Dufftown, Moray, Scotland",
+    "lat": 57.4552,
+    "lng": -3.1274,
+    "founded": 1887,
+    "parentCompany": "William Grant & Sons",
+    "masterDistiller": "Brian Kinsman",
+    "website": "glenfiddich.com",
+    "description": "Glenfiddich is the best-selling single malt Scotch in the world and the distillery most responsible for the category's existence, having begun marketing single malt internationally in 1963. Still owned by the founding Grant family, it runs one of Scotland's largest malt operations from Dufftown while keeping its house style light, pear-fresh and approachable — the definitive gentle Speyside profile served in a famous triangular bottle.",
+    "history": "William Grant, a former bookkeeper at Mortlach, built Glenfiddich in 1886–87 with the help of his nine children, using second-hand stills bought for £120; the first spirit ran on Christmas Day 1887. The distillery stayed in family hands through the twentieth century's consolidations, a rarity in Scotch. Facing a takeover-threatened blend market, the Grants made the pivotal decision in 1963 to promote Glenfiddich as a single ('straight') malt beyond Scotland — effectively inventing the modern single malt category — and in 1969 opened Scotland's first distillery visitor centre. Today William Grant & Sons remains independent, with Glenfiddich shipping over a million cases a year worldwide.",
+    "signatureBottleIds": ["glenfiddich-12"],
+    "facts": [
+      "Glenfiddich means 'valley of the deer' in Gaelic, the origin of the stag emblem.",
+      "William Grant built the distillery largely by hand with his nine children, using stills bought second-hand for £120.",
+      "Opened Scotland's first distillery visitor centre in 1969.",
+      "One of very few major Scotch distilleries still owned by its founding family."
+    ],
+    "timeline": [
+      {"year": 1887, "event": "First spirit runs on Christmas Day", "type": "milestone"},
+      {"year": 1963, "event": "Begins marketing single malt internationally, creating the modern category", "type": "milestone"},
+      {"year": 1969, "event": "Opens Scotland's first distillery visitor centre", "type": "milestone"},
+      {"year": 1999, "event": "12-year-old becomes the flagship expression", "type": "release"}
+    ]
+  },
+  {
+    "id": "macallan-distillery",
+    "name": "The Macallan Distillery",
+    "type": "distillery",
+    "countryId": "scotland",
+    "regionId": "speyside",
+    "location": "Craigellachie, Moray, Scotland",
+    "lat": 57.4846,
+    "lng": -3.2095,
+    "founded": 1824,
+    "parentCompany": "Edrington Group",
+    "masterDistiller": "Kirsteen Campbell",
+    "website": "themacallan.com",
+    "description": "The Macallan is Scotch whisky's foremost luxury house, defined by an obsessive sherry-cask programme — it commissions its own oak, seasoned with Oloroso in Jerez — small spirit stills, natural colour and auction results that dwarf every rival. Its Speyside estate whiskies are rich, fruit-laden and polished, and the brand's prestige pricing has reshaped how the industry thinks about whisky as a luxury good.",
+    "history": "Alexander Reid licensed The Macallan in 1824 among the first wave of legal Speyside distilleries, on farmland surrounding the 1700 Easter Elchies manor house above the Spey. It supplied blenders for over a century before Highland Distillers — later the Edrington Group — built its single malt into a global luxury brand from the 1980s, anchored by uncompromising sherry-oak maturation. In 2018 The Macallan opened a £140 million distillery cut into the hillside beneath an undulating turf roof, one of the most expensive ever built. Its old bottlings dominate the auction market: a 1926 cask yielded the two most expensive bottles of whisky ever sold, the record standing at about £2.19 million since 2023.",
+    "signatureBottleIds": ["macallan-12-sherry-oak"],
+    "facts": [
+      "Commissions its own casks — oak grown, coopered and sherry-seasoned in Spain to the distillery's specification.",
+      "Never adds caramel colouring; every hue comes from the wood.",
+      "The 2018 distillery, by architects Rogers Stirk Harbour + Partners, cost around £140 million.",
+      "Bottles from its 1926 cask have twice set the world auction record for whisky."
+    ],
+    "timeline": [
+      {"year": 1824, "event": "Alexander Reid licenses the distillery at Easter Elchies", "type": "milestone"},
+      {"year": 2004, "event": "Fine Oak range introduces bourbon-cask maturation alongside Sherry Oak", "type": "release"},
+      {"year": 2018, "event": "New turf-roofed distillery opens", "type": "milestone"},
+      {"year": 2023, "event": "A 1926 Macallan sells for ~£2.19 m, the standing world record", "type": "milestone"}
+    ]
+  },
+  {
+    "id": "lagavulin-distillery",
+    "name": "Lagavulin Distillery",
+    "type": "distillery",
+    "countryId": "scotland",
+    "regionId": "islay",
+    "location": "Lagavulin Bay, near Port Ellen, Islay, Scotland",
+    "lat": 55.6364,
+    "lng": -6.1265,
+    "founded": 1816,
+    "parentCompany": "Diageo",
+    "masterDistiller": null,
+    "website": "malts.com",
+    "description": "Lagavulin distils the most celebrated of Islay's south-shore peat giants from a small bay beneath the ruins of Dunyvaig Castle. Its house style is smoke with gravitas — slow-distilled, thickly peated spirit matured long enough to fold tar and iodine into dried fruit and leather. The 16-year-old flagship has anchored Diageo's Classic Malts since 1988 and remains the benchmark for mature peated whisky.",
+    "history": "John Johnston licensed Lagavulin in 1816 on a bay where illicit stills had reportedly operated since the 1740s. Under Peter Mackie — one of Victorian whisky's great characters — it powered the White Horse blend from 1890 and hosted his eccentric experiments, including the short-lived Malt Mill distillery built within its walls in 1908. Chosen in 1988 to represent Islay in the Classic Malts range, Lagavulin 16 became a global icon of peated whisky. The distillery marked its bicentenary in 2016 with commemorative releases, and its partnership with actor Nick Offerman has kept it lodged in popular culture.",
+    "signatureBottleIds": ["lagavulin-16"],
+    "facts": [
+      "Claims the slowest distillation on Islay, with a spirit run of around nine hours.",
+      "The legendary Malt Mill distillery, fictional grail of the film The Angels' Share, operated inside Lagavulin from 1908 to 1962.",
+      "Sits opposite the ruins of Dunyvaig Castle, once a naval fortress of the Lords of the Isles.",
+      "Heart of the White Horse blend from 1890."
+    ],
+    "timeline": [
+      {"year": 1816, "event": "John Johnston licenses the distillery", "type": "milestone"},
+      {"year": 1890, "event": "Peter Mackie launches the White Horse blend around Lagavulin malt", "type": "milestone"},
+      {"year": 1988, "event": "Selected for the Classic Malts range", "type": "milestone"},
+      {"year": 2016, "event": "Bicentenary celebrated with special releases", "type": "milestone"}
+    ]
+  },
+  {
+    "id": "ardbeg-distillery",
+    "name": "Ardbeg Distillery",
+    "type": "distillery",
+    "countryId": "scotland",
+    "regionId": "islay",
+    "location": "Port Ellen, Islay, Scotland",
+    "lat": 55.6406,
+    "lng": -6.108,
+    "founded": 1815,
+    "parentCompany": "The Glenmorangie Company (LVMH)",
+    "masterDistiller": "Dr Bill Lumsden",
+    "website": "ardbeg.com",
+    "description": "Ardbeg makes the most heavily peated of Islay's classic malts yet distils it to an improbable brightness, using a purifier-equipped spirit still that keeps citrus and orchard fruit alive beneath 50-plus ppm of smoke. Rescued from dereliction in 1997, it has become one of whisky's great cult brands, feeding a devoted global Committee with the flagship Ten and a stream of playfully named limited releases.",
+    "history": "Founded by John Macdougall in 1815 on the Kildalton coast, Ardbeg spent most of its life as a blender's malt and nearly did not survive the twentieth century: it closed in 1981, limped through partial production from 1989 and stood silent again by the mid-1990s. Glenmorangie plc bought the ruin in 1997 for about £7 million, restored it, and launched the definitive Ten Year Old in 2000 alongside the Ardbeg Committee fan organisation. LVMH's 2004 acquisition of Glenmorangie brought luxury-house backing, and under whisky creator Dr Bill Lumsden Ardbeg has ranged from space-flown maturation experiments to committee-only bottlings, while the core Ten remains its calling card.",
+    "signatureBottleIds": ["ardbeg-10"],
+    "facts": [
+      "Sent new-make spirit and oak to the International Space Station in 2011 to study maturation in microgravity.",
+      "Bought back from dereliction in 1997 for roughly £7 million.",
+      "The Ardbeg Committee counts well over one hundred thousand members worldwide.",
+      "Its malt is peated to roughly 50–55 ppm, among the highest of any core-range Scotch."
+    ],
+    "timeline": [
+      {"year": 1815, "event": "John Macdougall founds Ardbeg", "type": "milestone"},
+      {"year": 1981, "event": "Distillery closes", "type": "discontinued"},
+      {"year": 1997, "event": "Glenmorangie plc buys and revives the site", "type": "reintroduced"},
+      {"year": 2004, "event": "LVMH acquires Glenmorangie plc, including Ardbeg", "type": "change"}
+    ]
+  },
+  {
+    "id": "laphroaig-distillery",
+    "name": "Laphroaig Distillery",
+    "type": "distillery",
+    "countryId": "scotland",
+    "regionId": "islay",
+    "location": "Near Port Ellen, Islay, Scotland",
+    "lat": 55.6303,
+    "lng": -6.1527,
+    "founded": 1815,
+    "parentCompany": "Suntory Global Spirits",
+    "masterDistiller": "Barry MacAffer",
+    "website": "laphroaig.com",
+    "description": "Laphroaig is the most medicinal of the Islay malts — iodine, seaweed and antiseptic smoke are its calling cards — and it remains one of the few Scotch distilleries still malting part of its own barley on traditional floors. Deliberately divisive and proud of it, the distillery balances its tarry phenolics with sweetness drawn from first-fill ex-bourbon wood, much of it from stablemate Maker's Mark.",
+    "history": "Brothers Donald and Alexander Johnston established Laphroaig around 1815 beside a rocky cove on Islay's south coast. The founding family's line ended with Ian Hunter, who bequeathed the distillery in 1954 to his manager Bessie Williamson — the first woman to own and run a Scotch whisky distillery in the twentieth century. During Prohibition its whisky reportedly entered America legally as medicinal spirit. The Prince of Wales granted Laphroaig his Royal Warrant during a 1994 visit, the same year the Friends of Laphroaig scheme began leasing every member a square foot of Islay. Ownership passed through Allied and Fortune Brands to Beam, and with Suntory's 2014 acquisition Laphroaig joined the Japanese group now called Suntory Global Spirits.",
+    "signatureBottleIds": ["laphroaig-10"],
+    "facts": [
+      "One of the few Scotch distilleries retaining working floor maltings, cold-smoking its barley over Islay peat.",
+      "Holds a Royal Warrant from the Prince of Wales, granted in 1994.",
+      "Bessie Williamson, owner from 1954, was the first woman to own and manage a Scotch distillery in the twentieth century.",
+      "Friends of Laphroaig members hold lifetime leases on individual square feet of Islay, rent payable in drams."
+    ],
+    "timeline": [
+      {"year": 1815, "event": "Johnston brothers establish Laphroaig", "type": "milestone"},
+      {"year": 1954, "event": "Bessie Williamson inherits the distillery", "type": "milestone"},
+      {"year": 1994, "event": "Royal Warrant granted; Friends of Laphroaig launched", "type": "award"},
+      {"year": 2014, "event": "Suntory acquires Beam Inc., bringing Laphroaig into the group", "type": "change"}
+    ]
+  },
+  {
+    "id": "talisker-distillery",
+    "name": "Talisker Distillery",
+    "type": "distillery",
+    "countryId": "scotland",
+    "regionId": "islands",
+    "location": "Carbost, Isle of Skye, Scotland",
+    "lat": 57.3027,
+    "lng": -6.356,
+    "founded": 1830,
+    "parentCompany": "Diageo",
+    "masterDistiller": null,
+    "website": "talisker.com",
+    "description": "Talisker is the historic distillery of the Isle of Skye, producing a maritime single malt of medium peat, sea salt and signature black-pepper fire from the shore of Loch Harport. Old-fashioned worm tub condensers and purifier-piped wash stills preserve a muscular spirit character, and its 'Made by the Sea' identity is among the most literal in whisky — storms genuinely batter the warehouse walls.",
+    "history": "Brothers Hugh and Kenneth MacAskill founded Talisker in 1830 at Carbost on Skye's western shore. Robert Louis Stevenson counted it among Scotland's finest drinks in an 1880 poem, by which time the distillery had passed through the partnerships that would fold it into the Distillers Company. Triple distillation was practised until 1928, and a 1960 stillhouse fire destroyed all five stills, which were rebuilt as exact replicas to protect the spirit's character. Chosen for the Classic Malts in 1988, Talisker was Skye's only distillery for 187 years until Torabhaig opened in 2017, and it remains one of Diageo's flagship malts.",
+    "signatureBottleIds": ["talisker-10"],
+    "facts": [
+      "Skye's only distillery from 1830 until 2017.",
+      "Condenses its spirit in outdoor worm tubs, a rarity that adds weight and character.",
+      "The five stills are exact replicas built after a 1960 stillhouse fire.",
+      "Praised in verse by Robert Louis Stevenson in 1880."
+    ],
+    "timeline": [
+      {"year": 1830, "event": "MacAskill brothers found Talisker at Carbost", "type": "milestone"},
+      {"year": 1928, "event": "Triple distillation abandoned for conventional double distillation", "type": "change"},
+      {"year": 1960, "event": "Stillhouse fire; stills rebuilt as exact replicas", "type": "milestone"},
+      {"year": 1988, "event": "Selected for the Classic Malts range", "type": "milestone"}
+    ]
+  },
+  {
+    "id": "highland-park-distillery",
+    "name": "Highland Park Distillery",
+    "type": "distillery",
+    "countryId": "scotland",
+    "regionId": "islands",
+    "location": "Kirkwall, Orkney, Scotland",
+    "lat": 58.9689,
+    "lng": -2.9552,
+    "founded": 1798,
+    "parentCompany": "Edrington Group",
+    "masterDistiller": "Gordon Motion",
+    "website": "highlandparkwhisky.com",
+    "description": "Highland Park is Scotland's northernmost distillery, working on Orkney since 1798 with hand-turned floor maltings and heather-rich local peat that yields aromatic, floral smoke unlike Islay's tar. Married with sherry-seasoned oak and bottled at natural colour, its malts balance honeyed sweetness and gentle smoke — a completeness that has made the 12-year-old a perennial critics' favourite — under branding that embraces Orkney's Norse past.",
+    "history": "Distilling on the site above Kirkwall is credited to Magnus Eunson from 1798 — a church officer and part-time smuggler who, in distillery lore, hid whisky beneath his pulpit — with formal licensing following in 1826. Highland Park prospered supplying blends before Highland Distillers, later Edrington, developed its single malt through the late twentieth century into a core of the premium island category. The distillery maintains its floor maltings and Hobbister Moor peat cutting to this day. In 2017 the range was relaunched around Orkney's Viking heritage — the islands were Norse for over five centuries — renaming the 12-year-old Viking Honour.",
+    "signatureBottleIds": ["highland-park-12"],
+    "facts": [
+      "The most northerly Scotch whisky distillery, at nearly 59°N in Orkney.",
+      "Malts about a fifth of its barley on traditional floors and kilns it over heather-rich Hobbister peat.",
+      "Founder Magnus Eunson was simultaneously a church beadle and a whisky smuggler.",
+      "Orkney was ruled by Norway until 1468, the basis of the brand's Viking identity."
+    ],
+    "timeline": [
+      {"year": 1798, "event": "Magnus Eunson begins distilling on the site", "type": "milestone"},
+      {"year": 1826, "event": "Distillery formally licensed", "type": "milestone"},
+      {"year": 2017, "event": "Range relaunched with Viking-themed names and packaging", "type": "packaging"}
+    ]
+  },
+  {
+    "id": "springbank-distillery",
+    "name": "Springbank Distillery",
+    "type": "distillery",
+    "countryId": "scotland",
+    "regionId": "campbeltown",
+    "location": "Campbeltown, Argyll, Scotland",
+    "lat": 55.4257,
+    "lng": -5.6043,
+    "founded": 1828,
+    "parentCompany": "J & A Mitchell & Co. (independent, family-owned)",
+    "masterDistiller": null,
+    "website": "springbank.scot",
+    "description": "Springbank is Scotch whisky's great traditionalist: the only distillery in Scotland to perform every step — floor malting all its barley, distilling, maturing and bottling — on one site, largely by hand. It produces three distinct whiskies (lightly peated Springbank, heavily peated Longrow, unpeated triple-distilled Hazelburn) in tiny volumes, and its oily, briny, faintly funky Campbeltown style has earned a cult following that outstrips supply.",
+    "history": "Founded in 1828 on the site of an illicit still, Springbank has been controlled by the Mitchell family and their firm J & A Mitchell & Co for most of its existence, making it Scotland's oldest independent family-owned distillery. It survived the catastrophic 1920s collapse that reduced Campbeltown — once self-styled whisky capital of the world with over thirty distilleries — to just two working sites. The family bought the venerable bottler William Cadenhead in 1972 and revived the neighbouring Glengyle distillery in 2004, restoring Campbeltown's quorum of three distilleries and helping preserve its status as a recognised Scotch whisky region. Springbank still refuses chill filtration, colouring and, largely, automation.",
+    "signatureBottleIds": ["springbank-10"],
+    "facts": [
+      "The only Scottish distillery to carry out 100% of production, from floor malting to bottling, on one site.",
+      "Makes three whiskies on the same stills: Springbank (2.5 distillations), Longrow (peated, double) and Hazelburn (unpeated, triple).",
+      "Owner J & A Mitchell & Co is Scotland's oldest independent family-owned distilling company.",
+      "The family's 2004 revival of Glengyle kept Campbeltown alive as an official whisky region."
+    ],
+    "timeline": [
+      {"year": 1828, "event": "Springbank founded on a former illicit still site", "type": "milestone"},
+      {"year": 1972, "event": "Mitchell family acquires independent bottler William Cadenhead", "type": "change"},
+      {"year": 2004, "event": "Sister distillery Glengyle revived", "type": "milestone"}
+    ]
+  },
+  {
+    "id": "johnnie-walker",
+    "name": "Johnnie Walker",
+    "type": "blender",
+    "countryId": "scotland",
+    "regionId": null,
+    "location": "Edinburgh, Scotland (founded in Kilmarnock)",
+    "lat": 55.9503,
+    "lng": -3.2064,
+    "founded": 1820,
+    "parentCompany": "Diageo",
+    "masterDistiller": "Dr Emma Walker",
+    "website": "johnniewalker.com",
+    "description": "Johnnie Walker is the world's best-selling Scotch whisky, a blending house whose colour-coded labels — Red through Blue — span every price tier and whose square bottle, slanted label and Striding Man logo are among the most recognised trademarks in drinks. Master blender Dr Emma Walker's team draws on malt and grain whiskies from across Diageo's Scottish distilleries, with smoky island malts a house signature.",
+    "history": "John Walker sold whisky in his Kilmarnock grocery from 1820, but the brand's architecture was built by his son Alexander and grandsons: the square bottle came in 1860, the flagship blends took shape as Old Highland Whisky, and in 1908–09 the Striding Man was sketched and the colour names adopted. Walker's rode the blended Scotch boom to global dominance, merging into the Distillers Company in 1925 and eventually into Diageo. The brand now sells well over twenty million cases a year across roughly 180 countries. In 2021 Diageo opened Johnnie Walker Princes Street, an eight-storey visitor attraction in Edinburgh, as the brand's public home.",
+    "signatureBottleIds": ["johnnie-walker-black"],
+    "facts": [
+      "The best-selling Scotch whisky in the world, at well over twenty million cases a year.",
+      "The Striding Man was drawn by cartoonist Tom Browne in 1908, reputedly on the back of a menu.",
+      "Labels have been applied at a 24-degree slant since the nineteenth century.",
+      "Dr Emma Walker, appointed 2022, is the first woman to serve as Johnnie Walker master blender — and no relation to the founder."
+    ],
+    "timeline": [
+      {"year": 1820, "event": "John Walker begins trading in Kilmarnock", "type": "milestone"},
+      {"year": 1860, "event": "Square bottle introduced", "type": "packaging"},
+      {"year": 1909, "event": "Red and Black Label colour names adopted", "type": "release"},
+      {"year": 2021, "event": "Johnnie Walker Princes Street opens in Edinburgh", "type": "milestone"}
+    ]
+  }
+]

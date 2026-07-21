@@ -1,0 +1,242 @@
+[
+  {
+    "id": "russian-river-brewing",
+    "name": "Russian River Brewing Company",
+    "type": "brewery",
+    "countryId": "united-states",
+    "regionId": "california",
+    "location": "Santa Rosa / Windsor, Sonoma County, California, USA",
+    "lat": 38.4406,
+    "lng": -122.7133,
+    "founded": 1997,
+    "parentCompany": null,
+    "masterDistiller": "Vinnie Cilurzo (co-owner & brewmaster)",
+    "website": "russianriverbrewing.com",
+    "description": "Russian River Brewing, in Sonoma County wine country, is a twin-engine cult brewery: on one side the hop bombs Pliny the Elder and Pliny the Younger, on the other a pioneering program of barrel-aged sour ales — Temptation, Supplication, Consecration — fermented with wild yeasts in wine barrels. Deliberately limited distribution and pub-first sales keep demand permanently ahead of supply.",
+    "history": "The brewery was founded in 1997 by Korbel Champagne Cellars, which hired Vinnie Cilurzo — the Temecula brewer who had created the first commercial double IPA at Blind Pig in 1994. When Korbel exited beer in 2003, Vinnie and Natalie Cilurzo bought the brand, opening the downtown Santa Rosa brewpub in 2004. Pliny the Elder, first brewed for a 2000 festival, grew into America's most famous IPA, while Cilurzo's wine-country sour program helped invent American wild ale. The annual February release of triple IPA Pliny the Younger became a tourism event measured in millions of dollars for Sonoma County. A large Windsor brewery and taproom opened in 2018, funded partly by devoted fans, keeping the company fiercely independent.",
+    "signatureBottleIds": ["pliny-the-elder"],
+    "facts": [
+      "Vinnie Cilurzo brewed the first commercial double IPA at Blind Pig Brewing in 1994.",
+      "Pliny the Younger's two-week February release draws pilgrims from around the world to Sonoma County.",
+      "The brewery's sour program ferments in used wine barrels from neighboring Sonoma wineries."
+    ],
+    "timeline": [
+      {"year": 1997, "event": "Brewery founded by Korbel Champagne Cellars", "type": "milestone"},
+      {"year": 2003, "event": "Vinnie and Natalie Cilurzo buy the brewery", "type": "change"},
+      {"year": 2018, "event": "Windsor production brewery and taproom open", "type": "milestone"}
+    ]
+  },
+  {
+    "id": "orval-brewery",
+    "name": "Brasserie d'Orval",
+    "type": "brewery",
+    "countryId": "belgium",
+    "regionId": "gaume",
+    "location": "Abbaye Notre-Dame d'Orval, Villers-devant-Orval, Belgium",
+    "lat": 49.6367,
+    "lng": 5.3486,
+    "founded": 1931,
+    "parentCompany": null,
+    "masterDistiller": "Anne-Françoise Pypaert (master brewer)",
+    "website": "orval.be",
+    "description": "The Orval brewery, inside a Trappist abbey in Belgium's far-southern Gaume region, makes exactly one beer for the public — the dry-hopped, Brettanomyces-conditioned pale ale that bears the abbey's name — plus cheese from the same monastic economy. Its singularity of purpose, art-deco bottle and living, evolving beer give it a status among brewers that far outstrips its size.",
+    "history": "Orval Abbey dates to 1132, its name tied to the legend of Countess Matilda's ring returned by a trout from the spring — the image on every bottle. Ruined in the French Revolution's aftermath, the site was refounded from 1926, and the brewery was built in 1931 explicitly to finance reconstruction, an unusually commercial mandate that came with professional lay brewers from the start; architect Henry Vaes designed both the rebuilt abbey and the distinctive skittle-shaped bottle. The recipe — English-style dry hopping, hard water, mixed-culture bottle conditioning with Brettanomyces — has remained essentially intact. Anne-Françoise Pypaert, at the brewery since 1992, became the first female master brewer in the Trappist world in 2013 and later its director.",
+    "signatureBottleIds": ["orval"],
+    "facts": [
+      "One public beer, one cheese: the abbey's entire commercial output is deliberately minimal.",
+      "The skittle-shaped bottle and chalice were designed in the 1930s by the abbey's architect, Henry Vaes.",
+      "Fresh and year-aged Orval taste like different beers thanks to slow Brettanomyces refermentation."
+    ],
+    "timeline": [
+      {"year": 1132, "event": "Cistercian abbey established at Orval", "type": "milestone"},
+      {"year": 1931, "event": "Brewery founded to fund the abbey's reconstruction", "type": "milestone"},
+      {"year": 2013, "event": "Anne-Françoise Pypaert becomes the Trappist world's first female master brewer", "type": "change"}
+    ]
+  },
+  {
+    "id": "asahi-shuzo",
+    "name": "Asahi Shuzo (Dassai)",
+    "type": "producer",
+    "countryId": "japan",
+    "regionId": "yamaguchi",
+    "location": "Osogoe, Iwakuni, Yamaguchi, Japan",
+    "lat": 34.12,
+    "lng": 132.09,
+    "founded": 1948,
+    "parentCompany": null,
+    "masterDistiller": null,
+    "website": "asahishuzo.ne.jp",
+    "description": "Asahi Shuzo is the Yamaguchi sake house behind Dassai — not to be confused with the unrelated Asahi beer company or the Niigata brewery of similar name. It brews junmai daiginjo exclusively, from Yamada Nishiki rice, in a climate-controlled tower kura where salaried staff guided by fermentation data replace the traditional toji master-brewer system, brewing year-round for a global premium market.",
+    "history": "Founded in 1948 in a mountain hamlet outside Iwakuni, Asahi Shuzo was a failing local brewery selling cheap sake when third-generation Hiroshi Sakurai took over in 1984. Facing collapse — and after losing the seasonal toji — he bet the company on ultra-premium junmai daiginjo, launching Dassai in 1990 and the record-setting Dassai 23 in 1992, with employees brewing from data instead of inherited intuition. Year-round brewing in a twelve-storey climate-controlled headquarters followed, along with obsessive investment in Yamada Nishiki rice supply. Son Kazuhiro Sakurai, now president, drove international expansion: Paris's Dassai Joël Robuchon café, a partnership culture with fine dining, and the Dassai Blue brewery in Hyde Park, New York, opened in 2023.",
+    "signatureBottleIds": ["dassai-23"],
+    "facts": [
+      "The company abolished the toji system — brewing is run by salaried employees using daily analytical data.",
+      "It brews only junmai daiginjo, all from Yamada Nishiki rice.",
+      "Dassai Blue in Hyde Park, New York (2023) brews sake steps from the Culinary Institute of America."
+    ],
+    "timeline": [
+      {"year": 1948, "event": "Asahi Shuzo founded near Iwakuni, Yamaguchi", "type": "milestone"},
+      {"year": 1984, "event": "Hiroshi Sakurai takes over the struggling brewery", "type": "change"},
+      {"year": 1990, "event": "Dassai brand launched, junmai daiginjo only", "type": "release"},
+      {"year": 2023, "event": "Dassai Blue brewery opens in New York State", "type": "milestone"}
+    ]
+  },
+  {
+    "id": "hakkaisan-brewery",
+    "name": "Hakkaisan Brewery",
+    "type": "producer",
+    "countryId": "japan",
+    "regionId": "niigata",
+    "location": "Minamiuonuma, Niigata, Japan",
+    "lat": 37.06,
+    "lng": 138.94,
+    "founded": 1922,
+    "parentCompany": null,
+    "masterDistiller": null,
+    "website": "hakkaisan.com",
+    "description": "Hakkaisan brews beneath its namesake sacred mountain in Minamiuonuma, one of Japan's deepest snow countries, and embodies Niigata's tanrei-karakuchi ideal: sake that is light, dry, clean and built for the table. The company treats even its cheapest futsushu to ginjo-grade care, stores sake in a snow-cooled yukimuro warehouse, and has branched into beer, shochu and whisky at its Uonuma no Sato campus.",
+    "history": "Founded in 1922 by the Nagumo family in a village at the foot of Mount Hakkai, the brewery drew on the region's advantages — months of snowpack, the ultra-soft Raiden-sama spring water, and winters cold enough for slow, stable fermentation. Postwar it grew from a local kura into one of Niigata's flagship names as the prefecture's dry, restrained style swept Japan in the 1980s sake booms. Rather than chase aroma competitions, Hakkaisan doubled down on drinkability and food affinity, codifying a philosophy of quality at scale. The third-generation president Jiro Nagumo built the Uonuma no Sato complex, revived snow-storage aging in a 1,000-tonne yukimuro in 2013, and pushed exports, sparkling sake and the Hakkaisan-backed whisky venture.",
+    "signatureBottleIds": ["hakkaisan-junmai-ginjo"],
+    "facts": [
+      "The yukimuro snow room keeps sake at about 3 °C year-round using packed winter snow and no electricity.",
+      "Brewing water comes from the Raiden-sama spring, fed by Mount Hakkai's snowmelt.",
+      "Minamiuonuma is equally famous for Koshihikari rice — Japan's most prized table rice."
+    ],
+    "timeline": [
+      {"year": 1922, "event": "Hakkaisan founded at the foot of Mount Hakkai", "type": "milestone"},
+      {"year": 2013, "event": "Modern yukimuro snow-aging warehouse completed", "type": "milestone"}
+    ]
+  },
+  {
+    "id": "kikusui-brewery",
+    "name": "Kikusui Sake Co.",
+    "type": "producer",
+    "countryId": "japan",
+    "regionId": "niigata",
+    "location": "Shibata, Niigata, Japan",
+    "lat": 37.944,
+    "lng": 139.323,
+    "founded": 1881,
+    "parentCompany": null,
+    "masterDistiller": null,
+    "website": "kikusui-sake.com",
+    "description": "Kikusui, founded in 1881 in Shibata on the Niigata plain, pairs approachable, widely exported premium sake with a streak of genuine innovation — most famously Funaguchi, the first commercially successful unpasteurized nama genshu in a can. Its junmai ginjo is many overseas drinkers' first premium sake, light and softly fruity in the prefecture's clean style.",
+    "history": "The Takasawa family founded Kikusui — 'chrysanthemum water', from a noh legend of longevity-granting chrysanthemum dew — in 1881. The brewery endured floods and fire in its first decades, rebuilding each time, and grew through the twentieth century into one of Niigata's best-known producers. In 1972 it upended convention with Funaguchi Kikusui Ichiban Shibori: raw, undiluted, aggressively fresh sake stabilized in an aluminum can, a category first that remains a konbini icon in its gold livery. The company founded a sake culture research institute in 2004, collecting brewing documents and vessels, and pushed early into the US market, where its junmai ginjo became a sushi-bar standard.",
+    "signatureBottleIds": ["kikusui-junmai-ginjo"],
+    "facts": [
+      "Funaguchi (1972) was the first mass-market canned nama genshu — unpasteurized, undiluted sake.",
+      "The name comes from a legend in which chrysanthemum dew grants long life.",
+      "Kikusui runs its own research institute dedicated to sake culture and brewing history."
+    ],
+    "timeline": [
+      {"year": 1881, "event": "Kikusui founded in Shibata, Niigata", "type": "milestone"},
+      {"year": 1972, "event": "Funaguchi canned nama genshu launched", "type": "release"}
+    ]
+  },
+  {
+    "id": "hitejinro",
+    "name": "HiteJinro",
+    "type": "producer",
+    "countryId": "south-korea",
+    "regionId": null,
+    "location": "Seocho-gu, Seoul, South Korea",
+    "lat": 37.49,
+    "lng": 127.01,
+    "founded": 1924,
+    "parentCompany": null,
+    "masterDistiller": null,
+    "website": "hitejinro.com",
+    "description": "HiteJinro is South Korea's dominant drinks company and the maker of Jinro soju — the best-selling spirit brand on earth by volume. Formed from the union of Jinro (soju, founded 1924) and Hite (beer), it commands the Korean soju market with Chamisul and the retro-styled Jinro Is Back, exports to scores of countries, and effectively defines the green-bottle category worldwide.",
+    "history": "Jinro began in 1924 as the Jincheon Yanghaeng brewery in Yonggang, in today's North Korea, adopting the toad mascot in 1955 after relocating south during the Korean War. Through decades of rationing-era reformulation — distilled rice soju gave way to diluted neutral-spirit soju after 1965 grain laws — Jinro became the national drink's defining maker, launching Chamisul in 1998 with bamboo-charcoal filtration and steadily falling ABVs. After a financial-crisis bankruptcy, beer maker Hite acquired Jinro in 2005; the merged HiteJinro took its current form in 2011. The company has topped Drinks International's global spirits-volume ranking for decades, selling on the order of ninety-plus million cases a year, and rode the Korean-wave export boom with fruit sojus and the revived 1970s-style Jinro toad branding.",
+    "signatureBottleIds": ["jinro-chamisul-fresh"],
+    "facts": [
+      "Jinro has ranked as the world's largest spirit brand by volume for decades running.",
+      "The toad mascot, adopted in 1955, is one of Korea's most recognizable trademarks.",
+      "Korean producers share a standardized green 360 ml bottle to enable industry-wide reuse."
+    ],
+    "timeline": [
+      {"year": 1924, "event": "Jinro founded as Jincheon Yanghaeng in Yonggang", "type": "milestone"},
+      {"year": 1998, "event": "Chamisul launched, resetting the modern soju market", "type": "release"},
+      {"year": 2011, "event": "Merged company takes the HiteJinro name", "type": "change"}
+    ]
+  },
+  {
+    "id": "hwayo",
+    "name": "Hwayo (Kwangjuyo Group)",
+    "type": "distillery",
+    "countryId": "south-korea",
+    "regionId": null,
+    "location": "Yeoju, Gyeonggi Province, South Korea",
+    "lat": 37.3,
+    "lng": 127.64,
+    "founded": 2003,
+    "parentCompany": "Kwangjuyo Group",
+    "masterDistiller": null,
+    "website": "hwayo.com",
+    "description": "Hwayo is Korea's leading premium soju distillery, created by the Kwangjuyo ceramics house to prove that soju could be a craft spirit rather than a commodity. From its Yeoju distillery it makes 100% Korean-rice soju by low-temperature vacuum distillation, rested in breathable onggi earthenware, in strengths from an easy 17% to a cask-like 53% — with the 41 as flagship.",
+    "history": "The Kwangjuyo Group, celebrated for reviving Joseon-dynasty ceramic craft, established the Hwayo venture in 2003 and launched its first spirits in 2005, explicitly reconnecting soju to the distilled rice tradition that South Korea's 1965 grain-rationing laws had all but erased in favor of diluted neutral spirit. The name fuses 'fire' and 'kiln', and the ceramics DNA is literal — maturation happens in onggi jars, and the bottles echo Kwangjuyo tableware. Hwayo built its reputation through Korean fine dining and duty-free retail, added an oak-aged expression (X.Premium) that flirts with whisky territory, and became the reference pour as premium soju and Korean cuisine rose together internationally.",
+    "signatureBottleIds": ["hwayo-41"],
+    "facts": [
+      "Hwayo grew out of Kwangjuyo, a ceramics house — its soju rests in traditional onggi clay jars.",
+      "Vacuum distillation at low temperature preserves delicate rice aromatics.",
+      "The range runs 17%, 25%, 41%, 53% and an oak-aged X.Premium."
+    ],
+    "timeline": [
+      {"year": 2003, "event": "Kwangjuyo Group establishes the Hwayo distillery venture", "type": "milestone"},
+      {"year": 2005, "event": "First Hwayo rice soju released", "type": "release"}
+    ]
+  },
+  {
+    "id": "angry-orchard",
+    "name": "Angry Orchard Cider Company",
+    "type": "producer",
+    "countryId": "united-states",
+    "regionId": null,
+    "location": "Walden, New York, USA (brand of Boston Beer Co.)",
+    "lat": 41.58,
+    "lng": -74.16,
+    "founded": 2011,
+    "parentCompany": "Boston Beer Company",
+    "masterDistiller": null,
+    "website": "angryorchard.com",
+    "description": "Angry Orchard is the brand that rebuilt the American cider market. Launched nationally in 2011 by Boston Beer Company, it took the top spot within two years and has held a commanding share since, led by the semi-sweet Crisp Apple. A 60-acre Hudson Valley orchard and innovation cidery in Walden, New York gives the mass brand a genuine orchard research arm.",
+    "history": "Boston Beer, maker of Samuel Adams, had sold HardCore cider since the 1990s, but reconceived the category for the craft era with Angry Orchard's 2011 national launch — gnarled-tree branding, beer-style packaging and an approachable sweet-tart profile timed perfectly for gluten-free and beyond-beer drinking. By 2013 it was the best-selling US cider, at times holding roughly half the market. In 2015 the company opened the Walden, New York cidery on a historic apple orchard, where cider makers run wild-fermentation, rosé, and single-orchard experiments far from the flagship's mass profile. The brand weathered the seltzer wave that battered cider broadly, remaining the category's anchor.",
+    "signatureBottleIds": ["angry-orchard-crisp"],
+    "facts": [
+      "Became America's best-selling cider within about two years of launch.",
+      "The Walden, NY innovation cidery sits on a 60-acre orchard dating to the early 1900s.",
+      "Bittersweet cider apples from European-style orchards join American culinary fruit in the blends."
+    ],
+    "timeline": [
+      {"year": 2011, "event": "Angry Orchard launches nationally", "type": "release"},
+      {"year": 2013, "event": "Becomes the top-selling cider in the United States", "type": "milestone"},
+      {"year": 2015, "event": "Innovation cidery opens in Walden, New York", "type": "milestone"}
+    ]
+  },
+  {
+    "id": "eric-bordelet",
+    "name": "Eric Bordelet",
+    "type": "producer",
+    "countryId": "france",
+    "regionId": "normandy",
+    "location": "Château de Hauteville, Charchigné, France (Normandy–Maine borderlands)",
+    "lat": 48.4167,
+    "lng": -0.55,
+    "founded": 1992,
+    "parentCompany": null,
+    "masterDistiller": "Eric Bordelet (cider maker)",
+    "website": "ericbordelet.com",
+    "description": "Eric Bordelet is the sommelier-turned-cider-maker whose sidres and poirés from the Normandy–Maine borderlands convinced the wine world to take cider seriously. Farming dozens of heirloom apple and pear varieties organically on schist and granite, he bottles champagne-style cuvées — Sidre Tendre, Sidre Brut, the single-terroir Sydre Argelette and the ancient-tree Poiré Granit — that appear on Michelin-starred lists worldwide.",
+    "history": "Bordelet spent the 1980s as a Paris sommelier, most notably at Alain Passard's three-star L'Arpège, before returning in 1992 to his family's farm at Charchigné on the southern fringe of Normandy, encouraged by winemaker friends (the late Didier Dagueneau among his admirers). He replanted and grafted toward a collection of heirloom cider apples and perry pears — bittersweet, bittersharp, acidic — farming organically with biodynamic leanings and mapping his parcels like crus. His decision to treat cider with a vigneron's vocabulary of terroir, vintage and cuvée hierarchy, plus champagne-format bottles refermenting under cork, created the template for prestige cider. Poiré Granit, from pear trees up to three centuries old on granite soils, became his most celebrated wine-list crossover.",
+    "signatureBottleIds": ["eric-bordelet-sidre-brut"],
+    "facts": [
+      "Bordelet was sommelier at Alain Passard's three-Michelin-star L'Arpège before making cider.",
+      "Poiré Granit comes from perry pear trees up to roughly 300 years old.",
+      "He farms dozens of heirloom apple and pear varieties organically on schist and granite soils."
+    ],
+    "timeline": [
+      {"year": 1992, "event": "Bordelet leaves Paris sommellerie to take over the family orchards at Charchigné", "type": "milestone"},
+      {"year": 1992, "event": "First estate sidre vintages produced", "type": "release"}
+    ]
+  }
+]

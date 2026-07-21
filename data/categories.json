@@ -1,0 +1,1326 @@
+[
+  {
+    "id": "whiskey",
+    "parentId": null,
+    "category": "whiskey",
+    "subcategory": null,
+    "name": "Whiskey",
+    "icon": "🥃",
+    "tagline": "Grain, copper, and oak — the world's most collected family of spirits.",
+    "overview": "Whiskey (spelled whisky in Scotland, Japan, and Canada) is a spirit distilled from a fermented mash of grain — barley, corn, rye, or wheat — and matured, almost always in oak casks. Every producing country writes its own legal definition, but the common thread is distillation below neutrality so that grain character survives, followed by time in wood, which contributes most of the color and much of the flavor. The result spans an enormous range: smoky Islay single malts, sweet corn-driven Kentucky bourbon, spicy rye, creamy triple-distilled Irish blends, and precise Japanese malts. Whiskey anchors classic cocktails such as the old fashioned and the Manhattan, dominates the collector and auction markets among spirits, and serves as the benchmark against which most other aged spirits are judged.",
+    "history": "Distillation reached Ireland and Scotland with monastic and medical practice in the Middle Ages; the first surviving written record is a 1494 Scottish Exchequer Roll granting malt to Friar John Cor 'to make aqua vitae.' Centuries of taxation and smuggling followed, until the UK's 1823 Excise Act made licensed distilling practical. Aeneas Coffey's continuous still (1830) enabled cheap grain whisky and the blended Scotch that conquered world markets — helped when phylloxera devastated Cognac in the 1870s. American distillers built bourbon and rye traditions from the late 1700s; Japan opened its first malt distillery in 1923. After a late-20th-century slump, whiskey has been in global boom since the 2000s.",
+    "production": "Grains are milled and mashed with hot water to convert starch to sugar (barley is malted first; other grains are usually cooked). Yeast ferments the resulting wort or mash into a beer of roughly 6–10% alcohol. Distillation follows in copper pot stills, run in batches for a richer spirit, or continuous column stills for a lighter one; the distiller keeps only the heart of the run. The new-make spirit then matures in oak — new charred barrels for bourbon, mostly ex-bourbon and ex-sherry casks elsewhere — where oxidation, extraction, and evaporation (the 'angel's share') do their slow work. Finally casks are married or blended, proofed with water, and bottled, typically at 40–46% ABV or at cask strength.",
+    "styles": [
+      {
+        "name": "Single malt",
+        "description": "Made from 100% malted barley at a single distillery, usually in pot stills; the template comes from Scotland but is now made worldwide."
+      },
+      {
+        "name": "Blended whisky",
+        "description": "A marriage of richer malt or straight whiskies with lighter grain whisky; blends built the global Scotch, Irish, Canadian, and Japanese industries."
+      },
+      {
+        "name": "Bourbon",
+        "description": "American whiskey from at least 51% corn aged in new charred oak — sweet, rounded, vanilla- and caramel-forward."
+      },
+      {
+        "name": "Rye",
+        "description": "Spicier, drier whiskey led by rye grain; the historic backbone of American cocktail culture."
+      },
+      {
+        "name": "Single pot still",
+        "description": "Ireland's signature: a mixed mash of malted and unmalted barley distilled in pot stills, giving a creamy, peppery character."
+      },
+      {
+        "name": "Grain whisky",
+        "description": "Column-distilled whisky from corn or wheat, light in body; mostly used in blends but occasionally bottled on its own."
+      }
+    ],
+    "funFacts": [
+      "The 1494 Scottish tax record covers enough malt to make around 1,500 bottles — whisky was already being produced at scale.",
+      "The spelling split is largely national habit: Ireland and the United States generally add the 'e', while Scotland, Japan, and Canada omit it — with exceptions like Maker's Mark.",
+      "Scotland loses roughly 2% of its maturing whisky to evaporation each year; in tropical climates the angel's share can exceed 10% annually."
+    ]
+  },
+  {
+    "id": "rum",
+    "parentId": null,
+    "category": "rum",
+    "subcategory": null,
+    "name": "Rum",
+    "icon": "🌴",
+    "tagline": "Sugarcane's spirit — from funky Jamaican pot stills to crisp Spanish-style blends.",
+    "overview": "Rum is distilled from sugarcane — usually molasses, the syrup left over from sugar refining, or fresh-pressed cane juice in the French Caribbean's rhum agricole. Because there is no single global standard, rum shows the widest stylistic spread of any major spirit: unaged whites built for daiquiris, long-aged tropical sippers, high-ester Jamaican pot-still rums with wild fruit-and-funk intensity, dark Demerara rums from wooden stills, and lighter Spanish-style rons. Labeling conventions differ by country — an age statement may mean the youngest component, an average, or a solera — and sweetening after distillation is permitted in some traditions and shunned in others. The Caribbean remains rum's heartland, but it is produced across Latin America, the Indian Ocean, Asia, and beyond.",
+    "history": "Rum emerged in the 17th-century Caribbean, with Barbados usually credited; a 1651 account calls it 'kill-devil' or 'rumbullion.' Its early economics were inseparable from the transatlantic slave trade and plantation sugar, a legacy modern producers increasingly acknowledge. The Royal Navy issued a daily rum ration from the 17th century until 31 July 1970 — 'Black Tot Day.' In the French islands, rhum agricole from fresh cane juice grew after sugar-beet competition collapsed cane sugar prices in the 19th century. The tiki craze of the 1930s–60s made mixing rums famous, and since the 2000s single-estate bottlings, unsweetened aged expressions, and cask-strength releases have driven a premium revival.",
+    "production": "Molasses (or fresh cane juice, which must be fermented quickly before it spoils) is diluted and fermented. Short, clean fermentations with cultured yeast give light rums; long, wild fermentations — sometimes fed with dunder and muck from previous runs, as in Jamaica — build the esters behind 'funk.' Distillation ranges from heavy double-retort pot stills to multi-column plants producing near-neutral spirit; Guyana's Demerara Distillers still runs heritage wooden stills. Aging usually happens in ex-bourbon casks, where tropical heat extracts flavor fast and evaporation can run 6% or more per year. Blending defines most house styles, and some producers add sugar or caramel — disclosure rules vary widely by country.",
+    "styles": [
+      {
+        "name": "Jamaican high-ester",
+        "description": "Long wild fermentations and pot stills yield intensely fruity, funky rums (the character locals call 'hogo'); Hampden and Worthy Park are benchmarks."
+      },
+      {
+        "name": "Rhum agricole",
+        "description": "Distilled from fresh cane juice rather than molasses — grassy and vegetal; Martinique's version has held a French AOC since 1996."
+      },
+      {
+        "name": "Demerara",
+        "description": "Guyanese rums, some from surviving wooden pot and column stills, known for dark, smoky-caramel depth."
+      },
+      {
+        "name": "Spanish-style ron",
+        "description": "Lighter column-distilled rums of Cuba, Puerto Rico, the Dominican Republic, and Latin America; smooth, often solera-aged."
+      },
+      {
+        "name": "Navy and overproof",
+        "description": "High-strength rums (57% and up) descended from naval blends and Caribbean overproof whites like Wray & Nephew."
+      },
+      {
+        "name": "White mixing rum",
+        "description": "Unaged or charcoal-filtered rum built for daiquiris and mojitos; clean but not necessarily neutral."
+      }
+    ],
+    "funFacts": [
+      "'Grog' takes its name from Admiral Edward Vernon — nicknamed 'Old Grogram' for his cloak — who ordered the navy's rum watered down in 1740.",
+      "Martinique's rhum agricole AOC (1996) made it one of the first spirits outside mainland France governed by appellation law.",
+      "The Royal Navy's last daily rum ration was poured on 31 July 1970, still commemorated as Black Tot Day."
+    ]
+  },
+  {
+    "id": "gin",
+    "parentId": null,
+    "category": "gin",
+    "subcategory": null,
+    "name": "Gin",
+    "icon": "🌿",
+    "tagline": "A juniper-led botanical canvas — from Dutch genever to the modern craft boom.",
+    "overview": "Gin is a spirit whose predominant flavor must, by law in both the EU and US, come from juniper berries, layered with supporting botanicals such as coriander seed, angelica root, citrus peel, and orris. It is usually built on a neutral grain spirit and bottled at a minimum of 37.5% ABV in the EU (40% in the US). 'London Dry' describes a method, not a place: all flavor must come from distillation with botanicals, with essentially nothing but water added afterward. Gin's range runs from classic juniper-forward styles through soft Plymouth and sweetened Old Tom to malty Dutch genever and cucumber-and-rose contemporary gins. It is arguably the most cocktail-central of all spirits — the martini, negroni, and gin and tonic are unthinkable without it.",
+    "history": "Juniper spirits began as medicine; the Dutch turned them into genever in the 16th and 17th centuries, and English soldiers fighting alongside the Dutch brought home a taste for 'Dutch courage.' After William of Orange took the English throne in 1688, cheap domestic distilling exploded into the Gin Craze of the early 1700s — London's per-capita consumption became a public health crisis, satirized in Hogarth's 'Gin Lane' (1751) and curbed by successive Gin Acts. Column stills and better neutral spirit produced the drier London style in the 19th century, while gin and tonic spread with quinine-drinking British India. A craft renaissance beginning around 1999–2009 (Hendrick's, Sipsmith) multiplied distilleries worldwide.",
+    "production": "Producers start with neutral spirit — usually grain — and add botanicals by steeping them in the still (maceration), suspending them in baskets so vapor passes through (vapor infusion, as in Carter-head stills), or both. Each botanical can be distilled separately and blended, or everything can go in one run; 'one-shot' gins distill at final recipe strength while 'multi-shot' concentrates are diluted with more neutral spirit. Juniper must remain the dominant note for the product to be gin at all. Distilled gin is then cut to bottling strength; London Dry permits no post-distillation flavoring and only trace sweetening. Compounded 'bathtub' gins skip redistillation and simply infuse or mix essences into spirit.",
+    "styles": [
+      {
+        "name": "London Dry",
+        "description": "The benchmark: juniper-forward, bone dry, all flavor from distillation. Made anywhere in the world despite the name."
+      },
+      {
+        "name": "Plymouth",
+        "description": "A softer, earthier, slightly sweeter style historically tied to the Plymouth distillery in Devon, once protected by geographical indication."
+      },
+      {
+        "name": "Old Tom",
+        "description": "The lightly sweetened 19th-century style that bridges genever and London Dry; essential in a proper Tom Collins or Martinez."
+      },
+      {
+        "name": "Genever",
+        "description": "The Dutch and Belgian ancestor, built on malt wine — richer and grainier, sold as oude (old-style, maltier) or jonge (lighter)."
+      },
+      {
+        "name": "Navy strength",
+        "description": "Bottled at about 57% ABV, the strength at which gunpowder soaked in spirit will still ignite — hence the naval 'proof.'"
+      },
+      {
+        "name": "Contemporary / New Western",
+        "description": "Modern gins that keep juniper legal-minimum prominent while spotlighting other botanicals — cucumber, rose, tea, or foraged local plants."
+      }
+    ],
+    "funFacts": [
+      "Hogarth's 1751 'Gin Lane' engraving was paired with a companion piece, 'Beer Street,' portraying beer as the wholesome alternative.",
+      "Navy strength (57% ABV) comes from the old gunpowder test: spirit at that strength won't stop soaked gunpowder from firing.",
+      "The Philippines is the world's largest gin market by volume, driven by Ginebra San Miguel."
+    ]
+  },
+  {
+    "id": "vodka",
+    "parentId": null,
+    "category": "vodka",
+    "subcategory": null,
+    "name": "Vodka",
+    "icon": "❄️",
+    "tagline": "The pursuit of purity — a clean spirit of grain, potato, or grape built for mixing.",
+    "overview": "Vodka is a clear spirit distilled to near neutrality and diluted with water, bottled at a minimum of 37.5% ABV in the EU and 40% in the US. It can be made from any agricultural raw material — wheat, rye, corn, and potatoes are traditional, but grapes, sugar beets, and even whey appear. Because distillation runs to 95–96% alcohol, differences between vodkas are subtle, expressed more in texture and finish than in overt flavor: wheat tends creamy, rye peppery, potato earthy and full. That neutrality made vodka the dominant cocktail base of the late 20th century, from the Moscow mule to the espresso martini, and the vehicle for endless flavored variants. In its Polish, Russian, and Nordic homelands it is traditionally drunk neat, chilled, with food.",
+    "history": "Poland and Russia both claim vodka's origin, and the argument is centuries old; the Polish word 'wódka' appears in court documents from 1405, with early distillates serving as medicines. Vodka matured into the everyday spirit of the 'vodka belt' from Scandinavia through Russia. The West's conversion came later: the Smirnov family's brand, re-established in exile after the Russian Revolution, reached America in the 1930s, and the Moscow mule's 1940s marketing push plus vodka's mixability drove it past whiskey as the top-selling US spirit by 1976. Absolut's art-driven advertising (from 1979) and Grey Goose (1997) invented the premium and super-premium tiers that still define the category.",
+    "production": "The base — grain, potato, or another sugar or starch source — is fermented, then distilled in continuous column stills to at least 95–96% ABV, at which point little but ethanol and water remains. The spirit is cut to bottling strength with purified water, and most producers filter it, classically through activated charcoal; birch charcoal, quartz sand, and even lava rock feature in various traditions. Some craft distillers deliberately distill fewer times or skip heavy filtration to keep raw-material character. 'Number of distillations' marketing usually counts column passes or plates rather than separate runs. Flavored vodkas are made by maceration or by adding natural extracts after distillation.",
+    "styles": [
+      {
+        "name": "Wheat vodka",
+        "description": "The classic Russian and French base — soft, faintly sweet, with a creamy texture (Grey Goose uses Picardy wheat)."
+      },
+      {
+        "name": "Rye vodka",
+        "description": "Poland's traditional grain, giving a drier, subtly spicy, nutty profile."
+      },
+      {
+        "name": "Potato vodka",
+        "description": "Fuller-bodied and earthy with an oily mouthfeel; historically associated with Poland."
+      },
+      {
+        "name": "Corn vodka",
+        "description": "Slightly sweet and round; Tito's built the modern American craft-vodka boom on corn spirit."
+      },
+      {
+        "name": "Flavored vodka",
+        "description": "From centuries-old Polish żubrówka (bison grass) and Russian pepper vodkas to the citrus and berry wave of the 1990s–2000s."
+      },
+      {
+        "name": "Aquavit",
+        "description": "Vodka's Scandinavian cousin: the same neutral base, but flavored with caraway or dill by law — Iceland's Brennivín is a stark example."
+      }
+    ],
+    "funFacts": [
+      "The word vodka is a diminutive of the Slavic 'voda' — literally 'little water.'",
+      "The story that Dmitri Mendeleev scientifically set vodka at 40% is a myth; the standard came from 19th-century Russian tax convenience, and his dissertation was on ethanol-water chemistry, not recipes.",
+      "Vodka can legally be made from almost anything agricultural — including grapes, milk whey, and honey."
+    ]
+  },
+  {
+    "id": "agave",
+    "parentId": null,
+    "category": "agave",
+    "subcategory": null,
+    "name": "Agave Spirits",
+    "icon": "🌵",
+    "tagline": "Mexico's slow-grown spirits — roasted hearts of a plant that takes a decade to ripen.",
+    "overview": "Agave spirits are distilled from the cooked, fermented hearts (piñas) of agave plants — succulents that need roughly six to thirty years to mature and die after a single harvest, making this the slowest agriculture in the spirits world. The family is led by tequila (blue agave only, under a 1974 denomination of origin) and mezcal (dozens of agave species, famously pit-roasted and smoky), alongside regional cousins raicilla from Jalisco's coast and bacanora from Sonora; sotol, made from the botanically distinct desert spoon plant, is traditionally grouped with them. Flavors run from cooked sweet-potato sweetness and bright pepper to deep earth, minerality, and smoke. Agave spirits have been the fastest-premiumizing category of the 21st century, driven by cocktails, sipping culture, and interest in traditional production.",
+    "history": "Mesoamerican cultures fermented agave sap into pulque millennia before European contact, treating the plant and its drink as sacred. Distillation of cooked agave began in the colonial era — scholars debate whether Filipino stills arriving via Manila galleons or Spanish alembics came first, and some argue for limited pre-Hispanic distillation. The town of Tequila industrialized its 'vino de mezcal,' with the Cuervo family licensed by the Spanish crown in 1795. Mexico protected tequila with a denomination of origin in 1974 and mezcal in 1994. The margarita made tequila a US staple after the mid-20th century, and the 2000s–2020s brought single-village mezcal exports, additive-free debates, and a celebrity-brand gold rush.",
+    "production": "Jimadores harvest mature agaves with a long-bladed coa, shearing the leaves to leave the piña. Cooking converts inulin to fermentable sugars: tequila uses brick ovens or steel autoclaves, mezcal roasts piñas for days in wood-fired earthen pits, and industrial plants may use diffusers that extract sugars from raw fiber. The cooked agave is crushed — by roller mill, by a stone tahona wheel, or by hand mallets — and fermented with cultivated or wild yeasts, sometimes fiber and all. Two distillations are standard, in copper pots, stainless columns, or small clay stills for ancestral mezcal. Most mezcal is bottled young; tequila's reposado, añejo, and extra añejo classes rest in oak.",
+    "styles": [
+      {
+        "name": "Tequila",
+        "description": "Blue Weber agave spirit from Jalisco and four neighboring states, from crisp blancos to long-aged extra añejos."
+      },
+      {
+        "name": "Mezcal",
+        "description": "The broader traditional family, centered on Oaxaca — pit-roasted, often smoky, made from espadín and wild agaves."
+      },
+      {
+        "name": "Raicilla",
+        "description": "Western Jalisco's village spirit, historically sold as 'root stock' to dodge taxes; earned its own DO in 2019."
+      },
+      {
+        "name": "Bacanora",
+        "description": "Sonoran mezcal-style spirit from Agave angustifolia, illegal for much of the 20th century and protected since 2000."
+      },
+      {
+        "name": "Sotol",
+        "description": "Chihuahua and Coahuila's spirit from the desert spoon (Dasylirion) — not a true agave, but part of the same tradition."
+      },
+      {
+        "name": "Pulque",
+        "description": "The undistilled ancestor: fresh agave sap fermented into a lightly alcoholic, viscous drink still sold in pulquerías."
+      }
+    ],
+    "funFacts": [
+      "Agaves are monocarpic — they flower once and die — so spirits agave is harvested just before the plant sends up its towering flower stalk.",
+      "Nectar-feeding bats are key agave pollinators; 'bat-friendly' projects encourage growers to let some plants flower to preserve genetic diversity.",
+      "Because blue agave is propagated from clones, tequila's raw material is a near-monoculture — a long-term disease risk the industry actively debates."
+    ]
+  },
+  {
+    "id": "brandy",
+    "parentId": null,
+    "category": "brandy",
+    "subcategory": null,
+    "name": "Brandy",
+    "icon": "🍇",
+    "tagline": "Distilled wine and orchard fruit — the original luxury spirit.",
+    "overview": "Brandy is spirit distilled from fermented fruit — classically grape wine, as in Cognac, Armagnac, Spanish Brandy de Jerez, and American brandy, but the family also includes pomace brandies like grappa and marc (distilled from pressed grape skins), apple and pear brandies like Calvados, unaged grape pisco, and the clear fruit eaux-de-vie of Central Europe. The name comes from the Dutch 'brandewijn,' burnt wine. Most fine brandy is aged in oak, picking up amber color and flavors of dried fruit, spice, and rancio with decades in cask, though eaux-de-vie and pisco are bottled clear. Brandy was the world's prestige spirit before whisky's rise and remains the base of classic cocktails such as the sidecar and brandy crusta.",
+    "history": "Distillation of wine spread through medieval Europe via alchemical and medical texts, and by the 16th century Dutch traders were concentrating wine into brandewijn so it could survive sea voyages — the trade that built Cognac and Armagnac. Fruit growers from Normandy to the Balkans applied the same stills to apples, pears, and plums. The phylloxera louse devastated French vineyards from the 1870s, collapsing brandy supply and handing world markets to Scotch whisky and gin. Spanish houses matured brandy in sherry soleras at Jerez; Peru and Chile developed (and still dispute) pisco. Today Cognac dominates the luxury tier while craft distillers revive regional fruit-brandy traditions.",
+    "production": "Fruit is fermented dry — fine brandy regions forbid added sugar — and the base wine or fruit wine is distilled either twice in copper pot stills (Cognac's method) or once in small column stills (Armagnac's), with pomace brandies distilled from grape skins and eaux-de-vie from whole-fruit mashes. Distillation strength matters: lower proof keeps more fruit congeners. Aging in oak — new casks first, then older wood — builds color and spice, with humid or dry cellars steering the balance of strength and softness. Blending across ages and vineyards is the norm, with age statements keyed to the youngest component. Clear fruit brandies skip wood entirely to preserve orchard aromatics.",
+    "styles": [
+      {
+        "name": "Cognac",
+        "description": "Double pot-distilled ugni blanc wine from the Charente, aged in French oak; the world's reference luxury brandy."
+      },
+      {
+        "name": "Armagnac",
+        "description": "Gascony's older, earthier cousin — usually single-distilled in a small column still and often sold as single vintages."
+      },
+      {
+        "name": "Calvados",
+        "description": "Norman apple (and pear) brandy distilled from cider and aged in oak."
+      },
+      {
+        "name": "Brandy de Jerez",
+        "description": "Spanish brandy matured in ex-sherry casks through a solera system — dark, raisiny, and generous."
+      },
+      {
+        "name": "Pomace brandy",
+        "description": "Grappa (Italy) and marc (France), distilled from the skins and seeds left after winemaking; fiery when young, graceful when aged."
+      },
+      {
+        "name": "Eau-de-vie and pisco",
+        "description": "Clear, unaged fruit and grape brandies — kirsch, poire Williams, slivovitz, and South America's pisco — prized for pure fruit aromatics."
+      }
+    ],
+    "funFacts": [
+      "The word brandy comes from the Dutch 'brandewijn' — 'burnt (distilled) wine' — coined by the traders who shipped it.",
+      "Peru and Chile have argued for decades over which country is pisco's rightful home; both regulate the name domestically.",
+      "Some poire Williams bottles contain a whole pear, grown inside a bottle tied onto the tree over the orchard season."
+    ]
+  },
+  {
+    "id": "liqueur",
+    "parentId": null,
+    "category": "liqueur",
+    "subcategory": null,
+    "name": "Liqueurs",
+    "icon": "🍯",
+    "tagline": "Sweetened, flavored spirits — the flavor pantry of the cocktail world.",
+    "overview": "Liqueurs are spirits that have been sweetened and flavored — with herbs, fruit, citrus peel, flowers, coffee, nuts, spices, or cream. EU law requires at least 100 grams of sugar per liter; alcohol ranges widely, from gentle 15% cream liqueurs to Green Chartreuse at 55%. Few are drunk in quantity on their own: their role is as modifiers and accents — the orange liqueur in a margarita or sidecar, the maraschino in a last word, the amaro after dinner. The category spans industrial triple secs, single-flavor fruit liqueurs, Italy's vast bitter amaro tradition, and centuries-old monastic recipes whose full formulas remain secret. For bartenders, liqueurs are the spice rack that makes classic cocktails possible.",
+    "history": "Liqueurs descend from medieval monastic and apothecary elixirs, where alcohol preserved medicinal herbs — pleasure arrived later. The Carthusians received their famous manuscript in 1605 and were selling an Elixir Végétal by 1737; Bénédictine, despite its abbey legend, was created commercially by Alexandre Le Grand in 1863. Italy built the amaro tradition through the 19th century — Fernet-Branca (1845), Campari (around 1860), Aperol (1919) — while Curaçao's bitter oranges, via Dutch trade, begat the orange liqueur family. The golden age of cocktails made liqueurs indispensable, and the modern craft revival added new stars like St-Germain elderflower (2007), sometimes called 'bartender's ketchup' for its ubiquity.",
+    "production": "A base spirit — neutral alcohol, brandy, whiskey, or rum — is flavored by maceration (steeping botanicals or fruit), percolation, or distillation of aromatics, and often by a combination. The flavored spirit is then sweetened with sugar, honey, or syrup, sometimes colored, and rested so components marry. Herbal liqueurs may combine dozens of botanicals in guarded proportions; Chartreuse reportedly uses 130. Cream liqueurs like Baileys (launched 1974) emulsify dairy cream with spirit for shelf-stable richness. Quality turns on real versus artificial flavoring, the freshness of fruit and peel, and the balance of sugar against alcohol and bitterness.",
+    "styles": [
+      {
+        "name": "Herbal and monastic",
+        "description": "Complex multi-botanical recipes like Chartreuse and Bénédictine, born as elixirs and still made to secret formulas."
+      },
+      {
+        "name": "Amaro",
+        "description": "Italy's bittersweet family — gentian, wormwood, citrus, and roots — from aperitivo-light Aperol to bracing Fernet."
+      },
+      {
+        "name": "Orange liqueur",
+        "description": "Triple sec, curaçao, and brandy-based Grand Marnier; the most-called liqueur family in classic cocktails."
+      },
+      {
+        "name": "Coffee and cream",
+        "description": "Kahlúa, Mr Black, and Baileys — dessert-leaning liqueurs behind the espresso martini and Irish cream serves."
+      },
+      {
+        "name": "Anise",
+        "description": "Sambuca, pastis, and ouzo's sweetened kin, turning cloudy with water as anethole comes out of solution."
+      },
+      {
+        "name": "Fruit and floral",
+        "description": "Cassis, maraschino, limoncello, and elderflower — single-note liqueurs that carry regional fruit traditions."
+      }
+    ],
+    "funFacts": [
+      "Only two Carthusian monks at a time are said to know the complete Chartreuse formula.",
+      "The color chartreuse is named after the liqueur, not the other way around.",
+      "Amaro simply means 'bitter' in Italian — the category ranges from about 11% to over 40% ABV."
+    ]
+  },
+  {
+    "id": "wine",
+    "parentId": null,
+    "category": "wine",
+    "subcategory": null,
+    "name": "Wine",
+    "icon": "🍷",
+    "tagline": "Fermented grapes, infinite expression — humanity's oldest fine beverage.",
+    "overview": "Wine is the fermented juice of grapes, overwhelmingly the Eurasian species Vitis vinifera, made in styles from bone-dry reds and whites through rosé, sparkling, sweet, and fortified. Alcohol typically runs 11–15% for still wines and up to about 20% fortified. No other drink carries wine's cultural weight: it is agriculture bottled, and the concept of terroir — that soil, site, and season are legible in the glass — underpins appellation systems like France's AOC, Italy's DOC/DOCG, and America's AVAs, which regulate where and how wines are made. Vintage variation, the age-worthiness of great bottles, and a global spectrum from mass-market brands to single-vineyard rarities make wine both an everyday staple and the most collected beverage on earth.",
+    "history": "The earliest chemical evidence of grape wine comes from Georgia around 6000 BC, with clay qvevri vessels still used there today; a complete winery some 6,100 years old was excavated at Armenia's Areni-1 cave. Phoenicians, Greeks, and Romans spread viticulture across the Mediterranean, and medieval monasteries — especially in Burgundy — mapped vineyards with a precision that still defines them. Bordeaux's 1855 classification ranked châteaux for a world's fair and stuck. Phylloxera, an American root louse, nearly destroyed European viticulture from the 1860s until grafting onto resistant American rootstock saved it. The 1976 Judgment of Paris tasting legitimized the New World, and winemaking is now genuinely global.",
+    "production": "Grapes are harvested by hand or machine at a chosen balance of sugar and acid, then crushed and pressed — before fermentation for whites, after skin maceration for reds, with rosé in between. Yeast, wild or cultured, ferments sugars to alcohol in stainless steel, oak, concrete, or clay; most reds also undergo malolactic conversion, softening acidity. Élevage follows — months on lees or in barrels — before fining, filtration, and bottling. Sparkling wines gain bubbles from a second fermentation; fortified wines have grape spirit added; sweet wines rely on noble rot, drying, freezing, or stopped fermentation. The winemaker's thousand small choices, on top of the vineyard's raw material, define style.",
+    "styles": [
+      {
+        "name": "Red",
+        "description": "Fermented on dark skins for color and tannin — from feather-light gamay to dense, cellar-worthy cabernet."
+      },
+      {
+        "name": "White",
+        "description": "Pressed clean and fermented cool; spans racy riesling, mineral chablis, and rich barrel-aged chardonnay."
+      },
+      {
+        "name": "Rosé",
+        "description": "Brief skin contact gives pink color and red-fruit lift with white-wine freshness."
+      },
+      {
+        "name": "Sparkling",
+        "description": "Champagne, cava, prosecco, and pét-nat — wines carbonated by a second (or unfinished first) fermentation."
+      },
+      {
+        "name": "Fortified",
+        "description": "Port, sherry, madeira, and vermouth — wines strengthened with spirit, often oxidative and long-lived."
+      },
+      {
+        "name": "Dessert and skin-contact",
+        "description": "Botrytized sauternes and tokaji, icewine, and amber 'orange' wines fermented on white-grape skins."
+      }
+    ],
+    "funFacts": [
+      "Nearly every European vine today grows grafted onto American rootstock — the fix that ended the 19th-century phylloxera catastrophe.",
+      "Georgia's 8,000-year-old qvevri winemaking method is inscribed on UNESCO's Intangible Cultural Heritage list.",
+      "A standard bottle of wine represents roughly 600 grapes — about one vine's worth in strictly managed vineyards."
+    ]
+  },
+  {
+    "id": "beer",
+    "parentId": null,
+    "category": "beer",
+    "subcategory": null,
+    "name": "Beer",
+    "icon": "🍺",
+    "tagline": "Water, malt, hops, and yeast — the world's most popular alcoholic drink.",
+    "overview": "Beer is brewed from malted grain — chiefly barley, with wheat, rice, corn, and oats in supporting roles — flavored and preserved with hops, and fermented with yeast. It is the most consumed alcoholic beverage on earth and, by many accounts, the third most popular drink overall after water and tea. Most beer sits between 4% and 6% ABV, but the family runs from 0.5% table beers to imperial stouts and Belgian quadrupels above 12%. The great divide is yeast: ales ferment warm and fast with top-fermenting strains, lagers cold and slow with bottom-fermenting ones. Styles span crisp pilsners, bitter IPAs, roasty stouts, spicy Belgian abbey ales, tart lambics, and everything the modern craft movement keeps inventing.",
+    "history": "Beer is as old as agriculture: Mesopotamians sang the Hymn to Ninkasi — brewing goddess and recipe in one — nearly 4,000 years ago, and Egyptian pyramid workers drew beer rations. Medieval European brewing moved from herb mixtures (gruit) to hops, and Bavaria's 1516 Reinheitsgebot limited ingredients to barley, hops, and water (yeast being then unknown). Pilsen's golden lager of 1842 became the world's template. Industrial consolidation homogenized 20th-century beer until American homebrewing was legalized in 1978, seeding a craft revolution — Sierra Nevada's 1980 pale ale, the IPA boom, and thousands of new breweries worldwide, alongside unbroken traditions like Belgium's Trappist abbeys.",
+    "production": "Barley is malted — steeped, germinated, and kilned — to develop enzymes and flavor, from pale malt to black roast. The brewer mashes milled malt with hot water, converting starch to sugar, then drains off sweet wort and boils it with hops: early additions give bitterness, late ones aroma. The cooled wort is fermented — ale yeasts around 15–24°C for days, lager yeasts at 7–13°C followed by weeks of cold conditioning. Beer is then carbonated, filtered or left hazy, and packaged; some styles referment in the bottle (Trappist ales), pour on nitrogen (Guinness), or ferment spontaneously with wild yeast in open coolships (lambic).",
+    "styles": [
+      {
+        "name": "Lager and pilsner",
+        "description": "Cold-fermented, clean, and crisp — from Czech pilsner and German helles to the pale lagers that dominate world volume."
+      },
+      {
+        "name": "Pale ale",
+        "description": "Balanced, hop-accented ales; the American version, built on citrusy Cascade hops, launched craft brewing."
+      },
+      {
+        "name": "IPA",
+        "description": "India pale ale, the craft era's flagship — assertively hopped, from resinous West Coast to soft, juicy New England styles."
+      },
+      {
+        "name": "Stout and porter",
+        "description": "Dark ales built on roasted malt — dry Irish stout, chocolatey porter, and barrel-aged imperial versions."
+      },
+      {
+        "name": "Belgian and Trappist",
+        "description": "Expressive, yeast-driven ales — dubbel, tripel, quadrupel — a handful still brewed inside monastery walls."
+      },
+      {
+        "name": "Sour and wild",
+        "description": "Lambic, gueuze, Flanders reds, and modern kettle sours — beers shaped by wild yeast and bacteria."
+      }
+    ],
+    "funFacts": [
+      "Bavaria's 1516 Reinheitsgebot is often called the world's oldest food-purity regulation still invoked today.",
+      "Weihenstephan in Bavaria claims brewing since 1040, making it the world's oldest continuously operating brewery.",
+      "Only about ten breweries worldwide may use the 'Authentic Trappist Product' logo, and the number shifts as monasteries open and close."
+    ]
+  },
+  {
+    "id": "sake",
+    "parentId": null,
+    "category": "sake",
+    "subcategory": null,
+    "name": "Sake",
+    "icon": "🍶",
+    "tagline": "Japan's rice brew — koji mold, soft water, and polishing-ratio precision.",
+    "overview": "Sake (nihonshu in Japan) is brewed — not distilled — from rice, water, yeast, and koji, rice inoculated with the mold Aspergillus oryzae that converts starch to sugar. Uniquely, saccharification and fermentation happen simultaneously in one tank ('multiple parallel fermentation'), naturally reaching around 17–20% alcohol, the highest of any traditional fermented drink, before most sake is diluted to 15–16% for bottling. Quality grades track the polishing ratio — how much of each rice grain is milled away — and whether a small amount of distiller's alcohol is added: junmai means pure rice; ginjo (rice polished to 60% or less remaining) and daiginjo (50% or less) denote the fragrant premium tiers. Styles run from rich and savory to strikingly fruity, served anywhere from lightly warmed to well chilled.",
+    "history": "Rice brewing in Japan goes back roughly two millennia, refined at imperial courts and temples through the Nara and Heian periods. Edo-era brewers systematized cold-season brewing (kanzukuri) and practiced pasteurization (hi-ire) centuries before Pasteur explained it. Meiji-era science brought pure yeast strains and modern milling, and the 20th century saw mass-market sake with added alcohol during rice shortages, followed by the premium ginjo revolution of the 1980s as vertical milling machines made high polish practical. Domestic consumption has declined for decades, but exports and international prestige keep rising, and in December 2024 UNESCO added traditional sake brewing knowledge to its Intangible Cultural Heritage list.",
+    "production": "Brown rice is polished to the target seimaibuai (the percentage remaining), washed, steeped with stopwatch timing, and steamed. About a fifth becomes koji, cultivated for roughly two days in a warm, humid koji room. Brewers then build a yeast starter (shubo) — quick modern sokujō with added lactic acid, or the slower traditional kimoto and yamahai methods that culture wild lactic bacteria. The main mash (moromi) is built in three staged additions over four days and ferments cold for two to five weeks. The finished mash is pressed, settled, usually charcoal-filtered, pasteurized (or left as fresh nama), rested, diluted, and bottled.",
+    "styles": [
+      {
+        "name": "Junmai",
+        "description": "Pure rice sake with no added alcohol — typically fuller, more savory, and food-friendly."
+      },
+      {
+        "name": "Honjozo",
+        "description": "Rice polished to 70% or less with a small addition of distiller's alcohol, giving a lighter, drier profile that warms well."
+      },
+      {
+        "name": "Ginjo / Junmai Ginjo",
+        "description": "Polished to 60% or less and fermented cold and slow for melon-and-apple aromatics."
+      },
+      {
+        "name": "Daiginjo / Junmai Daiginjo",
+        "description": "The apex grade, polished to 50% or less — aromatic, delicate, and precise; usually served chilled."
+      },
+      {
+        "name": "Nigori",
+        "description": "Coarsely filtered so rice solids remain — cloudy, creamy, often gently sweet."
+      },
+      {
+        "name": "Namazake",
+        "description": "Unpasteurized sake with vivid, fresh flavors; requires refrigeration and is often released seasonally."
+      }
+    ],
+    "funFacts": [
+      "Dassai 23's rice is polished until only 23% of each grain remains — more than three-quarters milled away before brewing begins.",
+      "Breweries hang a cedar ball (sugidama) at the door; it browns over the season, tracking the new sake's maturity.",
+      "Sake ferments to around 20% alcohol naturally — stronger than any wine — thanks to koji feeding yeast sugar continuously."
+    ]
+  },
+  {
+    "id": "soju",
+    "parentId": null,
+    "category": "soju",
+    "subcategory": null,
+    "name": "Soju",
+    "icon": "🫗",
+    "tagline": "Korea's everyday spirit — the best-selling liquor category on Earth.",
+    "overview": "Soju is Korea's clear national spirit, traditionally pot-distilled from rice with a nuruk fermentation starter. The mainstream modern version is 'diluted' soju: high-purity neutral spirit — often from sweet potatoes or tapioca — cut with water to roughly 16–20% ABV and rounded with a trace of sweetener, sold in the iconic green 360 ml bottle and drunk in shared shots alongside food. Jinro's Chamisul is the world's best-selling spirit brand by volume, moving around 100 million nine-liter cases a year. Alongside the cheap-and-social mainstream sit heritage distilled sojus like Andong soju and a premium rice-soju revival (Hwayo, Tokki), plus the fruit-flavored wave that took off in the mid-2010s.",
+    "history": "Distillation reached Korea in the 13th century with the Mongol invasions, via the arak tradition; Andong, a Mongol logistics base, remains soju's heritage capital. For centuries soju was a rice spirit made at home and by regional distillers. The pivotal modern rupture came in 1965, when the Grain Management Law banned distilling rice to protect food supplies — producers switched to diluting imported neutral spirit, creating today's green-bottle style; the ban ended in the 1990s, but the diluted format had won the market. Soju's strength has drifted downward from 25% toward the teens, flavored sojus boomed after 2015, and the Korean wave has carried exports worldwide.",
+    "production": "Traditional soju starts with nuruk, a pressed cake of wheat or rice hosting wild molds, yeasts, and bacteria, which ferments a rice mash; the brew is then distilled once in a sot fitted with a soju-gori clay still head, or in modern pot or vacuum stills that preserve delicate aromas, then rested and bottled at 20–45%. Diluted soju instead begins with continuous-still ethanol of about 95%, which is filtered (often through charcoal), blended with purified water to 16–20%, and finished with tiny amounts of sweeteners such as erythritol or aspartame and flavor compounds for smoothness. Fruit sojus add flavorings and sugar at lower strength.",
+    "styles": [
+      {
+        "name": "Diluted soju (huiseok)",
+        "description": "The green-bottle standard: neutral spirit, water, and a touch of sweetener at 16–20% ABV."
+      },
+      {
+        "name": "Traditional distilled soju",
+        "description": "Single-distilled rice soju made with nuruk — fuller, aromatic, and closer to the pre-1965 heritage."
+      },
+      {
+        "name": "Andong soju",
+        "description": "The famous regional style from Andong, historically stronger (around 45%) and designated an intangible cultural asset."
+      },
+      {
+        "name": "Flavored soju",
+        "description": "Grapefruit, green grape, peach, and yogurt variants around 12–14%, a category that exploded after 2015."
+      },
+      {
+        "name": "Premium rice soju",
+        "description": "Modern craft bottlings like Hwayo, vacuum- or pot-distilled from Korean rice, aimed at sipping and cocktails."
+      }
+    ],
+    "funFacts": [
+      "Jinro regularly tops global rankings as the world's best-selling spirit brand — outselling the biggest vodka and whisky brands combined counts of cases.",
+      "Korean soju makers share a standardized green bottle so empties can be washed and reused across brands.",
+      "Soju etiquette is codified: pour with two hands, never fill your own glass, and turn away from elders when drinking."
+    ]
+  },
+  {
+    "id": "cider",
+    "parentId": null,
+    "category": "cider",
+    "subcategory": null,
+    "name": "Hard Cider",
+    "icon": "🍎",
+    "tagline": "Fermented apples — orchard wine with a brewer's soul.",
+    "overview": "Hard cider is fermented apple juice, typically 4.5–8.5% ABV (perry is its pear-based sibling). True cider apples — bittersweets and bittersharps too tannic to eat — give structure that dessert fruit can't, which is why the great traditions cluster where those orchards grow: England's tannic West Country ciders, Normandy and Brittany's gently sweet keeved cidre, Spain's sharp, wild sidra natural poured from arm's length, and North America's modern clean, fruit-forward styles alongside intense ice cider. Styles run bone-dry and still to champagne-method sparklers. The United Kingdom drinks more cider than any other country, while the US market rebuilt itself almost from zero after 2010.",
+    "history": "Cider came to Britain with the Normans after 1066 and became the West Country's farmhouse staple, with workers partly paid in cider into the 19th century. Colonial America ran on it — orchards outnumbered breweries, and John Adams reportedly began each day with a draft; Johnny Appleseed's seedling apples were cider fruit, not eating fruit. American cider collapsed under German lager immigration, temperance, and Prohibition's orchard destruction, surviving in Europe's unbroken English, French, and Spanish traditions (Asturias and the Basque Country trace theirs to antiquity). Quebec invented modern ice cider in the 1990s, and craft producers revived American cider through the 2010s.",
+    "production": "Apples are milled and pressed, classically blending sharp, sweet, and bittersweet varieties for balance. Fermentation runs cool and slow with wild or cultured yeast, often followed by malolactic softening. The French keeving technique deliberately starves the ferment by trapping pectin and nutrients in a gel, leaving natural sweetness at low alcohol. Ciders finish still, lightly pétillant, or fully sparkling — force-carbonated, tank-conditioned, or bottle-fermented like champagne. Spanish sidra natural skips carbonation entirely and gets its sparkle from the long aerating pour. Ice cider concentrates juice by winter freezing before fermentation; perry follows the same road with tannic perry pears.",
+    "styles": [
+      {
+        "name": "English West Country",
+        "description": "Tannic, full-bodied ciders from bittersweet apples — from polished bottlings to rustic farmhouse scrumpy."
+      },
+      {
+        "name": "French cidre",
+        "description": "Normandy and Brittany's keeved ciders — naturally sweet, low-alcohol, and delicately sparkling; Pays d'Auge holds an AOC."
+      },
+      {
+        "name": "Spanish sidra natural",
+        "description": "Asturian and Basque still cider — sharp, funky, and traditionally poured from a height to aerate it."
+      },
+      {
+        "name": "Modern American",
+        "description": "Clean, sessionable ciders from dessert fruit, plus a craft wing reviving heirloom and foraged apples."
+      },
+      {
+        "name": "Ice cider",
+        "description": "Quebec's contribution: juice concentrated by natural freezing, fermented into an intense, sweet-tart dessert cider."
+      },
+      {
+        "name": "Perry",
+        "description": "The pear equivalent, made from gnarled perry pears; delicate, floral, and increasingly rare."
+      }
+    ],
+    "funFacts": [
+      "Asturias' escanciar pour — bottle overhead, glass at the knee — exists to aerate still sidra into a brief fizz.",
+      "Johnny Appleseed's trees grew from seed and bore bitter fruit, useful mainly for cider — planting orchards also secured frontier land claims.",
+      "'Scrumpy' likely comes from 'scrump,' dialect for windfall or pilfered apples."
+    ]
+  },
+  {
+    "id": "rtd",
+    "parentId": null,
+    "category": "rtd",
+    "subcategory": null,
+    "name": "Ready-to-Drink",
+    "icon": "🥤",
+    "tagline": "Cocktails in a can — seltzers, highballs, and premixed classics.",
+    "overview": "Ready-to-drink (RTD) covers packaged, premixed alcoholic drinks: hard seltzers, canned and bottled cocktails, flavored malt beverages, wine-based spritzes, and Japan's chū-hai highballs. Bases vary — fermented malt or cane sugar keeps US taxes low, while spirit-based RTDs use real vodka, tequila, or whiskey — and ABV typically runs 4–12%. The category exploded after 2016 on hard seltzer's low-calorie, gluten-free pitch, then matured toward genuine spirit quality: vodka-soda brands like High Noon and bartender-grade bottled cocktails such as On The Rocks. Convenience, portion control, and honest labeling drive the appeal; the trade-off is that quality spans from sugary alcopops to drinks that genuinely rival a bar pour.",
+    "history": "Premixed drinks are old — Heublein sold bottled 'club cocktails' as early as 1892 — but the modern arc starts with 1980s wine coolers, which vanished after a 1991 US excise tax hike pushed makers to malt bases. Japan canned the chū-hai (shōchū highball) in the early 1980s, building a huge domestic RTD culture. The 1990s brought alcopops like Smirnoff Ice; 2016 launched the hard seltzer era, and by the 'hard seltzer summer' of 2019 White Claw was rationing shipments. Spirit-based canned cocktails surged during the 2020 pandemic as bars closed, and major distillers, brewers, and even soda companies now compete across the category worldwide.",
+    "production": "Producers choose a base first: fermented malt or sugar brew (taxed like beer in the US), wine, or distilled spirits (taxed higher, but cleaner-tasting). The base is filtered — sugar-brew and malt bases heavily, to near neutrality — then blended with flavors: fruit essences, juices, citrus oils, or full cocktail recipes with bitters and liqueurs. Water, acids, and sometimes sweeteners balance the blend, which is carbonated (still for some cocktails), pasteurized or sterile-filtered for stability, and canned or bottled. Formulation must survive months in aluminum — citrus oils, proteins, and can-liner chemistry all get stability-tested before release.",
+    "styles": [
+      {
+        "name": "Hard seltzer",
+        "description": "Carbonated water with alcohol from fermented cane sugar or malt and light fruit essence — typically ~5% ABV and around 100 calories."
+      },
+      {
+        "name": "Spirit-based canned cocktail",
+        "description": "Real vodka, tequila, gin, or whiskey with mixers — vodka sodas, margaritas, and highballs led by brands like High Noon."
+      },
+      {
+        "name": "Flavored malt beverage",
+        "description": "The alcopop lineage — Smirnoff Ice, Twisted Tea, Mike's Hard — built on filtered malt base for tax efficiency."
+      },
+      {
+        "name": "Chū-hai",
+        "description": "Japan's shōchū-and-soda highballs in endless fruit flavors, canned since the early 1980s and a konbini staple."
+      },
+      {
+        "name": "Bottled premixed classics",
+        "description": "Full-strength cocktails ready to pour — old fashioneds, negronis, and manhattans, sometimes barrel-aged."
+      }
+    ],
+    "funFacts": [
+      "White Claw's 2019 boom outran its supply chain, forcing publicly acknowledged nationwide shortages.",
+      "Chū-hai is short for 'shōchū highball,' though many modern versions use vodka instead.",
+      "US federal excise tax differs sharply by base alcohol, which is why so many RTDs ferment sugar or malt instead of using spirits."
+    ]
+  },
+  {
+    "id": "bourbon",
+    "parentId": "whiskey",
+    "category": "whiskey",
+    "subcategory": "bourbon",
+    "name": "Bourbon",
+    "icon": "🌽",
+    "tagline": "America's native spirit — corn, new charred oak, and Kentucky limestone water.",
+    "overview": "Bourbon is American whiskey defined by federal standards of identity: a mash of at least 51% corn, distilled at no more than 160 proof (80% ABV), entered into charred new oak containers at no more than 125 proof, and bottled at 80 proof or above, with nothing added but water. It can be made anywhere in the United States, though about 95% comes from Kentucky, where limestone-filtered water and swinging seasonal temperatures shaped the tradition. 'Straight' bourbon adds a two-year minimum age and bars all additives. The new-char oak requirement gives bourbon its signature caramel, vanilla, and baking-spice sweetness over corn richness. Congress declared bourbon 'a distinctive product of the United States' in 1964, and it anchors the old fashioned, the mint julep, and the modern whiskey collecting boom.",
+    "history": "Corn whiskey followed Scots-Irish and German settlers into Kentucky in the late 1700s; how it became 'bourbon' — via Bourbon County shipping ports or New Orleans' Bourbon Street — remains genuinely debated. Charred-barrel aging was established by the early 1800s, and Dr. James Crow systematized sour-mash methods in the 1830s. The Bottled-in-Bond Act of 1897, an early consumer-protection law, guaranteed unadulterated whiskey; Prohibition reduced the industry to six medicinal licensees. After mid-century dominance and a 1970s–80s slump against vodka, single-barrel and small-batch bottlings (Blanton's, 1984) relaunched bourbon as a premium spirit, culminating in today's allocated releases, Pappy Van Winkle mania, and record Kentucky tourism.",
+    "production": "Distillers cook a mash of corn with a flavoring grain — rye for spice, wheat for softness — plus malted barley for enzymes, usually adding acidic spent stillage ('sour mash') for consistency. Fermentation takes three to five days; distillation typically runs through a column beer still and a pot-style doubler. The clear distillate enters new white-oak barrels charred to specification (commonly #3 or #4 'alligator' char) at 125 proof or less. In multi-story rickhouses, hot upper floors age whiskey fast and cool lower floors slowly, so barrels are batched across positions or bottled singly. There is no minimum age for bourbon as such; 'straight' requires two years, and bottled-in-bond requires four years, 100 proof, and a single distillery and season.",
+    "styles": [
+      {
+        "name": "Straight bourbon",
+        "description": "Aged at least two years with no coloring or flavoring; under four years, the label must state the age."
+      },
+      {
+        "name": "Bottled-in-Bond",
+        "description": "One distillery, one distilling season, at least four years in a bonded warehouse, bottled at exactly 100 proof under the 1897 Act."
+      },
+      {
+        "name": "Wheated bourbon",
+        "description": "Wheat replaces rye as the flavoring grain for a softer, rounder profile — the Maker's Mark, Weller, and Pappy Van Winkle school."
+      },
+      {
+        "name": "High-rye bourbon",
+        "description": "A rye-heavy mash bill (roughly 20–35%) adds pepper and dryness — Four Roses and Old Grand-Dad territory."
+      },
+      {
+        "name": "Single barrel",
+        "description": "Bottled from one barrel at a time, embracing barrel-to-barrel variation; Blanton's pioneered the format in 1984."
+      },
+      {
+        "name": "Barrel proof",
+        "description": "Bottled uncut at cask strength, often 55–70% ABV — George T. Stagg and Booker's are the archetypes."
+      }
+    ],
+    "funFacts": [
+      "Aging bourbon barrels outnumber Kentucky's human population roughly two to one.",
+      "Because every bourbon barrel is used once, the used casks flow onward to age Scotch, Irish whiskey, rum, and tequila worldwide.",
+      "The 1897 Bottled-in-Bond Act was among America's first consumer-protection laws, predating the Pure Food and Drug Act by nine years."
+    ]
+  },
+  {
+    "id": "rye-whiskey",
+    "parentId": "whiskey",
+    "category": "whiskey",
+    "subcategory": "rye",
+    "name": "Rye Whiskey",
+    "icon": "🌾",
+    "tagline": "The spicier American original — pre-Prohibition king, reborn behind the bar.",
+    "overview": "American rye whiskey mirrors bourbon's rulebook with one swap: the mash must be at least 51% rye grain, with the same limits on distillation proof, barrel entry, and new charred oak, and the same 'straight' designation after two years. Rye trades bourbon's sweetness for pepper, grass, mint, and baking spice — a drier, sharper profile that stands up in cocktails, which is why the Sazerac, Manhattan, and original old fashioned were built on it. Note the trap: in Canada, 'rye' is a legal synonym for Canadian whisky generally and implies no minimum rye content. Once America's dominant whiskey, rye nearly vanished by the 1980s; the craft-cocktail renaissance resurrected it, and it has been the fastest-growing American whiskey segment of the past two decades.",
+    "history": "Rye thrived where the grain did: Pennsylvania and Maryland, where German and Scots-Irish farmer-distillers created the Monongahela and Maryland styles in the 1700s. The 1791 federal excise tax on it sparked the Whiskey Rebellion; George Washington himself ran one of the young republic's largest rye distilleries at Mount Vernon, producing nearly 11,000 gallons in 1799. Rye was America's leading whiskey into Prohibition, which — followed by shifting postwar tastes toward lighter spirits — destroyed it; by the 1990s only a handful of brands like Old Overholt and Wild Turkey Rye survived. Bartenders reviving pre-Prohibition recipes in the 2000s demanded proper rye, and distillers, craft and major alike, rebuilt the category.",
+    "production": "Rye is a notoriously difficult brewing grain — its beta-glucans make mashes viscous, sticky, and prone to foaming — so distillers earn their spice. Mash bills range from 'barely legal' 51% rye softened with corn (the Kentucky style) through the 95/5 rye-to-malted-barley recipe made famous by Indiana's MGP distillery, to 100% and even fully malted rye. Distillation and maturation follow bourbon practice: column-and-doubler distillation, new charred oak, entry at 125 proof or less. Bottled-in-bond ryes such as Rittenhouse remain bartenders' workhorses for their guaranteed 100 proof. Canadian distillers treat rye differently — distilling it separately, often unaged-grain-forward, as a flavoring whisky for blends.",
+    "styles": [
+      {
+        "name": "Straight rye",
+        "description": "The federal standard: 51%+ rye, new charred oak, two years minimum for 'straight' — pepper and spice guaranteed."
+      },
+      {
+        "name": "Monongahela / Pennsylvania",
+        "description": "The historic high-rye style of western Pennsylvania — oily, intense, grain-forward; craft distillers are resurrecting it."
+      },
+      {
+        "name": "Maryland style",
+        "description": "The softer, fruitier historical school of rye, often gentled with more corn; another revival target."
+      },
+      {
+        "name": "Kentucky 'barely legal'",
+        "description": "51–53% rye with generous corn — spice layered over bourbon-like sweetness (Rittenhouse, Sazerac Rye)."
+      },
+      {
+        "name": "95/5 Indiana rye",
+        "description": "MGP of Indiana's 95% rye, 5% malted barley recipe — dill, mint, and pepper — the backbone of many sourced brands like early WhistlePig."
+      },
+      {
+        "name": "100% and malted rye",
+        "description": "Uncompromising all-rye mashes, sometimes fully malted, showing the grain's dark-bread depth (Alberta-style, Old Potrero)."
+      }
+    ],
+    "funFacts": [
+      "George Washington's reconstructed Mount Vernon distillery once again makes rye whiskey to the 1799 recipe.",
+      "A 'rye' label in Canada carries no rye-percentage requirement — tradition, not mash bill, earns the name there.",
+      "The Whiskey Rebellion of 1791–94, America's first great tax revolt, was fought largely by rye distillers."
+    ]
+  },
+  {
+    "id": "american-whiskey",
+    "parentId": "whiskey",
+    "category": "whiskey",
+    "subcategory": "american",
+    "name": "American Whiskey",
+    "icon": "🦅",
+    "tagline": "Beyond bourbon and rye — Tennessee charcoal, new single malts, and corn whiskey.",
+    "overview": "American whiskey beyond bourbon and rye is a family of distinct legal categories. Tennessee whiskey is essentially bourbon made in Tennessee and filtered through sugar-maple charcoal before barreling — the Lincoln County Process, written into state law in 2013 and exemplified by Jack Daniel's. American single malt, formalized by a federal standard that took effect in January 2025, requires 100% malted barley mashed, fermented, and distilled at a single US distillery and aged in oak casks of 700 liters or less. Corn whiskey (at least 80% corn, aged — if at all — in used or uncharred oak) preserves the frontier's unaged tradition, alongside wheat whiskey, malt whiskey, and blended American whiskey. Together they show US distilling's range beyond its two flagship styles.",
+    "history": "Charcoal mellowing emerged in early-1800s Tennessee; modern research restored credit to Nearest Green, an enslaved distiller who taught the young Jack Daniel and whose story Brown-Forman formally embraced in 2016–17. Corn whiskey and moonshine carried Appalachian distilling through Prohibition, while blended American whiskey ruled mid-century bars before brown spirits slumped in the 1970s. The craft-distilling boom that began in the 2000s — Stranahan's, Westland, Balcones — bet on American single malt, and the American Single Malt Whiskey Commission spent nearly a decade lobbying until the TTB finalized the category in December 2024, the first new major US whiskey type in generations.",
+    "production": "Tennessee whiskey is made to bourbon specifications, then the new-make spirit drips through roughly ten feet of packed sugar-maple charcoal over days before entering new charred oak — a subtractive step that strips harsher congeners (George Dickel chills the spirit first; Benjamin Prichard's holds a grandfathered exemption). American single malt mashes only malted barley, is usually pot-distilled, and enjoys wide cask freedom — new charred, used bourbon, ex-wine — since the standard requires oak but not new oak. Corn whiskey may be bottled unaged or rested in used or uncharred barrels, keeping sweet-corn character. Blended American whiskey combines straight whiskey with lighter whiskies or neutral spirit.",
+    "styles": [
+      {
+        "name": "Tennessee whiskey",
+        "description": "Bourbon-spec whiskey made in Tennessee and charcoal-mellowed before aging — Jack Daniel's and George Dickel define it."
+      },
+      {
+        "name": "American single malt",
+        "description": "100% malted barley from one US distillery; a federal category since January 2025, led by pioneers like Westland and Stranahan's."
+      },
+      {
+        "name": "Corn whiskey",
+        "description": "At least 80% corn and no new charred oak — the legal heir of frontier and moonshine traditions."
+      },
+      {
+        "name": "Wheat whiskey",
+        "description": "A 51%+ wheat mash (distinct from wheated bourbon) — soft, bready, and gentle; Bernheim is the standard-bearer."
+      },
+      {
+        "name": "Blended American whiskey",
+        "description": "Straight whiskey blended with lighter whiskey or grain neutral spirit — the smooth mid-century style of Seagram's 7 Crown."
+      }
+    ],
+    "funFacts": [
+      "Jack Daniel learned distilling from Nearest Green, an enslaved man later hired as his first master distiller — now honored by the Uncle Nearest brand.",
+      "American single malt became the first new federally defined US whiskey category in decades when the rule took effect in January 2025.",
+      "Tennessee law lets Benjamin Prichard's skip the charcoal mellowing that every other 'Tennessee whiskey' must perform."
+    ]
+  },
+  {
+    "id": "scotch-whisky",
+    "parentId": "whiskey",
+    "category": "whiskey",
+    "subcategory": "scotch",
+    "name": "Scotch Whisky",
+    "icon": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "tagline": "Five regions, one law — malt, oak, and at least three years in Scottish air.",
+    "overview": "Scotch whisky must be mashed, fermented, distilled, and matured entirely in Scotland, aged at least three years in oak casks no larger than 700 liters, and bottled at 40% ABV or more, with only water and plain caramel coloring (E150a) permitted additions. The Scotch Whisky Regulations 2009 define five categories: single malt (100% malted barley, pot stills, one distillery), single grain, blended malt, blended grain, and blended Scotch — blends still account for the large majority of bottles sold worldwide. Five recognized regions — Speyside, Highlands, Lowlands, Islay, and Campbeltown — offer a stylistic map from orchard-fruited and sherried through grassy to intensely peated and maritime, though distillery character now often outruns regional stereotype.",
+    "history": "The first written record is the 1494 Exchequer Roll noting malt sold to Friar John Cor 'to make aqua vitae.' Centuries of excise duty bred moonshining and smuggling until the 1823 Excise Act made licensed distilling viable — The Glenlivet took an early license in 1824. Aeneas Coffey's continuous still (1830) enabled cheap grain whisky, and Victorian blenders — Walker, Dewar, Buchanan — built global brands, aided when phylloxera crippled French brandy in the 1870s–80s. The Pattison crash of 1898 and 20th-century consolidation followed; Glenfiddich's export push from 1963 created the modern single-malt market. After the 1980s 'whisky loch' closed distilleries like Port Ellen, today more than 140 operate amid a global boom.",
+    "production": "Malted barley — kilned over peat smoke for smoky styles, with phenols measured in ppm — is mashed, and the sugary wort ferments into a wash of about 8% ABV. Copper pot stills distill it twice (occasionally two-and-a-half times at Springbank or three at Auchentoshan), with the still's size and shape sculpting spirit weight. New make fills mostly ex-bourbon barrels and hogsheads or ex-sherry butts, maturing in Scotland for a legal minimum of three years and losing around 2% a year to the angels. Single malts are typically married from many casks — age-stated by the youngest — while master blenders assemble blended Scotch from malt and grain whiskies across dozens of distilleries.",
+    "styles": [
+      {
+        "name": "Speyside",
+        "description": "Nearly half of Scotland's distilleries along the River Spey — elegant, orchard-fruity, and often sherried (Glenfiddich, Macallan)."
+      },
+      {
+        "name": "Highlands",
+        "description": "The largest, most varied region — heathery, honeyed, sometimes coastal or lightly smoky (Glenmorangie, Oban)."
+      },
+      {
+        "name": "Lowlands",
+        "description": "Historically triple-distilled, light, and grassy — the aperitif malts of Auchentoshan and Glenkinchie."
+      },
+      {
+        "name": "Islay",
+        "description": "The peat island: medicinal smoke, iodine, and sea spray from Laphroaig, Ardbeg, and Lagavulin."
+      },
+      {
+        "name": "Campbeltown",
+        "description": "Once 'the whisky capital of the world' with 30+ distilleries, now three — oily, briny, faintly funky malts like Springbank."
+      },
+      {
+        "name": "Single malt vs blended",
+        "description": "Single malts express one distillery's pot-still barley spirit; blended Scotch marries malts with lighter grain whisky for balance and scale — the format that built the industry."
+      }
+    ],
+    "funFacts": [
+      "Around 22 million casks are maturing in Scotland at any moment — several for every resident.",
+      "The 1494 tax record's eight bolls of malt could have made roughly 1,500 bottles of spirit.",
+      "Blends made Scotch global: even today most Scotch sold worldwide is blended, not single malt."
+    ]
+  },
+  {
+    "id": "irish-whiskey",
+    "parentId": "whiskey",
+    "category": "whiskey",
+    "subcategory": "irish",
+    "name": "Irish Whiskey",
+    "icon": "☘️",
+    "tagline": "Triple-distilled smoothness and the single pot still revival.",
+    "overview": "Irish whiskey must be distilled and matured on the island of Ireland (Republic or Northern Ireland) for at least three years in wooden casks of 700 liters or less, bottled at 40% ABV minimum. Its four categories are single malt, single grain, blended — and the style Ireland alone makes: single pot still, distilled from a mash mixing malted with unmalted 'green' barley, which lends a signature creamy texture and peppery spice (Redbreast, Green Spot). Triple distillation is common though not legally required, and peat is rare, yielding a typically smooth, fruity, approachable spirit. Long the world's best-selling whiskey, then nearly extinct by the 1970s, Irish whiskey has been among the fastest-growing spirits categories of the 21st century, with Jameson towering over the field.",
+    "history": "Ireland's claim to whiskey's origin is ancient — the Annals of Clonmacnoise record a chieftain's death in 1405 from 'a surfeit of aqua vitae' — and Bushmills holds a 1608 license granted for the surrounding district. Nineteenth-century Dublin distillers were the world's largest, and the 1785 malt tax pushed them to mix unmalted barley into the mash, accidentally inventing single pot still whiskey. Decline came brutally: rejection of the Coffey still, Irish independence and the Anglo-Irish trade war, and US Prohibition shrank roughly thirty distilleries to two companies, merged as Irish Distillers by 1966 and concentrated at Midleton in 1975. Cooley's 1987 founding began the revival; Ireland has gone from four operating distilleries in 2013 to more than forty today.",
+    "production": "Single pot still whiskey mashes malted and unmalted barley together (regulations require at least 30% of each), the raw barley delivering the oily, spicy mouthfeel the style is famous for; Midleton's enormous pot stills triple-distill it into a notably clean, fruity spirit. Single malts follow the Scottish pattern, in both double- and triple-distilled forms, and column stills produce grain whiskey for blends like Jameson, which marry pot still and grain components. Maturation leans on ex-bourbon barrels with sherry and increasingly varied wine casks; the law's 'wooden casks' wording — rather than strictly oak — has also opened the door to chestnut and other experimental woods.",
+    "styles": [
+      {
+        "name": "Single pot still",
+        "description": "Ireland's own style: mixed malted and unmalted barley in copper pots — creamy, spicy, and revived from near-extinction by Redbreast and the 'Spot' range."
+      },
+      {
+        "name": "Single malt",
+        "description": "All-malted-barley whiskey from one distillery — Bushmills has made it continuously longer than almost anyone."
+      },
+      {
+        "name": "Single grain",
+        "description": "Light column-still whiskey from corn or wheat with malted barley, occasionally bottled solo (Kilbeggan, Teeling)."
+      },
+      {
+        "name": "Blended Irish",
+        "description": "Pot still or malt married with grain whiskey — the smooth, global style of Jameson, Tullamore D.E.W., and Powers."
+      },
+      {
+        "name": "Poitín",
+        "description": "The unaged 'mountain dew' ancestor, illegal from 1661 to 1997 and now an EU-recognized geographical indication."
+      }
+    ],
+    "funFacts": [
+      "The 1405 Annals of Clonmacnoise contain whiskey's grimmest early citation: a chieftain who died of 'a surfeit of aqua vitae.'",
+      "Dublin's 19th-century distillers popularized the 'e' in whiskey partly to distinguish their product from Scotch.",
+      "Bushmills' famous 1608 date refers to a license to distill granted for the whole territory — the company itself was registered in 1784."
+    ]
+  },
+  {
+    "id": "japanese-whisky",
+    "parentId": "whiskey",
+    "category": "whiskey",
+    "subcategory": "japanese",
+    "name": "Japanese Whisky",
+    "icon": "🗾",
+    "tagline": "Scottish craft through a Japanese lens — harmony, highballs, and mizunara oak.",
+    "overview": "Japanese whisky began as a faithful study of Scotch and evolved into its own school, prizing balance, texture, and blending artistry. Because rival houses historically refuse to trade casks, each company builds internal variety — Suntory's Yamazaki alone runs pot stills of wildly different shapes — and blends like Hibiki are the category's crown jewels. Native mizunara oak contributes sandalwood, incense, and coconut notes found nowhere else. For decades 'Japanese whisky' had no legal definition, letting imported bulk whisky wear the label; the Japan Spirits & Liqueurs Makers Association's 2021 standard (fully in force from April 2024) now requires fermentation, distillation, three years' cask maturation, and bottling at 40%+ all within Japan. Global acclaim since the mid-2010s stripped shelves of age-stated stock and made top bottlings allocated treasures.",
+    "history": "Shinjiro Torii opened Japan's first malt whisky distillery at Yamazaki in 1923, hiring Masataka Taketsuru, who had studied chemistry in Glasgow and apprenticed at Scottish distilleries — and returned with a Scottish wife, Rita. Taketsuru left in 1934 to found Nikka at Yoichi on Hokkaido, establishing the Suntory–Nikka rivalry that still defines the industry. Whisky boomed domestically after the war, peaked in the 1980s, then slid for two decades until Suntory's 2008 kaku-highball campaign revived it. International awards — capped when Jim Murray named Yamazaki Sherry Cask 2013 the world's best in his 2015 guide — ignited global demand, shortages, and finally the 2021 labeling standards.",
+    "production": "The model is Scottish — malted barley (much of it imported, some peated), copper pot stills, careful cuts — but deployed for in-house diversity: multiple still shapes, yeast strains, and fermentation regimes at a single site yield dozens of component styles. Grain whisky comes from column and Coffey stills (Nikka's Coffey Grain made the still famous again). Maturation uses ex-bourbon, sherry, and wine casks plus mizunara (Quercus crispula), a porous, leak-prone oak that must grow around two centuries before coopering and rewards patience with temple-incense aromatics. Blenders assemble the results with a precision the industry regards as its defining craft, and the 2021 rules bind the 'Japanese whisky' label to fully domestic production.",
+    "styles": [
+      {
+        "name": "Single malt",
+        "description": "One distillery's pot-still malt — Yamazaki's layered fruit, Hakushu's forest-green freshness, Yoichi's coal-fired muscle."
+      },
+      {
+        "name": "Blended",
+        "description": "The house art form: malt and grain married for seamlessness — Hibiki is the standard-bearer."
+      },
+      {
+        "name": "Coffey grain",
+        "description": "Whisky from vintage Coffey continuous stills, sweet and silky; a Nikka signature."
+      },
+      {
+        "name": "Mizunara cask",
+        "description": "Whisky aged in rare Japanese oak, giving sandalwood, kara incense, and coconut — expensive and leak-prone, but inimitable."
+      },
+      {
+        "name": "Peated Japanese",
+        "description": "Smoky malts in the Islay vein from Yoichi and Hakushu's peated runs — restrained, saline, precise."
+      }
+    ],
+    "funFacts": [
+      "Mizunara oaks are typically around 200 years old before they're large and straight enough to cooper.",
+      "Suntory's 2008 highball campaign — whisky, sparkling water, a lemon twist — is credited with rescuing Japanese whisky's domestic market.",
+      "Before the 2021 standards, some 'Japanese whisky' was legally bulk Scotch or Canadian whisky bottled in Japan; the loophole closed fully in April 2024."
+    ]
+  },
+  {
+    "id": "canadian-whisky",
+    "parentId": "whiskey",
+    "category": "whiskey",
+    "subcategory": "canadian",
+    "name": "Canadian Whisky",
+    "icon": "🍁",
+    "tagline": "The blender's whisky — rye by name, silky by design.",
+    "overview": "Canadian whisky must be mashed, distilled, and aged in Canada for at least three years in small wood (casks of 700 liters or less) and bottled at 40% ABV minimum; caramel and flavoring are permitted, and 'Canadian whisky,' 'Canadian rye whisky,' and 'rye whisky' are legal synonyms regardless of how much rye the mash contains. The defining method is component blending: distillers make a high-proof, near-neutral 'base whisky' and lower-proof, characterful 'flavoring whiskies' from individual grains, age them separately, and blend afterward — yielding the smooth, light, mixable house style that made Canadian whisky North America's volume leader for generations. A famous rule allows up to 9.09% (one-eleventh) of other aged spirits or wine in blends. Serious 100% rye bottlings like Lot No. 40 have led a critical reappraisal.",
+    "history": "Milling towns of Upper Canada birthed the industry — Gooderham & Worts in Toronto, Hiram Walker's 1858 distillery at Walkerville, J.P. Wiser's in Prescott. German and Dutch settlers' taste for rye bread led farmers to add rye to wheat mashes, and 'rye' became the national shorthand. American upheavals were Canada's windfalls: Civil War disruption opened US markets, and Prohibition (1920–33) enriched exporters — legally distilling, however the goods crossed the border — vaulting the Bronfmans' Seagram empire to world dominance. Crown Royal was created for King George VI's 1939 royal train tour. Decades of decline as light spirits faded were followed by a 2010s revival built on premium ryes and single-cask releases.",
+    "production": "Grains are handled separately rather than in one mash bill: corn or wheat is column-distilled above 90% ABV into base whisky and aged in used casks for gentleness, while rye (plus some corn and barley) is distilled at lower proof in pots or short columns into intensely flavored flavoring whisky, often aged in new or ex-bourbon oak. After a minimum three years, blenders combine base and flavoring whiskies — the flavoring share may be modest, which is why many Canadian whiskies taste delicate despite the 'rye' name. The 9.09% allowance permits blending in other spirits or wine, mostly used for export recipes. Alberta Distillers, unusually, mashes 100% rye at industrial scale.",
+    "styles": [
+      {
+        "name": "Classic blended Canadian",
+        "description": "Base-plus-flavoring blends — Crown Royal, Canadian Club, Seagram's VO — light, creamy, built for highballs."
+      },
+      {
+        "name": "100% rye",
+        "description": "All-rye whiskies like Lot No. 40 and Alberta Premium: baking spice, dark bread, and proof that Canada can do intensity."
+      },
+      {
+        "name": "Pot-still flavoring whisky",
+        "description": "The low-proof, high-character component whiskies, occasionally bottled straight for enthusiasts."
+      },
+      {
+        "name": "Premium and cask-strength releases",
+        "description": "Age-stated, single-cask, and barrel-proof bottlings (Crown Royal Northern Harvest, Canadian Club Chronicles) driving the modern reappraisal."
+      }
+    ],
+    "funFacts": [
+      "Crown Royal was blended in 1939 specifically for the first royal tour of Canada by a reigning monarch, King George VI.",
+      "A Canadian 'rye' can legally contain little or no rye grain — the name honors tradition, not a recipe.",
+      "During US Prohibition, Canadian distilleries operated legally and boomed as their whisky mysteriously kept reaching American drinkers."
+    ]
+  },
+  {
+    "id": "world-whisky",
+    "parentId": "whiskey",
+    "category": "whiskey",
+    "subcategory": "world",
+    "name": "World Whisky",
+    "icon": "🌍",
+    "tagline": "Whisky without borders — tropical aging, new grains, and novel terroirs.",
+    "overview": "World whisky gathers everything beyond the five classic nations, and it is where the category experiments hardest. Taiwan's Kavalan proved subtropical heat can mature malt astonishingly fast — evaporation runs around 10% or more a year, so a five-year whisky drinks like one far older. India's Amrut and Paul John did the same in Bangalore and Goa (most domestic 'Indian whisky,' by contrast, is molasses-based and doesn't qualify as whisky in the EU). Tasmania rebooted Australian distilling; Iceland's Eimverk grows its own barley for Flóki and smokes some of it over sheep dung; Sweden, France, England, and Wales all field serious malts. Once curiosities, world whiskies now take top global awards routinely.",
+    "history": "Pioneers worked in isolation: Bill Lark relicensed Tasmanian distilling in 1992, ending a ban dating to 1838; Amrut began its single-malt project in the 1980s and launched in Glasgow in 2004; Penderyn returned whisky-making to Wales in the 2000s; Kavalan was founded in 2005 and bottled its first single malt in 2008, guided by the late maturation scientist Dr. Jim Swan. The tipping points came fast: Sullivans Cove's French Oak was named World's Best Single Malt in 2014, Kavalan's Solist Vinho Barrique took the same title in 2015, and Indian single malts began outselling Scotch brands at home. Today essentially every continent except Antarctica distills whisky.",
+    "production": "The fundamentals are Scottish — malted barley, pot stills, oak — reshaped by climate and ingenuity. Tropical and subtropical warehouses multiply both extraction and evaporation, compressing decades of maturation into a few years at the cost of huge angel's shares. Dr. Jim Swan's STR casks (shaved, toasted, re-charred ex-wine barrels) became the fast-maturation workhorse from Taiwan to Wales. Local raw materials define house styles: India's six-row barley, Iceland's short-season organic barley and geothermal energy, Australia's ex-fortified 'Apera' casks, and smoke sources from sheep dung to native woods replacing peat where none exists.",
+    "styles": [
+      {
+        "name": "Taiwanese",
+        "description": "Kavalan's lush, fast-matured malts — tropical fruit and dense cask influence from ex-wine and sherry wood."
+      },
+      {
+        "name": "Indian single malt",
+        "description": "Amrut, Paul John, and Rampur: jaggery-sweet, spicy malts matured at Indian speed — and a booming domestic premium market."
+      },
+      {
+        "name": "Australian",
+        "description": "Tasmania-led malts in ex-fortified casks — Sullivans Cove, Lark — rich, winey, and small-scale."
+      },
+      {
+        "name": "Nordic and Icelandic",
+        "description": "Mackmyra's Swedish forest-and-juniper experiments and Eimverk's Flóki, a young, grain-forward malt from 100% Icelandic barley."
+      },
+      {
+        "name": "English and Welsh",
+        "description": "The revival wing — Penderyn's Faraday-still malts and the English Whisky Co. and Cotswolds' fast-rising single malts."
+      }
+    ],
+    "funFacts": [
+      "Kavalan went from breaking ground in 2005 to a World's Best Single Malt award within a decade.",
+      "Flóki smokes some of its barley over dried sheep dung — Iceland's traditional fuel in a nearly treeless landscape.",
+      "India consumes about half the world's whisky by volume, though most of it is molasses-based spirit that can't be labeled whisky in Europe."
+    ]
+  },
+  {
+    "id": "tequila",
+    "parentId": "agave",
+    "category": "agave",
+    "subcategory": "tequila",
+    "name": "Tequila",
+    "icon": "🌵",
+    "tagline": "Blue agave under Mexican law — from tahona-crushed blancos to oak-lush extra añejos.",
+    "overview": "Tequila is a denomination-of-origin spirit made only from blue Weber agave (Agave tequilana) in Jalisco and designated municipalities of Guanajuato, Michoacán, Nayarit, and Tamaulipas, regulated by the CRT under Mexico's NOM standard. '100% de agave' tequila must be fermented purely from agave sugars and bottled in Mexico; 'mixto' needs only 51%. Aging defines the classes: blanco (under two months), reposado (two months to a year), añejo (one to three years in casks of 600 liters or less), extra añejo (three-plus years), plus joven blends and charcoal-filtered cristalinos. Terroir splits the map — highland (Los Altos) agaves lean sweet and floral, valley agaves earthy and peppery. Mexican rules allow up to 1% additives without labeling, which sparked the additive-free verification movement.",
+    "history": "Distillation of the region's 'vino de mezcal' grew through the colonial era, and the town of Tequila industrialized it — the Cuervo family received a royal license in 1795, and Cenobio Sauza began exporting north in the 1870s. The margarita's mid-20th-century rise made tequila an American bar staple. Mexico created the tequila denomination of origin in 1974, among the first outside Europe, and the CRT (1994) formalized enforcement. The 1990s–2000s saw 100% agave premiumization led by brands like Patrón and Fortaleza's tahona revival; the 2010s added a celebrity gold rush, cristalinos, boom-and-bust agave price cycles, and heated debate over additives and diffuser-made tequila.",
+    "production": "Blue agaves mature six to eight years before jimadores harvest and trim the piñas. Cooking converts starches to sugar: slow steam in brick ovens, faster autoclaves, or — at industrial scale — diffusers that strip sugars from shredded raw fiber, a shortcut critics say hollows out flavor. Roller mills or a stone tahona wheel crush the cooked agave; fermentation, sometimes with fibers, runs in wood or steel; double distillation (typically copper or stainless) yields spirit around 55%. Aging happens mostly in ex-bourbon barrels. Every bottle carries the NOM number of its distillery, and the CRT audits fields, sugars, and cellars throughout.",
+    "styles": [
+      {
+        "name": "Blanco",
+        "description": "Unaged (or under two months) — the purest read on cooked agave: citrus, pepper, and minerality."
+      },
+      {
+        "name": "Reposado",
+        "description": "Rested two months to a year in oak; vanilla and soft spice folded over agave."
+      },
+      {
+        "name": "Añejo",
+        "description": "One to three years in small casks — caramel, dried fruit, and bourbon-adjacent depth."
+      },
+      {
+        "name": "Extra añejo",
+        "description": "Three years or more, a class created in 2006; tequila's answer to XO cognac."
+      },
+      {
+        "name": "Cristalino",
+        "description": "Aged tequila charcoal-filtered back to clarity — sweet, polished, and popular in Mexico's luxury market."
+      },
+      {
+        "name": "Mixto",
+        "description": "The 51% agave minimum, usually bottled young for shots and well drinks; what '100% de agave' labels exist to disavow."
+      }
+    ],
+    "funFacts": [
+      "The four-digit NOM number on every label identifies the actual distillery — many brands share the same stills.",
+      "The agave landscape around Tequila and its historic distilleries is a UNESCO World Heritage site (2006).",
+      "Because blue agave takes the better part of a decade to mature, the industry swings through recurring shortage-and-glut price cycles."
+    ]
+  },
+  {
+    "id": "mezcal",
+    "parentId": "agave",
+    "category": "agave",
+    "subcategory": "mezcal",
+    "name": "Mezcal",
+    "icon": "🔥",
+    "tagline": "Smoke, clay, and wild agaves — Oaxaca's village spirit gone global.",
+    "overview": "Mezcal is the broad traditional family of Mexican agave spirits, protected by a 1994 denomination of origin now spanning nine-plus states, with Oaxaca producing the overwhelming majority. Unlike tequila's single species, mezcal may use dozens of permitted agaves: cultivated espadín accounts for most production, while wild and semi-wild tobalá, tepeztate, arroqueño, and madrecuixe command cult prices. Its signature smokiness comes from roasting piñas in wood-fired earthen pits, though smoke is a byproduct, not the point — species, village, water, and the mezcalero's hand matter more. The NOM-070 standard grades production technology: industrial 'Mezcal,' traditional 'Artesanal,' and clay-pot 'Ancestral.' Most is bottled joven (unaged), sipped neat — traditionally with orange slices and sal de gusano.",
+    "history": "The word comes from the Nahuatl mexcalli, 'oven-cooked agave.' Whether distillation predates the conquest is a live scholarly debate — Filipino-style stills arrived on colonial Pacific trade routes in the 16th–17th centuries, and clay-pot traditions may be older. For centuries mezcal was village economy and ritual, periodically taxed or banned, and often clandestine. The famous worm was a 1940s–50s marketing flourish credited to bottler Jacobo Lozano Páez. The 1994 DO and 2016's NOM-070 categories formalized the industry just as single-village bottlings — pioneered by Del Maguey from 1995 — converted bartenders worldwide, bringing export booms and hard questions about agave sustainability and who profits.",
+    "production": "Agave hearts — espadín after seven-odd years, tepeztate after up to three decades — are roasted for days in conical earthen pits over hot river stones and hardwood, caramelizing sugars and kissing them with smoke. The cooked piñas are crushed by horse-drawn tahona, mechanical mill, or hand mallet, then fermented open to wild yeasts in wooden tinas, rawhide, or clay. Distillation runs twice through small copper alembics (artesanal) or clay pots with bamboo fittings (ancestral) at family palenques. Mezcaleros adjust the final proof by taste and by reading the perlas — the bead of bubbles a pour raises — rather than by lab instruments alone.",
+    "styles": [
+      {
+        "name": "Espadín",
+        "description": "The workhorse cultivated agave behind most mezcal — generous, fruity, and the best value in the category."
+      },
+      {
+        "name": "Tobalá",
+        "description": "A small, prized wild mountain agave giving perfumed, delicate spirit in tiny yields."
+      },
+      {
+        "name": "Tepeztate",
+        "description": "A cliff-growing wild agave that can take 25–35 years to mature — wildly vegetal, peppery, and rare."
+      },
+      {
+        "name": "Ensamble",
+        "description": "Two or more agave species roasted and fermented together into a single, layered spirit."
+      },
+      {
+        "name": "Pechuga",
+        "description": "Mezcal redistilled with fruits, spices, and traditionally a raw chicken or turkey breast hung in the still — a celebration spirit."
+      },
+      {
+        "name": "Ancestral clay-pot",
+        "description": "Distilled in clay ollas as in centuries past — earthy, textural, and NOM-070's most traditional class."
+      }
+    ],
+    "funFacts": [
+      "Mezcaleros judge proof by the perlas — the size and persistence of bubbles when spirit is poured — a technique older than hydrometers.",
+      "The bottle worm (a gusano moth larva that feeds on agave) was pure mid-century marketing, and quality producers skip it.",
+      "An Oaxacan proverb covers all cases: 'Para todo mal, mezcal; para todo bien, también' — for everything bad, mezcal; for everything good, the same."
+    ]
+  },
+  {
+    "id": "cognac",
+    "parentId": "brandy",
+    "category": "brandy",
+    "subcategory": "cognac",
+    "name": "Cognac",
+    "icon": "🥂",
+    "tagline": "Twice-distilled white wine from Charente chalk — the world's benchmark brandy.",
+    "overview": "Cognac is AOC grape brandy from a delimited region around the town of Cognac in western France, distilled twice in Charentais copper pot stills and aged in French oak. Ugni blanc supplies roughly 98% of the base wine, prized for high acid and low alcohol. Six crus ring the town: Grande Champagne and Petite Champagne on chalky soils yield the finest, longest-aging eaux-de-vie ('Fine Champagne' blends the two with at least half Grande Champagne), followed by Borderies, Fins Bois, Bons Bois, and Bois Ordinaires. Age statements count the youngest component: VS at least two years, VSOP four, Napoléon six, XO ten (raised from six in 2018), and XXO fourteen. About 98% of cognac is exported, and four big houses dominate global sales.",
+    "history": "Dutch traders distilling Charente wine for shipboard durability created 'brandwijn' in the 16th–17th centuries; double distillation and cask aging refined it into cognac, and the great houses arrived in the 1700s — Martell (1715), Rémy Martin (1724), Hennessy (1765). The 19th century brought golden-age exports, then catastrophe: phylloxera arrived in the 1870s and destroyed the vineyards, which were replanted with ugni blanc grafted on American rootstock, displacing folle blanche. The region was legally delimited in 1909 and the AOC framework followed in the 1930s. Postwar, cognac cemented itself as a global luxury; American hip-hop culture revitalized US sales from the 1990s, and Asian markets drive the modern boom-bust cycles.",
+    "production": "High-acid ugni blanc wine of around 9% ABV, unsulfured, is distilled twice by tradition and law in copper Charentais alembics: a first pass yields brouillis around 30%, and the second — the bonne chauffe, with head and tail cuts — a clear eau-de-vie near 70%. Distillation must finish by March 31 after harvest. The spirit ages in 270–450-liter Limousin or Tronçais oak, new wood first for extraction, older casks for patience; humid cellars soften, dry cellars strengthen. Cellar masters (maîtres de chai) blend dozens or hundreds of eaux-de-vie across ages and crus, easing proof down gradually toward 40%, with the oldest reserves resting in a cellar traditionally called le paradis.",
+    "styles": [
+      {
+        "name": "VS",
+        "description": "Youngest component at least two years old — bright, grapey, and the workhorse for mixing (Hennessy V.S leads the world)."
+      },
+      {
+        "name": "VSOP",
+        "description": "'Very Superior Old Pale,' minimum four years — rounder, with vanilla and dried fruit; the category's center of gravity."
+      },
+      {
+        "name": "XO",
+        "description": "Minimum ten years since 2018 — rancio, spice, and polish; the prestige tier for most houses."
+      },
+      {
+        "name": "XXO and Hors d'âge",
+        "description": "Fourteen years and (usually far) beyond — decades-old blends where rancio, leather, and exotic fruit take over."
+      },
+      {
+        "name": "Fine Champagne",
+        "description": "A blend exclusively of Grande and Petite Champagne eaux-de-vie, at least 50% Grande — Rémy Martin's signature."
+      },
+      {
+        "name": "Single-estate and vintage",
+        "description": "Grower cognacs and rare dated bottlings that trade house consistency for terroir and year character."
+      }
+    ],
+    "funFacts": [
+      "The black fungus staining Cognac's cellar walls, Baudoinia compniacensis, literally feeds on the angel's share of evaporating spirit.",
+      "Cognac stops aging the moment it's bottled — a 'younger' XO kept 50 years in glass is still an XO.",
+      "The 'Champagne' in Grande and Petite Champagne shares a root with the sparkling-wine region: both describe open chalky country."
+    ]
+  },
+  {
+    "id": "armagnac",
+    "parentId": "brandy",
+    "category": "brandy",
+    "subcategory": "armagnac",
+    "name": "Armagnac",
+    "icon": "🍂",
+    "tagline": "Gascony's rustic elder — single-distilled, vintage-dated, farm-scale.",
+    "overview": "Armagnac is Gascony's AOC grape brandy and France's oldest documented spirit, made in three zones southeast of Bordeaux: Bas-Armagnac, whose sandy 'sables fauves' soils give the most refined, fruit-driven eaux-de-vie; clay-limestone Ténarèze, structured and slow to mature; and the marginal Haut-Armagnac. Permitted grapes include ugni blanc, folle blanche, colombard, and baco 22A — a hybrid, uniquely tolerated in French appellation law. The hallmark is single continuous distillation to just 52–60% ABV in the small alambic armagnacais, which keeps far more congeners than cognac's double distillation: armagnac is the earthier, more rustic cousin, and single-vintage bottlings are a specialty. Production remains a fraction of cognac's, spread across hundreds of small family estates.",
+    "history": "A 1310 text by Vital du Four, prior of Eauze, credited the region's 'aygue ardente' with forty virtues — the earliest substantial French account of a distilled spirit, predating cognac's rise by centuries. Armagnac traded down Gascony's rivers to Bordeaux for export, always overshadowed by its coastal rival's shipping advantage. The distinctive small column still spread through the 19th century and was consecrated in regulation; phylloxera devastated the vineyards in the 1870s, after which baco 22A was bred for the sandy soils. The AOC dates to 1936, double distillation was re-authorized in 1972, and the unaged Blanche d'Armagnac gained its own AOC in 2005. It remains defiantly artisan.",
+    "production": "White wine of roughly 8.5–10.5% ABV, made without sulfur, passes once through the alambic armagnacais — a small copper continuous still — emerging at only 52–60% ABV, dense with fruit and congeners that demand long aging (some producers use pot stills, permitted again since 1972). The spirit matures in 400–420-liter casks, traditionally of local Gascon oak, moving from new to older wood; many estates bottle single vintages at natural cask strength (brut de fût) after decades. Mobile stills — alambics ambulants — still tour from farm to farm each winter, distilling for growers without their own equipment. Blends carry VS (about one to three years), VSOP (four-plus), and XO/Hors d'âge (ten-plus) designations.",
+    "styles": [
+      {
+        "name": "Bas-Armagnac",
+        "description": "The westernmost and most prestigious zone — sandy soils, delicate plum-and-prune fruit, the source of most top single estates."
+      },
+      {
+        "name": "Armagnac-Ténarèze",
+        "description": "Bolder, more tannic eaux-de-vie from clay-limestone that reward very long aging."
+      },
+      {
+        "name": "Vintage (millésime)",
+        "description": "Single-year armagnacs, often bottled at cask strength after decades — a birth-year gift tradition cognac rarely matches."
+      },
+      {
+        "name": "XO and Hors d'âge",
+        "description": "Blends at least ten years old, typically far older — rancio, orange peel, and forest-floor depth."
+      },
+      {
+        "name": "Blanche d'Armagnac",
+        "description": "The unaged white eau-de-vie, AOC since 2005 — floral, grapey, and increasingly a cocktail spirit."
+      }
+    ],
+    "funFacts": [
+      "Vital du Four's 1310 list of armagnac's forty virtues includes sharpening wit and 'recalling the forgotten to memory.'",
+      "Traveling alambics ambulants still crisscross Gascony each winter, distilling in farmyards as they have for two centuries.",
+      "Baco 22A is the only hybrid grape sanctioned in a French appellation — bred after phylloxera specifically for Bas-Armagnac's sands."
+    ]
+  },
+  {
+    "id": "calvados",
+    "parentId": "brandy",
+    "category": "brandy",
+    "subcategory": "calvados",
+    "name": "Calvados",
+    "icon": "🍏",
+    "tagline": "Normandy's apple brandy — orchards, cider, and oak instead of vines.",
+    "overview": "Calvados is Normandy's AOC apple brandy — distilled cider, aged in oak, in a region too cool for wine grapes. Three appellations structure it: the broad AOC Calvados (most production, typically single column distillation, minimum two years in oak); Calvados Pays d'Auge, the heartland east of Caen, which requires double distillation in pot stills; and Calvados Domfrontais, which must contain at least 30% perry pears and age three years, reflecting its pear-orchard country (AOC 1997). Producers blend dozens of authorized apple varieties — bitter, bittersweet, sweet, and sharp, most inedible off the tree — for structured cider worth distilling. Expect baked apple, orchard funk, and warming spice deepening with age from Fine (two years) through VO/VSOP (four) to XO and Hors d'âge (six and beyond).",
+    "history": "Gilles de Gouberville's estate diary records distilling Norman cider in 1553, and a distillers' guild followed in 1606. The name comes from the Calvados département, created in 1790. When phylloxera throttled France's wine and brandy supply in the late 1800s, apple brandy filled the gap nationally, and soldiers' rations spread the taste during the First World War. The AOC arrived in 1942, during occupation. D-Day put the region at history's center — Allied troops fought through the orchards and met the local spirit. Long a farmhouse digestif, calvados has been rediscovered through cocktail classics like the Jack Rose and by chefs reviving Norman gastronomy.",
+    "production": "Cider apples are harvested and pressed in autumn, the juice fermenting slowly on wild yeasts for at least six weeks — often through winter — to a dry cider of 4.5–6% ABV (Domfrontais mashes include at least 30% perry pears). Pays d'Auge producers distill twice in copper pot stills for a finer, rounder spirit; elsewhere a single pass through a column still preserves brighter fruit. The brandy ages a legal minimum of two years (three for Domfrontais) in French oak, often large old tuns that season rather than dominate; blenders assemble across ages, while some estates release single vintages. Farm producers (fermier), cooperatives, and grand houses coexist.",
+    "styles": [
+      {
+        "name": "Pays d'Auge",
+        "description": "The prestige appellation: double pot distillation from the chalky eastern heartland — elegant, apple-pure, age-worthy."
+      },
+      {
+        "name": "Domfrontais",
+        "description": "Pear-rich calvados (30%+ perry pears) with a lighter, floral lift; column-distilled, minimum three years."
+      },
+      {
+        "name": "Fine / young calvados",
+        "description": "Two-to-three-year bottlings with fresh orchard bite — the mixing grade behind the Calvados highball and Jack Rose."
+      },
+      {
+        "name": "XO and Hors d'âge",
+        "description": "Six years minimum and often decades — baked apple tarte tatin, spice, and rancio."
+      },
+      {
+        "name": "Vintage (millésime)",
+        "description": "Single-harvest bottlings from estates like Christian Drouin and Lemorton, tracking one autumn's orchards across decades."
+      }
+    ],
+    "funFacts": [
+      "The trou normand — a mid-feast shot of calvados to 'make a hole' for the next course — survives, now often as calvados over apple sorbet.",
+      "Hundreds of authorized cider-apple varieties go into calvados, most too bitter or tannic to eat.",
+      "Perry pear trees in the Domfrontais can bear fruit for two centuries or more — some working orchards predate the French Revolution."
+    ]
+  },
+  {
+    "id": "red-wine",
+    "parentId": "wine",
+    "category": "wine",
+    "subcategory": "red",
+    "name": "Red Wine",
+    "icon": "🍷",
+    "tagline": "Skins-on fermentation — color, tannin, and cellar-worthy structure.",
+    "overview": "Red wine is fermented in contact with dark grape skins, which surrender anthocyanin pigments and tannins — the flesh of nearly every wine grape is colorless, so maceration is what makes red wine red. Tannin gives the drying grip that structures reds and lets the best of them age for decades, while styles span an enormous arc: pale, perfumed pinot noir and gamay; mid-weight merlot, sangiovese, and tempranillo; and dense cabernet sauvignon, syrah, and malbec. Most reds undergo malolactic conversion, softening acid, and many see oak. Serve them cooler than modern rooms — around 16–18°C — since 'room temperature' advice predates central heating. Tannin's affinity for protein underwrites the classic pairing of red wine with meat and hard cheese.",
+    "history": "Skin-fermented wine is the ancient default — the qvevri wines of Georgia and amphora wines of Greece and Rome were effectively what we would call reds and ambers. Medieval Bordeaux built England's claret trade after Eleanor of Aquitaine's 1152 marriage; Burgundy's monks mapped pinot noir crus vineyard by vineyard. The 1855 classification ranked Médoc châteaux for Napoleon III's Paris Exposition and has barely changed since. After phylloxera and reconstruction, the modern era brought technical control, the 1976 Judgment of Paris — where Stag's Leap's 1973 cabernet beat first-growth Bordeaux blind — the extraction-heavy 1990s, and today's swing back toward freshness, lighter touch, and cooler climates.",
+    "production": "Grapes are destemmed (or kept partly whole-cluster for aromatics and structure) and crushed; fermentation on skins runs warm — roughly 20–32°C — for five days to several weeks, with the floating cap of skins punched down or pumped over to manage extraction. The wine is pressed off, completes malolactic conversion, and matures in tank, concrete, or oak barrels (new oak adding spice and toast) for six months to several years. Carbonic maceration — whole berries fermenting internally under CO2, as in Beaujolais — yields juicy, low-tannin reds for early drinking. Fining and filtration are optional finishing choices; many age-worthy reds throw natural sediment instead.",
+    "styles": [
+      {
+        "name": "Light-bodied",
+        "description": "Pinot noir, gamay, and trousseau — pale, aromatic, low-tannin reds that reward a slight chill."
+      },
+      {
+        "name": "Medium-bodied",
+        "description": "Merlot, sangiovese, tempranillo, and cabernet franc — the food-wine middleweight class from Chianti to Rioja."
+      },
+      {
+        "name": "Full-bodied",
+        "description": "Cabernet sauvignon, syrah/shiraz, malbec, and zinfandel — dark fruit, firm tannin, and oak-framed power."
+      },
+      {
+        "name": "Carbonic and nouveau",
+        "description": "Whole-berry ferments like Beaujolais Nouveau — bright, banana-and-berry reds released within weeks of harvest."
+      },
+      {
+        "name": "Age-worthy classics",
+        "description": "Barolo, grand cru Bordeaux and Burgundy, Rioja Gran Reserva, Brunello — wines built on tannin and acid to evolve for decades."
+      }
+    ],
+    "funFacts": [
+      "Almost all red-wine color comes from skins: press a pinot noir immediately and you get white juice — the trick behind blanc de noirs champagne.",
+      "At the 1976 Judgment of Paris, French judges blind-ranked Californian reds and whites above storied French labels, upending wine's hierarchy.",
+      "The 1855 Bordeaux classification has seen essentially one major promotion since it was written: Mouton Rothschild's elevation in 1973."
+    ]
+  },
+  {
+    "id": "white-wine",
+    "parentId": "wine",
+    "category": "wine",
+    "subcategory": "white",
+    "name": "White Wine",
+    "icon": "🥂",
+    "tagline": "Pressed clean, fermented cool — acidity, aroma, and precision.",
+    "overview": "White wine is made by pressing juice off the skins before fermentation and fermenting it cool — typically 12–22°C — to preserve delicate esters and aromatics. Because grape flesh is colorless, whites can even be made from red grapes (blanc de noirs). Acidity is the style's spine, carrying a spectrum from aromatic riesling, sauvignon blanc, and gewürztraminer through neutral, mineral chablis, muscadet, and pinot grigio to rich, barrel-fermented chardonnay worked on its lees. Sweet whites — botrytized sauternes and tokaji, late-harvest and icewines — are among the longest-lived wines of all, and great German riesling and white Burgundy age for decades. Serving temperature runs roughly 7–13°C, colder for lighter wines, warmer for rich ones.",
+    "history": "Whites were prized in antiquity and codified by medieval monks — Corton-Charlemagne's white vines come with a legend that Charlemagne's wife wanted his beard unstained. Hungary's Tokaj region classified its sweet-wine vineyards by royal decree in 1737, generations before Bordeaux's 1855 ranking. The transformative modern development was temperature control: stainless-steel tanks and refrigeration from the 1960s let warm regions make fresh, fruit-driven whites, and Marlborough sauvignon blanc — first planted in 1973, propelled by Cloudy Bay from 1985 — became the template for a New World aromatic style. Since then the pendulum has swung between opulent oaked chardonnay and today's leaner, earlier-picked precision.",
+    "production": "Grapes are pressed quickly and gently — whole-cluster for the finest sparkling and still whites — and the juice settles clear before fermenting cool in stainless steel (for fruit purity) or barrel (for texture and integration). Malolactic conversion is a stylistic switch: encouraged for creamy, buttery chardonnay, blocked to keep riesling and sauvignon zesty. Lees aging and stirring (bâtonnage) build weight, as in muscadet sur lie. Extended skin contact turns white grapes into amber 'orange' wine. Sweetness comes from noble rot concentrating sugars (sauternes, tokaji aszú), berries frozen on the vine for icewine, dried grapes, or arrested fermentation; sulfur and oxygen management guard the fragile aromatics throughout.",
+    "styles": [
+      {
+        "name": "Aromatic",
+        "description": "Riesling, sauvignon blanc, gewürztraminer, and muscat — perfume-forward wines from cool sites, dry to lusciously sweet."
+      },
+      {
+        "name": "Neutral and mineral",
+        "description": "Chablis, muscadet, pinot grigio, and assyrtiko — quiet grapes that transmit site, salinity, and freshness."
+      },
+      {
+        "name": "Rich and oaked",
+        "description": "Barrel-fermented chardonnay, viognier, and white Rioja — round, creamy wines built on lees work and wood."
+      },
+      {
+        "name": "Sweet and botrytized",
+        "description": "Sauternes, Tokaji aszú, icewine, and beerenauslese — concentrated nectar wines balanced by piercing acidity."
+      },
+      {
+        "name": "Skin-contact (orange)",
+        "description": "Whites fermented on skins for days or months — amber, tannic, and ancient, revived from Georgian and Friulian tradition."
+      }
+    ],
+    "funFacts": [
+      "Tokaj's 1737 royal vineyard classification predates Bordeaux's famous 1855 ranking by more than a century.",
+      "Icewine grapes are picked frozen solid — legally at −7°C or below in Germany, −8°C in Canada — often in the middle of the night.",
+      "Château d'Yquem's yields are so low that each vine is said to produce roughly one glass of wine per year."
+    ]
+  },
+  {
+    "id": "rose-wine",
+    "parentId": "wine",
+    "category": "wine",
+    "subcategory": "rose",
+    "name": "Rosé",
+    "icon": "🌸",
+    "tagline": "Brief skin contact, pale glory — from Provence pallor to Tavel power.",
+    "overview": "Rosé takes its pink from red grapes handled gently: either pressed directly for the palest wines, macerated on skins for just a few hours, or bled off a red fermentation (saignée), which makes rosé while concentrating the remaining red. Blending finished red and white wine is prohibited for still rosé in the EU — champagne rosé is the sanctioned exception. Provence sets the global benchmark: bone-dry, pale salmon, grenache- and cinsault-based, built for the table and the terrace. Tavel in the Rhône makes only rosé — dark, structured, and gastronomic — while California's off-dry white zinfandel remains a category of its own. Most rosé is drunk young and cold, though Tavel and Bandol can age.",
+    "history": "Much ancient and medieval wine was effectively rosé — short macerations and field pressing made light 'clairet,' the root of England's claret. Provence, planted by Greek settlers around 600 BC, has leaned pink for most of its history. The modern story has two arcs: sweet postwar exports like Mateus and Lancers, then Sutter Home's 1975 stuck fermentation, which accidentally created sweet white zinfandel and incidentally preserved California's old zinfandel vines. The 2000s brought the Provence-led dry wave — Whispering Angel, 'rosé all day,' celebrity estates — that turned rosé from summer afterthought into a year-round premium category and pushed pale-and-dry as the world's default style.",
+    "production": "Growers often pick slightly early to keep acidity. Direct pressing yields the palest, most delicate juice; short macerations of roughly 2–24 hours deepen color and red-fruit flavor; saignée rosés, bled from red tanks, are the fullest. Fermentation then proceeds like white wine — cool, usually in stainless steel, occasionally in barrel for gastronomic bottlings. Color is managed obsessively, since the market reads pallor as quality in the Provençal idiom. Most rosé is bottled within months under inert gas and meant for drinking inside two or three years, with structured exceptions from Tavel, Bandol's mourvèdre rosés, and a growing wave of sparkling and pét-nat pinks.",
+    "styles": [
+      {
+        "name": "Provence dry",
+        "description": "Pale, crisp grenache-cinsault blends — the global benchmark style from Côtes de Provence."
+      },
+      {
+        "name": "Tavel and Bandol",
+        "description": "The serious end: Tavel is France's all-rosé appellation, dark and vinous; Bandol adds mourvèdre muscle and age-worthiness."
+      },
+      {
+        "name": "Saignée",
+        "description": "Rosé bled from red fermentations — deeper color, more body, a byproduct turned specialty."
+      },
+      {
+        "name": "White Zinfandel",
+        "description": "California's off-dry pink, born by accident in 1975 — long the top-selling US rosé style."
+      },
+      {
+        "name": "Sparkling and pét-nat rosé",
+        "description": "From champagne rosé (where blending is allowed) to cloudy natural-wine pét-nats."
+      }
+    ],
+    "funFacts": [
+      "Sutter Home's white zinfandel came from a stuck 1975 fermentation — and its success is credited with saving California's old-vine zinfandel from being ripped out.",
+      "Roughly nine in ten bottles produced in Provence are rosé.",
+      "EU law bans blending red and white wine to make still rosé; champagne rosé is the famous exception."
+    ]
+  },
+  {
+    "id": "champagne",
+    "parentId": "wine",
+    "category": "wine",
+    "subcategory": "champagne",
+    "name": "Champagne",
+    "icon": "🍾",
+    "tagline": "One region, one method — France's protected sparkling standard-bearer.",
+    "overview": "Champagne is sparkling wine exclusively from the delimited Champagne AOC in northeastern France — about 34,000 hectares of chalk-soiled vineyards — made by the traditional method, in which a second fermentation inside the very bottle sold creates roughly six bars of pressure. Chardonnay, pinot noir, and meunier dominate (four rare varieties are also permitted). Non-vintage blends across years for house consistency and must age at least 15 months; vintage champagne, from a single declared year, requires three years; prestige cuvées like Dom Pérignon and Cristal crown each house's range. Dryness runs from brut nature to doux, and blanc de blancs, blanc de noirs, grower ('RM') and house ('NM') bottlings map the field. The name is fiercely protected worldwide.",
+    "history": "Champagne's wines were still for centuries — bubbles were a winter fault. The English documented deliberately re-fermenting wine with sugar in 1662 (Christopher Merret's paper), before Dom Pérignon's tenure at Hautvillers; the monk was a great blender and quality reformer, not the inventor of sparkle. Houses arrived through the 18th century — Ruinart first in 1729 — and Veuve Clicquot's cellar team invented riddling around 1816–18, clarifying the wine at scale. Brut styles emerged for the English market in the 1870s. Vineyard riots in 1911 and delimitation battles produced today's strict boundaries, and the 20th century built champagne into the world's celebration wine, now counterweighted by a thriving grower movement.",
+    "production": "Hand-harvest is mandatory, and whole clusters are pressed gently under strict yield fractions. Base wines ferment dry, malolactic optional, then the assemblage blends crus, varieties, and — for non-vintage — reserve wines from prior years. Bottled with a dose of yeast and sugar (tirage), the wine referments, gaining about 1.3% alcohol and its CO2, then ages on the lees — 12 months minimum on lees within 15 total for NV, three years for vintage, and far longer at ambitious houses — building brioche and toast through autolysis. Riddling (now largely by gyropalette) coaxes sediment into the neck; the frozen plug is disgorged, dosage liqueur sets the sweetness level, and the cork and cage go on.",
+    "styles": [
+      {
+        "name": "Non-vintage brut",
+        "description": "The house calling card: a multi-year blend engineered for consistency, at least 15 months' aging."
+      },
+      {
+        "name": "Vintage",
+        "description": "A single declared year, aged three years minimum — made only when the harvest merits it."
+      },
+      {
+        "name": "Prestige cuvée",
+        "description": "The flagship — Dom Pérignon, Cristal, Krug's Grande Cuvée (itself a multi-vintage) — from top crus and long lees aging."
+      },
+      {
+        "name": "Blanc de blancs",
+        "description": "All-chardonnay champagne, often from the Côte des Blancs — citrus, chalk, and tension."
+      },
+      {
+        "name": "Blanc de noirs",
+        "description": "White champagne from black grapes (pinot noir, meunier) — broader, red-fruited power."
+      },
+      {
+        "name": "Rosé champagne",
+        "description": "Made by maceration or, uniquely in the EU, by blending in a little still red wine."
+      }
+    ],
+    "funFacts": [
+      "Christopher Merret described adding sugar to wine to make it sparkle in 1662 — years before Dom Pérignon arrived at Hautvillers.",
+      "Physicist Gérard Liger-Belair calculated that a single flute releases on the order of a million bubbles.",
+      "Riddling was devised in Veuve Clicquot's cellars around 1816–18 — lore says the first pupitre was the widow's own kitchen table."
+    ]
+  },
+  {
+    "id": "sparkling-wine",
+    "parentId": "wine",
+    "category": "wine",
+    "subcategory": "sparkling",
+    "name": "Sparkling Wine",
+    "icon": "✨",
+    "tagline": "Bubbles by every method — prosecco tanks, cava cellars, pét-nat crown caps.",
+    "overview": "Sparkling wine outside Champagne spans every price, grape, and method. Prosecco — Glera grapes from Veneto and Friuli — uses the tank (Charmat) method, refermenting in pressurized steel for weeks to keep it fresh, floral, and affordable; its Conegliano Valdobbiadene DOCG hills are a UNESCO site. Cava, mostly from Catalonia's Penedès, follows the champagne playbook with macabeo, xarel·lo, and parellada aged at least nine months on lees. France's crémants, Italy's Franciacorta, and German Sekt fill out the traditional-method family, while pét-nat (méthode ancestrale) — bottled before its first fermentation finishes, often cloudy, under crown cap — is both the oldest technique and the natural-wine era's favorite. Method drives style: tank preserves primary fruit; bottle-and-lees aging builds bready depth.",
+    "history": "The ancestral method is the oldest — Limoux's Benedictines claim sparkling Blanquette from 1531, well before champagne sparkled on purpose. The tank method arrived around 1900, developed by Federico Martinotti and patented in apparatus form by Eugène Charmat (1907), and eventually made prosecco scalable into the world's best-selling sparkling wine — outselling champagne by volume since around 2013. Cava began in 1872 when Josep Raventós of Codorníu brought bottle fermentation to Penedès. Franciacorta formalized Italy's prestige traditional method in the 1960s–90s, England's chalk downs emerged as serious sparkling country in the 2000s, and pét-nat went from farmhouse relic to cult category in the 2010s.",
+    "production": "Traditional method (cava, crémant, Franciacorta, English sparkling): a finished base wine referments in its bottle and ages on lees — cava requires 9 months (18 for Reserva, 30 for Gran Reserva), Franciacorta 18-plus — before riddling and disgorgement. Tank method (prosecco): secondary fermentation happens in large pressurized tanks over days to weeks, and the wine is filtered and bottled under pressure, cheaper and fruit-forward. Ancestral method (pét-nat): the wine goes into bottle while still fermenting, finishing there with no added sugar or yeast, usually undisgorged and lightly cloudy. The transfer method splits the difference, and simple carbonation — injected CO2 — marks the budget tier. Pressure ranges from gentle frizzante to full spumante.",
+    "styles": [
+      {
+        "name": "Prosecco",
+        "description": "Tank-method Glera from northeast Italy — pear, blossom, and easy charm; the world's volume leader."
+      },
+      {
+        "name": "Cava",
+        "description": "Spain's traditional-method sparkler from Penedès — citrus and almond, remarkable value, with long-aged Gran Reservas."
+      },
+      {
+        "name": "Crémant",
+        "description": "Traditional-method wines from several French regions — Alsace, Loire, Bourgogne, Limoux — champagne technique beyond Champagne."
+      },
+      {
+        "name": "Franciacorta",
+        "description": "Lombardy's prestige DOCG — chardonnay and pinot noir aged 18 months or more on lees."
+      },
+      {
+        "name": "Pét-nat",
+        "description": "Méthode ancestrale wines bottled mid-ferment — a single fermentation, crown caps, gentle fizz, and often a haze."
+      },
+      {
+        "name": "English sparkling",
+        "description": "Traditional-method wines from Sussex and Kent chalk — the same seam as Champagne's — now winning blind tastings."
+      }
+    ],
+    "funFacts": [
+      "Prosecco has outsold champagne by bottle count since about 2013.",
+      "Italy renamed the prosecco grape 'Glera' in 2009 so 'Prosecco' could be protected as a place name rather than a variety.",
+      "Limoux claims the world's first intentional sparkling wine — 1531, by Benedictine monks — a century before champagne's rise."
+    ]
+  },
+  {
+    "id": "fortified-wine",
+    "parentId": "wine",
+    "category": "wine",
+    "subcategory": "fortified",
+    "name": "Fortified Wine",
+    "icon": "⚓",
+    "tagline": "Wine plus spirit — port, sherry, madeira, and the vermouth revival.",
+    "overview": "Fortified wines are strengthened with grape spirit to roughly 15–22% ABV, a practice born of the age of sail, when fortification kept wine sound on long voyages. Timing defines style: port (Douro Valley) adds spirit mid-fermentation, preserving sweetness; sherry (Jerez) fortifies after a fully dry ferment, then ages either biologically under a veil of flor yeast (fino, manzanilla) or oxidatively (oloroso), blended through fractional solera systems; madeira is deliberately heated and oxidized — estufagem tanks or attic canteiro casks — making it nearly indestructible. Sicily's marsala, France's vins doux naturels, and vermouth — wine aromatized with wormwood and botanicals, then fortified — complete the family. Long unfashionable, fortified wines are prized again by sommeliers and are the backbone of classic cocktails.",
+    "history": "England's wars with France drove its merchants to Portugal — the 1703 Methuen Treaty favored Portuguese wine, and brandy stabilized Douro reds into port; the Douro was demarcated by royal decree in 1756, among the world's first appellations. Sherry, Shakespeare's 'sack,' had been England's darling since Falstaff. Madeira's odd genius emerged at sea: tropical crossings improved it (vinho da roda), and it became early America's cellar staple — famously poured to toast the Declaration of Independence in 1776. Antonio Benedetto Carpano bottled modern vermouth in Turin in 1786, feeding the cocktail age. Phylloxera, war, and fashion battered the category in the 20th century; the bar world led its rediscovery.",
+    "production": "Port: Douro grapes (touriga nacional and kin) are trodden or robotically 'trodden' in lagares and fermented only to 5–7% before 77% grape spirit arrests the yeast, locking in sweetness around 19–20%; aging is oxidative in cask (tawny, colheita) or reductive with decades in bottle (vintage, declared only in top years). Sherry: palomino ferments bone dry, then is fortified to about 15% for flor-protected finos or 17%+ for oxidative olorosos, and matures through solera rows never fully emptied; sweet PX comes from sun-dried grapes. Madeira: wines are warmed for months in estufas or years under warm roofs, embracing oxidation. Vermouth: wine is infused with wormwood-led botanicals, sweetened, and fortified.",
+    "styles": [
+      {
+        "name": "Port",
+        "description": "The Douro's sweet fortified red — fruity rubies, nutty age-stated tawnies, and vintage ports that mature for half a century."
+      },
+      {
+        "name": "Sherry",
+        "description": "Jerez's dry-to-sweet spectrum: saline fino and manzanilla under flor, nutty amontillado and oloroso, and syrupy pedro ximénez."
+      },
+      {
+        "name": "Madeira",
+        "description": "Heat-aged island wine in four noble grades from dry sercial to rich malmsey — effectively immortal once opened."
+      },
+      {
+        "name": "Marsala",
+        "description": "Sicily's fortified wine, from serious vergine soleras to the kitchen staple."
+      },
+      {
+        "name": "Vermouth and aromatized wine",
+        "description": "Wormwood-bittered, botanical-infused fortified wines — Turin rosso, French dry — essential to the martini and negroni."
+      },
+      {
+        "name": "Vins doux naturels",
+        "description": "France's muscats and grenaches (Beaumes-de-Venise, Banyuls, Maury) fortified mid-ferment in the port manner."
+      }
+    ],
+    "funFacts": [
+      "An opened bottle of madeira can stay drinkable for months or years — heat and oxygen already did their worst during production.",
+      "The Douro's 1756 demarcation, marked with stone pillars, makes port one of the world's oldest legally defined wine regions.",
+      "Vermouth takes its name from Wermut, German for wormwood, its defining botanical."
+    ]
+  }
+]

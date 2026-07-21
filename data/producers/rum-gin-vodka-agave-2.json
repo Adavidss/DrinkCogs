@@ -1,0 +1,246 @@
+[
+  {
+    "id": "tanqueray",
+    "name": "Tanqueray",
+    "type": "brand",
+    "countryId": "scotland",
+    "regionId": "lowlands",
+    "location": "Cameronbridge, Fife, Scotland (founded Bloomsbury, London)",
+    "lat": 56.19,
+    "lng": -3.06,
+    "founded": 1830,
+    "parentCompany": "Diageo",
+    "masterDistiller": null,
+    "website": "tanqueray.com",
+    "description": "Tanqueray is one of the world's leading premium gin brands, defined by a spartan London Dry recipe — four botanicals, no citrus peel — essentially unchanged since the 1830s. Founded in London and distilled in Scotland since the late 1990s, it is Diageo's flagship gin, dominant in the United States and a bartender's reference point for juniper-forward classic style. The green shaker-shaped bottle and red pineapple seal are category icons.",
+    "history": "Charles Tanqueray established his distillery on Vine Street, Bloomsbury in 1830, building a reputation on consistency and a boldly juniper-led recipe. His son Charles Waugh Tanqueray merged the firm with Gordon's in 1898, creating the gin powerhouse that would pass into the Distillers Company and eventually Diageo. The Blitz leveled the London distillery in 1941 — company lore says a single still, 'Old Tom', survived — and production migrated after the war, consolidating at Cameronbridge in Fife in 1998. Postwar America embraced Tanqueray as the martini gin of the Rat Pack era, and the US remains its biggest market. Line extensions like No. Ten (2000), built for citrus-forward martinis with fresh whole fruit, extended the house upmarket without touching the 1830 flagship recipe.",
+    "signatureBottleIds": ["tanqueray-london-dry"],
+    "facts": [
+      "The flagship recipe uses just four botanicals: juniper, coriander seed, angelica root and licorice.",
+      "Tanqueray is consistently the best-selling imported gin in the United States.",
+      "The bottle's red seal bears a pineapple, the Georgian emblem of hospitality."
+    ],
+    "timeline": [
+      {"year": 1830, "event": "Charles Tanqueray founds his Bloomsbury distillery", "type": "milestone"},
+      {"year": 1898, "event": "Merger creates Tanqueray Gordon & Co", "type": "change"},
+      {"year": 1941, "event": "London distillery destroyed in the Blitz", "type": "milestone"},
+      {"year": 1998, "event": "Production consolidates at Cameronbridge, Fife", "type": "change"}
+    ]
+  },
+  {
+    "id": "hendricks-gin-palace",
+    "name": "Hendrick's Gin Palace",
+    "type": "distillery",
+    "countryId": "scotland",
+    "regionId": "lowlands",
+    "location": "Girvan, South Ayrshire, Scotland",
+    "lat": 55.26,
+    "lng": -4.84,
+    "founded": 1999,
+    "parentCompany": "William Grant & Sons",
+    "masterDistiller": "Lesley Gracie (Master Distiller)",
+    "website": "hendricksgin.com",
+    "description": "The Hendrick's Gin Palace at Girvan on the Ayrshire coast is the purpose-built home of Hendrick's, the cucumber-and-rose gin that opened the modern craft-gin era in 1999. Master distiller Lesley Gracie blends spirit from two antique stills — an 1860s Bennett and a 1948 Carter-Head — then adds the signature infusions. The 2018 complex pairs stillhouses with laboratories and Victorian-style walled hothouses for botanical experimentation.",
+    "history": "William Grant & Sons, the independent family company behind Glenfiddich and Grant's, bought two unusual stills at auction in 1966; in the late 1990s chairman Charles Grant Gordon challenged company scientist Lesley Gracie to create a gin unlike anything on the market. Launched in 1999 with cucumber and Bulgarian rose infusions and a dark apothecary bottle, Hendrick's targeted the US first and became the emblem of the super-premium gin boom of the 2000s, its cucumber-garnish serve entering bartending canon. Gracie, one of few women then leading a major distillery, has since created limited 'cabinet of curiosities' releases from the site's botanical hothouses. In 2018 the company opened the Gin Palace, expanding capacity while keeping the two-still, small-batch process intact.",
+    "signatureBottleIds": ["hendricks"],
+    "facts": [
+      "The distillery marries spirit from two antique stills of opposite character — a rich Bennett pot and an airy Carter-Head.",
+      "Lesley Gracie has led the liquid since its 1999 creation, making her one of gin's longest-serving master distillers.",
+      "The Gin Palace includes two Victorian-inspired hothouses where Gracie trials botanicals from around the world."
+    ],
+    "timeline": [
+      {"year": 1966, "event": "William Grant & Sons buys the Bennett and Carter-Head stills at auction", "type": "milestone"},
+      {"year": 1999, "event": "Hendrick's Gin launches, created by Lesley Gracie", "type": "release"},
+      {"year": 2018, "event": "Hendrick's Gin Palace opens at Girvan", "type": "milestone"}
+    ]
+  },
+  {
+    "id": "black-forest-distillers",
+    "name": "Black Forest Distillers",
+    "type": "distillery",
+    "countryId": "germany",
+    "regionId": "black-forest",
+    "location": "Loßburg, Baden-Württemberg, Germany",
+    "lat": 48.4,
+    "lng": 8.45,
+    "founded": 2008,
+    "parentCompany": "Pernod Ricard",
+    "masterDistiller": null,
+    "website": "monkey47.com",
+    "description": "Black Forest Distillers is the maker of Monkey 47, the 47-botanical Schwarzwald Dry Gin that put German gin on the world map. Operating from a converted Black Forest farmstead near Loßburg, the distillery combines a molasses-based spirit, hand-macerated and vapor-infused botanicals — a third of them local — and months of resting in earthenware. Production remains genuinely small-batch despite global demand.",
+    "history": "Alexander Stein, scion of a distilling family working as a Nokia executive, quit in 2008 to chase a story he'd heard: an RAF wing commander, Montgomery Collins, who settled in the Black Forest after the war, kept the memory of a Berlin Zoo monkey named Max, and left behind a gin recipe. Stein partnered with Christoph Keller, one of Germany's most decorated eau-de-vie distillers, to develop the liquid, launching Monkey 47 in 2010 from Keller's Stählemühle farm before building the Loßburg distillery. The 2011 IWSC Gin Trophy ignited international demand. Pernod Ricard acquired a majority stake in 2016 and completed its ownership later, expanding distribution while the distillery held its 500 ml format, batch sizes and Black Forest sourcing.",
+    "signatureBottleIds": ["monkey-47"],
+    "facts": [
+      "Roughly a third of Monkey 47's botanicals — including lingonberries and spruce shoots — are sourced in the surrounding Black Forest.",
+      "Co-founder Christoph Keller was Germany's most awarded fruit-brandy distiller before turning to gin.",
+      "The distillery rests its gin in traditional earthenware vessels for about three months before bottling."
+    ],
+    "timeline": [
+      {"year": 2008, "event": "Alexander Stein founds the company to develop Monkey 47", "type": "milestone"},
+      {"year": 2010, "event": "Monkey 47 launches", "type": "release"},
+      {"year": 2016, "event": "Pernod Ricard takes a majority stake", "type": "change"}
+    ]
+  },
+  {
+    "id": "bruichladdich-distillery",
+    "name": "Bruichladdich Distillery",
+    "type": "distillery",
+    "countryId": "scotland",
+    "regionId": "islay",
+    "location": "Rhinns of Islay, near Port Charlotte, Scotland",
+    "lat": 55.77,
+    "lng": -6.36,
+    "founded": 1881,
+    "parentCompany": "Rémy Cointreau",
+    "masterDistiller": "Adam Hannett (Head Distiller)",
+    "website": "bruichladdich.com",
+    "description": "Bruichladdich is Islay's iconoclast: a Victorian distillery on the Rhinns shore producing unpeated Bruichladdich, heavily peated Port Charlotte and super-peated Octomore single malts — plus The Botanist, the island's foraged dry gin. The house creed is transparency and terroir: Scottish and Islay-grown barley, single-field bottlings, no chill filtration or coloring, and everything distilled, matured and bottled on Islay.",
+    "history": "Built in 1881 by the Harvey brothers to a then-modern design, Bruichladdich ran intermittently through the 20th century and closed, seemingly for good, in 1994. A private group led by wine merchant Mark Reynier bought it in 2000 and reopened it in 2001 with legendary distiller Jim McEwan, reviving the Victorian equipment and launching an era of radical experimentation — vintage-style releases, Octomore's record peating levels, and in 2011 The Botanist gin, distilled in a rescued Lomond still. Rémy Cointreau acquired the distillery in 2012, funding barley-sourcing programs, on-island maturation and B Corp certification while head distiller Adam Hannett, an Islay native who trained under McEwan, took over the spirit in 2015.",
+    "signatureBottleIds": ["the-botanist"],
+    "facts": [
+      "One distillery, four flagships: unpeated Bruichladdich, peated Port Charlotte, ultra-peated Octomore and The Botanist gin.",
+      "Much of its Victorian equipment, including an open mash tun, remains in daily use.",
+      "Octomore bottlings have exceeded 300 ppm phenols — the most heavily peated whiskies ever released."
+    ],
+    "timeline": [
+      {"year": 1881, "event": "Harvey brothers build Bruichladdich on the Rhinns of Islay", "type": "milestone"},
+      {"year": 2001, "event": "Distillery reopens under Mark Reynier and Jim McEwan", "type": "reintroduced"},
+      {"year": 2011, "event": "The Botanist Islay Dry Gin launches", "type": "release"},
+      {"year": 2012, "event": "Rémy Cointreau acquires the distillery", "type": "change"}
+    ]
+  },
+  {
+    "id": "plymouth-distillery",
+    "name": "Plymouth Black Friars Distillery",
+    "type": "distillery",
+    "countryId": "england",
+    "regionId": null,
+    "location": "The Barbican, Plymouth, England",
+    "lat": 50.37,
+    "lng": -4.14,
+    "founded": 1793,
+    "parentCompany": "Pernod Ricard",
+    "masterDistiller": null,
+    "website": "plymouthgin.com",
+    "description": "The Black Friars Distillery on Plymouth's historic Barbican is England's oldest working gin distillery, producing Plymouth Gin continuously since 1793 in a building whose oldest rooms date to the early 15th century. It is the sole maker of the Plymouth style — earthier and softer than London Dry — and keeper of a deep Royal Navy heritage, including the 57% Navy Strength bottling.",
+    "history": "The site began as a Dominican friary around 1431 — hence Black Friars — and is said to have lodged the Pilgrim Fathers before the Mayflower sailed in 1620; a ship graces the label to this day. Coates & Co began distilling gin there in 1793, and Plymouth became the Royal Navy's gin, carried across the empire and specified by name in Victorian and Edwardian cocktail books. The 20th century brought decline and near-oblivion until a 1990s buyout restored quality and the historic recipe. Ownership passed through Vin & Sprit to Pernod Ricard in 2008. The style's unique EU geographical indication — one gin, one city — lapsed in 2015 when the company chose not to renew it, though production remains exclusively at Black Friars.",
+    "signatureBottleIds": ["plymouth-gin"],
+    "facts": [
+      "The distillery's medieval hall retains a hull-shaped timber roof from the 15th century.",
+      "Plymouth Navy Strength commemorates the 57% ABV 'gunpowder proof' standard once demanded by the Royal Navy.",
+      "Plymouth was the most-specified gin in early classic cocktail books, including pioneering dry martini recipes."
+    ],
+    "timeline": [
+      {"year": 1431, "event": "Dominican friary established on the site", "type": "milestone"},
+      {"year": 1793, "event": "Coates & Co begins distilling Plymouth Gin", "type": "milestone"},
+      {"year": 2008, "event": "Pernod Ricard acquires the brand via V&S Group", "type": "change"},
+      {"year": 2015, "event": "EU geographical indication allowed to lapse", "type": "change"}
+    ]
+  },
+  {
+    "id": "grey-goose",
+    "name": "Grey Goose",
+    "type": "brand",
+    "countryId": "france",
+    "regionId": "cognac",
+    "location": "Gensac-la-Pallue, Cognac, France (wheat and distillation in Picardy)",
+    "lat": 45.65,
+    "lng": -0.24,
+    "founded": 1997,
+    "parentCompany": "Bacardi Limited",
+    "masterDistiller": "François Thibault (Maître de Chai)",
+    "website": "greygoose.com",
+    "description": "Grey Goose is the brand that created the super-premium vodka tier: French soft winter wheat from Picardy, spring water from the Cognac region, and the sensibility of maître de chai François Thibault, who designed the spirit to keep gentle wheat character rather than distill it away. Conceived by American marketing legend Sidney Frank in 1997 and owned by Bacardi since 2004, it remains a global byword for status vodka.",
+    "history": "Sidney Frank, who had made Jägermeister an American college ritual, decided in the mid-1990s to build a vodka he could price above Absolut, reasoning that French provenance would justify the premium. He recruited François Thibault, a cognac cellar master, who based the spirit on bread-grade Picardy wheat, single-run column distillation and Gensac spring water; the first bottles shipped in 1997 with the now-famous frosted glass and flying geese. Taste-competition wins and relentless promotion made it the toast of the early-2000s cocktail renaissance. In 2004 Bacardi paid roughly $2.2 billion for the brand — then a record for a single spirits label — and Thibault remains its public custodian, with production still split between Picardy distillation and Cognac-region blending and bottling.",
+    "signatureBottleIds": ["grey-goose"],
+    "facts": [
+      "Creator François Thibault trained as a cognac maître de chai and still oversees the vodka from the Cognac region.",
+      "The 2004 sale to Bacardi, at about $2.2 billion, set a benchmark for single-brand spirits deals.",
+      "The wheat is 'blé panifiable' — bread-quality soft winter wheat from Picardy."
+    ],
+    "timeline": [
+      {"year": 1997, "event": "Grey Goose launched by Sidney Frank Importing Co.", "type": "release"},
+      {"year": 2004, "event": "Bacardi acquires the brand", "type": "change"}
+    ]
+  },
+  {
+    "id": "titos-distillery",
+    "name": "Tito's Handmade Vodka (Fifth Generation, Inc.)",
+    "type": "distillery",
+    "countryId": "united-states",
+    "regionId": "texas",
+    "location": "Austin, Texas, USA",
+    "lat": 30.13,
+    "lng": -97.66,
+    "founded": 1995,
+    "parentCompany": "Fifth Generation, Inc. (independent)",
+    "masterDistiller": "Taylor Berry (Master Distiller)",
+    "website": "titosvodka.com",
+    "description": "Fifth Generation, Inc. is the Austin company behind Tito's Handmade Vodka, the corn-based, gluten-free spirit that rose from a one-man Texas shack to America's best-selling spirit brand. The house keeps a single product at a single strength, batch-distills on pot stills at ever-growing scale, and pairs plain packaging with prodigious philanthropy through its 'Love, Tito's' programs. It remains wholly owned by founder Bert 'Tito' Beveridge.",
+    "history": "Bert 'Tito' Beveridge, a San Antonio-born geologist turned mortgage broker, started infusing cheap vodka for friends, then decided to distill his own, securing what is described as the first legal distillery permit in Texas and building a pot still operation on leased land southeast of Austin in 1995. First sales came in 1997, funded by maxed-out credit cards. The 2001 San Francisco World Spirits Competition Double Gold gave the brand its origin myth, and bartender word-of-mouth did the rest: by the late 2010s Tito's had overtaken Smirnoff as the top-selling spirit in the US by value while staying family-owned and Austin-based. Lawsuits challenging the 'Handmade' label as production scaled were dismissed, and the recipe, price positioning and screw-cap bottle have never changed.",
+    "signatureBottleIds": ["titos"],
+    "facts": [
+      "The company makes exactly one product: 80-proof corn vodka.",
+      "Tito's became the best-selling spirit brand in the United States by revenue while remaining 100% founder-owned.",
+      "Its 'Vodka for Dog People' program reflects Beveridge's rescue-dog advocacy — strays roamed the original distillery site."
+    ],
+    "timeline": [
+      {"year": 1995, "event": "Beveridge founds Fifth Generation and builds his first still southeast of Austin", "type": "milestone"},
+      {"year": 1997, "event": "First bottles of Tito's Handmade Vodka sold", "type": "release"},
+      {"year": 2001, "event": "Double Gold at the San Francisco World Spirits Competition", "type": "award"}
+    ]
+  },
+  {
+    "id": "reyka-distillery",
+    "name": "Reyka Distillery",
+    "type": "distillery",
+    "countryId": "iceland",
+    "regionId": null,
+    "location": "Borgarnes, Iceland",
+    "lat": 64.54,
+    "lng": -21.92,
+    "founded": 2005,
+    "parentCompany": "William Grant & Sons",
+    "masterDistiller": null,
+    "website": "reyka.com",
+    "description": "Reyka Distillery in the west-coast village of Borgarnes was Iceland's first dedicated vodka distillery and among the world's first spirits plants run on renewable geothermal energy. Built by William Grant & Sons in 2005, it distills in small batches on a rare copper Carter-Head still, filters through local lava rock and cuts with spring water from a 4,000-year-old lava field — turning Iceland's volcanic geography into a house style.",
+    "history": "In the early 2000s William Grant & Sons, the Scottish family firm behind Glenfiddich, Grant's and Hendrick's, went looking for a place to make a naturally advantaged vodka and settled on Iceland: abundant geothermal power, famously pure water and a national image to match. The Borgarnes distillery, about 75 kilometers north of Reykjavík, was commissioned in 2005 with a Carter-Head still — kin to the one used for Hendrick's — and Reyka launched that year as Iceland's first vodka distillery, its name drawn from the Old Norse root for steam that also names Reykjavík. Small batches, lava-rock filtration and Grábrók spring water became the calling cards as Reyka grew into Iceland's flagship spirit export.",
+    "signatureBottleIds": ["reyka"],
+    "facts": [
+      "The stills are heated by volcanic geothermal energy from the surrounding region.",
+      "Each batch is small — on the order of a few hundred cases — unusually so for an internationally distributed vodka.",
+      "Its Carter-Head still links it to sibling brand Hendrick's, which uses the same rare design."
+    ],
+    "timeline": [
+      {"year": 2005, "event": "Distillery commissioned at Borgarnes; Reyka launches as Iceland's first vodka distillery", "type": "milestone"}
+    ]
+  },
+  {
+    "id": "olgerdin-brewery",
+    "name": "Ölgerðin Egill Skallagrímsson",
+    "type": "brewery",
+    "countryId": "iceland",
+    "regionId": null,
+    "location": "Reykjavík, Iceland",
+    "lat": 64.12,
+    "lng": -21.79,
+    "founded": 1913,
+    "parentCompany": null,
+    "masterDistiller": null,
+    "website": "olgerdin.is",
+    "description": "Ölgerðin Egill Skallagrímsson — 'the brewery of Egill Skallagrímsson', named for the hard-drinking Viking-age poet — is Iceland's oldest and largest beverage company. Founded in Reykjavík in 1913, it brews the Egils and Gull beer families, bottles soft-drink institutions like Egils Appelsín and Malt Extrakt, and produces the national spirit, Brennivín caraway aquavit, alongside a growing craft and spirits portfolio.",
+    "history": "Tómas Tómasson founded Ölgerðin in 1913, brewing malt beverages in a country that had just voted itself dry — full prohibition arrived in 1915, and the company survived on near-beer, malt drinks and sodas. When spirits were re-legalized in 1935, Brennivín entered production as the state's domestic schnapps, and Ölgerðin became its long-term maker. Beer remained banned until 1 March 1989 — still celebrated as Bjórdagurinn, Beer Day — after which the company's Egils Gull lager became a national standard. Now more than a century old, Ölgerðin listed on the Nasdaq Iceland exchange in 2022 and continues to run brewing, soft drinks and distilling from Reykjavík, exporting Brennivín as Iceland's signature spirit.",
+    "signatureBottleIds": ["brennivin"],
+    "facts": [
+      "The company is named after Egill Skallagrímsson, the 10th-century warrior-poet of Egil's Saga, famed for his capacity for ale.",
+      "It survived Iceland's 74-year beer ban (1915–1989) on malt drinks and soda, then led the market when beer returned.",
+      "Its Egils Appelsín orange soda and Malt Extrakt, mixed together at Christmas, are a national holiday tradition."
+    ],
+    "timeline": [
+      {"year": 1913, "event": "Tómas Tómasson founds Ölgerðin in Reykjavík", "type": "milestone"},
+      {"year": 1935, "event": "Brennivín production begins as spirits prohibition ends", "type": "release"},
+      {"year": 1989, "event": "Beer legal again in Iceland; Egils Gull becomes a flagship", "type": "milestone"},
+      {"year": 2022, "event": "Ölgerðin lists on the Nasdaq Iceland stock exchange", "type": "change"}
+    ]
+  }
+]

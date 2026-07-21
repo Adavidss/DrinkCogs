@@ -1,0 +1,22 @@
+[
+  {"id": "sweetness", "label": "Sweetness", "group": "Sweet", "description": "Perceived sugar and richness on the palate, from bone-dry to dessert-like."},
+  {"id": "caramel", "label": "Caramel", "group": "Sweet", "description": "Toffee, butterscotch and browned-sugar notes, often from charred oak."},
+  {"id": "honey", "label": "Honey", "group": "Sweet", "description": "Floral-sweet honeyed character, common in Speyside malts and Sauternes-finished spirits."},
+  {"id": "vanilla", "label": "Vanilla", "group": "Sweet", "description": "Vanillin extracted from new oak; the signature of American barrels."},
+  {"id": "fruit", "label": "Fruit", "group": "Fruit & Bright", "description": "Orchard, tropical or dark fruit — apples, cherries, mango, raisin, plum."},
+  {"id": "citrus", "label": "Citrus", "group": "Fruit & Bright", "description": "Lemon, orange, grapefruit brightness; key in gin, wheat beers and young wines."},
+  {"id": "floral", "label": "Floral", "group": "Aromatic", "description": "Blossom, rose, violet and elderflower aromatics."},
+  {"id": "herbal", "label": "Herbal", "group": "Aromatic", "description": "Grass, mint, pine, tea and botanical herb notes."},
+  {"id": "chocolate", "label": "Chocolate", "group": "Rich & Dark", "description": "Cocoa and dark chocolate depth, typical of stouts, sherried whisky and aged rum."},
+  {"id": "coffee", "label": "Coffee", "group": "Rich & Dark", "description": "Roasted coffee and espresso character from dark malts or heavy char."},
+  {"id": "nut", "label": "Nut", "group": "Rich & Dark", "description": "Almond, hazelnut, walnut — hallmarks of oloroso sherry and tawny port."},
+  {"id": "leather", "label": "Leather", "group": "Rich & Dark", "description": "Aged, rancio, tobacco-and-leather complexity that comes with long maturation."},
+  {"id": "earthy", "label": "Earthy", "group": "Rich & Dark", "description": "Soil, mushroom, agave roastiness, funk and minerality."},
+  {"id": "oak", "label": "Oak", "group": "Wood & Smoke", "description": "Woody structure and tannin from barrel maturation."},
+  {"id": "smoke", "label": "Smoke", "group": "Wood & Smoke", "description": "Peat smoke, mesquite, bonfire and ash — Islay's calling card."},
+  {"id": "spice", "label": "Spice", "group": "Spice & Fire", "description": "Baking spice: cinnamon, clove, nutmeg, ginger."},
+  {"id": "pepper", "label": "Pepper", "group": "Spice & Fire", "description": "Black or chile pepper heat, rye kick and alcohol warmth."},
+  {"id": "body", "label": "Body", "group": "Structure", "description": "Weight and texture on the palate, from light and crisp to thick and chewy."},
+  {"id": "finish", "label": "Finish", "group": "Structure", "description": "How long the flavor persists after swallowing."},
+  {"id": "complexity", "label": "Complexity", "group": "Structure", "description": "How many distinct layers unfold as you taste."}
+]

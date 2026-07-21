@@ -1,0 +1,246 @@
+[
+  {
+    "id": "moet-chandon",
+    "name": "Moët & Chandon",
+    "type": "winery",
+    "countryId": "france",
+    "regionId": "champagne",
+    "location": "Avenue de Champagne, Épernay, France",
+    "lat": 49.04,
+    "lng": 3.959,
+    "founded": 1743,
+    "parentCompany": "LVMH (Moët Hennessy)",
+    "masterDistiller": "Benoît Gouez (chef de cave)",
+    "website": "moet.com",
+    "description": "Moët & Chandon is the largest champagne house in the world and the cornerstone of LVMH's wine empire, with the region's biggest vineyard holdings and nearly thirty kilometres of chalk cellars beneath Épernay's Avenue de Champagne. Its Impérial brut defines mass-market champagne; its prestige brand, Dom Pérignon, is run as a distinct vintage-only marque under its roof.",
+    "history": "Wine merchant Claude Moët founded the house in Épernay in 1743, and his grandson Jean-Rémy Moët — a friend and supplier of Napoleon Bonaparte — built it into champagne's first global brand; the Brut Impérial name nods to that patronage. Pierre-Gabriel Chandon joined the family firm in 1832, creating the double name. The house acquired the Dom Pérignon brand rights in 1930 (from Mercier) and launched the first prestige cuvée in 1936, later buying the Abbey of Hautvillers' historic vineyards' legacy into its story. The 1971 merger with Hennessy cognac and the 1987 union with Louis Vuitton created LVMH, in which Moët remains the flagship fizz, farming and buying across more than a thousand hectares.",
+    "signatureBottleIds": ["dom-perignon-2013"],
+    "facts": [
+      "Napoleon's visits to Jean-Rémy Moët inspired the Brut Impérial name.",
+      "The Épernay cellars stretch roughly 28 kilometres through the chalk.",
+      "Moët launched Dom Pérignon in 1936 — the world's first prestige cuvée — and still produces it as a separate marque."
+    ],
+    "timeline": [
+      {"year": 1743, "event": "Claude Moët founds the house in Épernay", "type": "milestone"},
+      {"year": 1936, "event": "Dom Pérignon prestige cuvée launched with the 1921 vintage", "type": "release"},
+      {"year": 1987, "event": "Moët Hennessy merges with Louis Vuitton to form LVMH", "type": "change"}
+    ]
+  },
+  {
+    "id": "veuve-clicquot",
+    "name": "Veuve Clicquot",
+    "type": "winery",
+    "countryId": "france",
+    "regionId": "champagne",
+    "location": "Reims, France",
+    "lat": 49.244,
+    "lng": 4.042,
+    "founded": 1772,
+    "parentCompany": "LVMH (Moët Hennessy)",
+    "masterDistiller": "Didier Mariotti (chef de cave)",
+    "website": "veuveclicquot.com",
+    "description": "Veuve Clicquot is the Reims house built by champagne's most famous widow, whose inventions made clear, exportable sparkling wine possible. Its pinot noir-led Yellow Label brut is among the world's best-selling champagnes, aged in UNESCO-listed chalk crayères beneath the city, with vintage wines and the La Grande Dame prestige cuvée honoring the founder above it.",
+    "history": "Philippe Clicquot founded the house in 1772; when his son François died in 1805, François's 27-year-old widow Barbe-Nicole Clicquot-Ponsardin took command — an extraordinary act in Napoleonic France. She invented the riddling table around 1816 to clarify champagne, rushed the 1811 comet vintage through blockades to Russia in 1814, and produced an early blended rosé in 1818, building one of the region's great commercial empires under the 'Veuve' (widow) name. The house passed through the Werlé family era, registered its yellow label in 1877, and joined what became LVMH in 1987. Its cellars occupy ancient Gallo-Roman chalk pits, and its La Grande Dame cuvée and women-in-business awards keep the founder's name at the center of the brand.",
+    "signatureBottleIds": ["veuve-clicquot-yellow-label"],
+    "facts": [
+      "Madame Clicquot ran the house for six decades, one of the first women to lead a champagne business.",
+      "The riddling table she devised around 1816 remains the basis of traditional-method clarification.",
+      "The crayères — chalk quarries used as cellars — are part of a UNESCO World Heritage listing."
+    ],
+    "timeline": [
+      {"year": 1772, "event": "House founded by Philippe Clicquot", "type": "milestone"},
+      {"year": 1805, "event": "Widowed Barbe-Nicole Clicquot-Ponsardin takes over", "type": "change"},
+      {"year": 1877, "event": "Yellow label trademark registered", "type": "packaging"},
+      {"year": 1987, "event": "Becomes part of LVMH", "type": "change"}
+    ]
+  },
+  {
+    "id": "krug",
+    "name": "Krug",
+    "type": "winery",
+    "countryId": "france",
+    "regionId": "champagne",
+    "location": "Rue Coquebert, Reims, France",
+    "lat": 49.26,
+    "lng": 4.033,
+    "founded": 1843,
+    "parentCompany": "LVMH (Moët Hennessy)",
+    "masterDistiller": "Julie Cavil (cellar master)",
+    "website": "krug.com",
+    "description": "Krug is champagne's most single-minded luxury house: every bottle it makes is treated as a prestige cuvée. Small-cask fermentation, a vast library of reserve wines and years of extra lees aging define the style — broad, vinous, endlessly layered. The multi-vintage Grande Cuvée leads the range, with Vintage, Rosé and the single-plot Clos du Mesnil and Clos d'Ambonnay above it in rarity.",
+    "history": "Joseph Krug, German-born and trained at Jacquesson, founded his house in Reims in 1843 on a conviction he recorded in a cherry-red notebook in 1848: great champagne should transcend the vintage through blending across years. Five family generations upheld the doctrine — the flagship was long called Private Cuvée, relaunched as Grande Cuvée in the late 1970s under brothers Henri and Rémi Krug, who also created Clos du Mesnil (first vintage 1979). LVMH acquired the house in 1999 with sixth-generation Olivier Krug remaining as director. Cellar master Eric Lebel introduced the numbered édition system and Krug iD; Julie Cavil succeeded him in 2020 as the house's first female cellar master.",
+    "signatureBottleIds": ["krug-grande-cuvee"],
+    "facts": [
+      "Joseph Krug's 1848 notebook of blending principles is still held — and quoted — by the house.",
+      "Krug ferments every parcel separately in small 205-litre used oak casks.",
+      "Clos du Mesnil comes from a 1.84-hectare walled chardonnay plot enclosed since 1698."
+    ],
+    "timeline": [
+      {"year": 1843, "event": "Joseph Krug founds the house in Reims", "type": "milestone"},
+      {"year": 1978, "event": "Grande Cuvée relaunches the flagship multi-vintage blend", "type": "release"},
+      {"year": 1999, "event": "LVMH acquires Krug", "type": "change"},
+      {"year": 2020, "event": "Julie Cavil becomes cellar master", "type": "change"}
+    ]
+  },
+  {
+    "id": "freixenet",
+    "name": "Freixenet",
+    "type": "winery",
+    "countryId": "spain",
+    "regionId": "catalonia",
+    "location": "Sant Sadurní d'Anoia, Catalonia, Spain",
+    "lat": 41.426,
+    "lng": 1.786,
+    "founded": 1914,
+    "parentCompany": "Henkell Freixenet (Henkell & Co.)",
+    "masterDistiller": null,
+    "website": "freixenet.com",
+    "description": "Freixenet is the world's largest producer of traditional-method sparkling wine, headquartered in Sant Sadurní d'Anoia, the capital of cava. Its frosted-glass bottles — white Carta Nevada and black Cordon Negro — carried Spanish bubbles to every corner of the global market, offering bottle-fermented sparkle from native macabeo, xarel·lo and parellada at everyday prices.",
+    "history": "The house united two Penedès winegrowing families when Pedro Ferrer Bosch of the La Freixeneda estate — 'el Freixenet' — married Dolores Sala Vivé of the Casa Sala wine firm; they sold their first sparkling wine under the Freixenet name in 1914 and focused the business entirely on cava. Carta Nevada's frosted bottle (1941) and Cordon Negro's matte black one (1974) became category icons, boosted by decades of famous Christmas television advertising in Spain. The Ferrer family expanded internationally with cavas, Sekt and still-wine estates across three continents. In 2018 Germany's Henkell & Co. acquired majority control, creating Henkell Freixenet, the world's biggest sparkling-wine group, with the historic cellars beneath Sant Sadurní still at its heart.",
+    "signatureBottleIds": ["freixenet-cordon-negro"],
+    "facts": [
+      "Freixenet means 'ash grove' in Catalan, from the family estate La Freixeneda.",
+      "Its Christmas TV adverts, running since the 1970s, are a Spanish cultural institution.",
+      "The company's cellars tunnel directly beneath the town of Sant Sadurní d'Anoia."
+    ],
+    "timeline": [
+      {"year": 1914, "event": "First sparkling wines sold under the Freixenet name", "type": "milestone"},
+      {"year": 1974, "event": "Cordon Negro launched in its black frosted bottle", "type": "release"},
+      {"year": 2018, "event": "Henkell & Co. takes majority control, forming Henkell Freixenet", "type": "change"}
+    ]
+  },
+  {
+    "id": "la-marca",
+    "name": "La Marca",
+    "type": "winery",
+    "countryId": "italy",
+    "regionId": "veneto",
+    "location": "Oderzo, Treviso, Veneto, Italy",
+    "lat": 45.78,
+    "lng": 12.493,
+    "founded": 1968,
+    "parentCompany": null,
+    "masterDistiller": null,
+    "website": "lamarcaprosecco.com",
+    "description": "La Marca is a consortium of winegrowing cooperatives in the province of Treviso, pooling thousands of grower families across the Prosecco DOC heartland. Its powder-blue-labeled prosecco, tank-fermented from glera grapes for maximum freshness, became one of the best-selling sparkling wine imports in the United States and a fixture of the spritz era.",
+    "history": "Founded in 1968 in Oderzo as a union of cooperative wineries, La Marca takes its name from La Marca Trevigiana, the historical name for the Treviso territory. For decades it worked as a growers' organization supplying the regional wine trade; its transformation came with prosecco's global boom after the 2009 reorganization of the Prosecco DOC, when the export brand — marketed in the United States in partnership with E. & J. Gallo — rode the category from obscurity to ubiquity. Today the consortium unites a large share of Treviso's cooperative growers, balancing industrial scale with the DOC's tank-method template of light, floral, fruit-first sparkling wine.",
+    "signatureBottleIds": ["la-marca-prosecco"],
+    "facts": [
+      "The consortium represents thousands of grower families across the Treviso plain.",
+      "'La Marca Trevigiana' is the centuries-old name for the March of Treviso.",
+      "Its US rise paralleled the prosecco boom that made the category outsell champagne by volume."
+    ],
+    "timeline": [
+      {"year": 1968, "event": "Cooperative consortium founded in Oderzo", "type": "milestone"},
+      {"year": 2009, "event": "Prosecco DOC reorganized; export brand accelerates", "type": "milestone"}
+    ]
+  },
+  {
+    "id": "st-sixtus-abbey",
+    "name": "Brouwerij der Sint-Sixtusabdij (Westvleteren)",
+    "type": "brewery",
+    "countryId": "belgium",
+    "regionId": "west-flanders",
+    "location": "Westvleteren, West Flanders, Belgium",
+    "lat": 50.8945,
+    "lng": 2.7175,
+    "founded": 1838,
+    "parentCompany": null,
+    "masterDistiller": null,
+    "website": "sintsixtus.be",
+    "description": "The brewery of Saint-Sixtus Abbey in Westvleteren is the smallest and most uncompromising of the Trappist producers: the monks brew three beers — Blond, 8 and 12 — only in the quantities needed to sustain their community, and sell them only at the abbey by reservation. That refusal to scale, combined with the 12's perennial 'best beer in the world' rankings, made a modest monastic economy into beer's greatest cult.",
+    "history": "The abbey was founded in 1831 by monks from the Catsberg hermitage, and brewing began in 1838. For a period through 1992, the nearby St. Bernardus brewery brewed licensed 'St. Sixtus' beers commercially, but the monks ended the arrangement and pulled all production back inside the walls, reaffirming their 1946 decision to sell only at the gate. The modern range solidified around the Blond, 8 and 12, with the 12 dating to 1940. Demand exploded in the internet ratings era, forcing a telephone-and-plate-number reservation system. The single sanctioned exception to gate-only sales was 2012's international gift-pack release, which funded urgent renovations. A handful of monks still run each brew day, assisted by a few lay workers.",
+    "signatureBottleIds": ["westvleteren-12"],
+    "facts": [
+      "Beer is sold by advance reservation at the abbey, with per-car limits and a no-resale request.",
+      "Bottles carry no labels; all mandatory information is printed on the crown caps.",
+      "St. Bernardus in nearby Watou traces its recipes to a mid-century licensing deal with the abbey."
+    ],
+    "timeline": [
+      {"year": 1831, "event": "Saint-Sixtus Abbey founded at Westvleteren", "type": "milestone"},
+      {"year": 1838, "event": "Brewing begins inside the abbey", "type": "milestone"},
+      {"year": 1992, "event": "All brewing returns exclusively inside the abbey walls", "type": "change"},
+      {"year": 2012, "event": "One-time worldwide gift-pack sale funds renovations", "type": "milestone"}
+    ]
+  },
+  {
+    "id": "guinness-brewery",
+    "name": "Guinness (St. James's Gate Brewery)",
+    "type": "brewery",
+    "countryId": "ireland",
+    "regionId": null,
+    "location": "St. James's Gate, Dublin, Ireland",
+    "lat": 53.3419,
+    "lng": -6.2867,
+    "founded": 1759,
+    "parentCompany": "Diageo",
+    "masterDistiller": null,
+    "website": "guinness.com",
+    "description": "Guinness's St. James's Gate brewery has brewed black beer beside the Liffey since 1759 and remains the spiritual home of stout, even as the brand is brewed under license on five continents. Once the largest brewery in the world, it pairs industrial scale with a research tradition that produced the nitrogenated draught pour, the widget and — via brewer W.S. Gosset — the Student's t-test.",
+    "history": "Arthur Guinness signed his famous 9,000-year lease on a disused Dublin brewery in 1759 and shifted from ale to the London-style porters that became the house's fortune, exporting stout across the empire by the nineteenth century, when St. James's Gate ranked as the world's biggest brewery. The harp trademark arrived in 1876. Brewer Michael Ash's nitrogenation project produced Guinness Draught in 1959; the can widget followed in 1989. Guinness merged with Grand Metropolitan in 1997 to form Diageo, which invested heavily in the Dublin site and its Storehouse visitor center — Ireland's most-visited attraction — while global variants from Foreign Extra Stout to Nitro Cold Brew extend the family.",
+    "signatureBottleIds": ["guinness-draught"],
+    "facts": [
+      "Statistician W.S. Gosset invented the Student's t-test while working as a Guinness brewer, publishing under a pseudonym.",
+      "The Guinness Storehouse is Ireland's most-visited tourist attraction.",
+      "About 40% of all Guinness is brewed and drunk in Africa, where Foreign Extra Stout dominates."
+    ],
+    "timeline": [
+      {"year": 1759, "event": "Arthur Guinness signs the 9,000-year lease at St. James's Gate", "type": "milestone"},
+      {"year": 1959, "event": "Nitrogenated Guinness Draught invented for the bicentenary", "type": "release"},
+      {"year": 1997, "event": "Guinness merges into Diageo", "type": "change"}
+    ]
+  },
+  {
+    "id": "sierra-nevada-brewing",
+    "name": "Sierra Nevada Brewing Co.",
+    "type": "brewery",
+    "countryId": "united-states",
+    "regionId": "california",
+    "location": "Chico, California, USA",
+    "lat": 39.7223,
+    "lng": -121.816,
+    "founded": 1980,
+    "parentCompany": null,
+    "masterDistiller": null,
+    "website": "sierranevada.com",
+    "description": "Sierra Nevada is the archetypal American craft brewery: founded in 1980 by homebrewer Ken Grossman in Chico, California, still family-owned, and responsible for the pale ale that taught the country what Cascade hops taste like. It pairs traditionalist technique — whole-cone hops, bottle conditioning — with engineering obsession, from carbon-dioxide recovery to one of the largest private solar arrays in US brewing.",
+    "history": "Ken Grossman ran a Chico homebrew shop before building a brewery by hand with co-founder Paul Camusi in 1980, welding tanks from salvaged dairy equipment; the pale ale first brewed that November became craft beer's foundational text. Growth was steady and self-funded: Bigfoot barleywine (1983), Celebration fresh-hop IPA, Torpedo and the hazy juggernaut Hazy Little Thing (2018). A second brewery in Mills River, North Carolina opened in 2014 to serve the East Coast, with a LEED Platinum rating. Grossman bought out Camusi in 1998, and his children Brian and Sierra now help lead the company, one of the largest craft brewers in the United States and a fixture of 'independent' advocacy.",
+    "signatureBottleIds": ["sierra-nevada-pale-ale"],
+    "facts": [
+      "The first brewhouse was assembled largely from scrapped dairy tanks and soft-drink equipment.",
+      "The brewery still uses whole-cone hops rather than pellets across its core beers.",
+      "Its Chico and Mills River sites run extensive solar and CO2-recovery systems; Mills River is LEED Platinum certified."
+    ],
+    "timeline": [
+      {"year": 1980, "event": "Brewery founded in Chico; first pale ale brewed", "type": "milestone"},
+      {"year": 2014, "event": "Mills River, North Carolina brewery opens", "type": "milestone"}
+    ]
+  },
+  {
+    "id": "chimay-brewery",
+    "name": "Bières de Chimay (Abbaye de Scourmont)",
+    "type": "brewery",
+    "countryId": "belgium",
+    "regionId": "hainaut",
+    "location": "Abbaye Notre-Dame de Scourmont, Chimay, Belgium",
+    "lat": 50.0056,
+    "lng": 4.3222,
+    "founded": 1862,
+    "parentCompany": null,
+    "masterDistiller": null,
+    "website": "chimay.com",
+    "description": "Chimay, brewed at the Abbey of Notre-Dame de Scourmont in Belgium's Hainaut province, is the Trappist brewery that brought monastic beer to the world. Its color-coded range — Red, White (Cinq Cents), Blue and the newer Green (150) — plus abbey cheeses fund the monastery and extensive regional employment, making it the largest and most widely exported of the authentic Trappist producers.",
+    "history": "Monks from Westvleteren founded Scourmont Abbey on a barren plateau near Chimay in 1850 and opened its brewery in 1862, the first to sell beer under the Trappist name. The modern era began after WWII: Father Théodore De Haene, working with Leuven brewing professor Jean De Clerck, isolated the abbey's house yeast in 1948 and reformulated the range, starting with the dark Christmas ale that became Chimay Blue. De Clerck's scientific rigor set standards the whole Trappist world adopted; he chose burial at the abbey in 1978. Production is now run by lay staff under monastic control through the Chimay Group, with bottling at nearby Baileux, and the 'Authentic Trappist Product' rules — brewing within the abbey, monastic oversight, profits to charity — codified partly in response to imitators.",
+    "signatureBottleIds": ["chimay-blue"],
+    "facts": [
+      "Chimay was the first brewery to market beer under the Trappist name.",
+      "The house yeast strain isolated in 1948 is still used across the range.",
+      "Chimay's cheeses, made with milk from local farms, predate many of its beers as an abbey industry."
+    ],
+    "timeline": [
+      {"year": 1850, "event": "Scourmont Abbey founded near Chimay", "type": "milestone"},
+      {"year": 1862, "event": "Abbey brewery begins selling beer", "type": "milestone"},
+      {"year": 1948, "event": "Father Théodore isolates the house yeast with Jean De Clerck", "type": "change"}
+    ]
+  }
+]

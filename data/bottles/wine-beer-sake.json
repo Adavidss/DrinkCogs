@@ -1,0 +1,595 @@
+[
+  {
+    "id": "chateau-margaux-2015",
+    "name": "Château Margaux 2015",
+    "shortName": "Margaux 2015",
+    "brand": "Château Margaux",
+    "producerId": "chateau-margaux",
+    "category": "wine",
+    "subcategory": "red",
+    "style": "Margaux AOC — Premier Grand Cru Classé (1855)",
+    "countryId": "france",
+    "regionId": "bordeaux",
+    "abv": 13.5,
+    "proof": null,
+    "ageStatement": null,
+    "ageYears": null,
+    "vintage": 2015,
+    "releaseYear": 2018,
+    "sizeMl": 750,
+    "msrp": 650,
+    "estValue": 1000,
+    "availability": "rare",
+    "limited": true,
+    "discontinued": false,
+    "featured": true,
+    "color": "#46101f",
+    "colorName": "Deep garnet",
+    "glassColor": "#1f3b26",
+    "shape": "wine-bordeaux",
+    "description": "The grand vin of Château Margaux from a vintage widely counted among the finest of the modern era, and one with unusual emotional weight for the estate. 2015 was the year the château inaugurated its new Norman Foster-designed winery, and it became the final vintage overseen by longtime managing director Paul Pontallier, who died in March 2016 before the wine was bottled. The estate marked the occasion with a one-off commemorative bottle, screen-printed in gold rather than dressed with the usual paper label. In the glass it is quintessential Margaux: a wine of perfume and texture rather than sheer mass, layering blackcurrant, violet and cedar over fine-grained tannin. Critical consensus places it among the estate's greatest post-war releases, and it is priced and traded accordingly on the collector market.",
+    "history": "Château Margaux's vineyard was assembled by the Lestonnac family in the late sixteenth century, and the estate was ranked a First Growth in the 1855 classification — the only one that shares its name with its appellation. Thomas Jefferson singled out its wine on his 1787 Bordeaux tour. The Mentzelopoulos family bought the struggling property in 1977 and restored it to the front rank; the 2015 vintage coincided with the estate's first major architectural expansion in two centuries.",
+    "production": "Fruit comes from the estate's gravel croupes in the Margaux appellation, farmed plot by plot and harvested by hand. The 2015 grand vin blend is 87% cabernet sauvignon, 8% merlot, 3% cabernet franc and 2% petit verdot — an unusually cabernet-dominant selection representing only about a third of the crop. Fermentation is in oak and stainless vats, followed by roughly 18–24 months in 100% new French oak barriques, with traditional fining.",
+    "mashBill": null,
+    "grapes": [
+      "Cabernet Sauvignon",
+      "Merlot",
+      "Cabernet Franc",
+      "Petit Verdot"
+    ],
+    "botanicals": null,
+    "barrel": "18–24 months in 100% new French oak barriques",
+    "finishCask": null,
+    "filtration": "Traditionally fined; minimal filtration",
+    "coloring": null,
+    "tastingNotes": {
+      "nose": "Blackcurrant, violet and crushed raspberry over cedar, pencil shavings and a cool graphite mineral note",
+      "palate": "Silky yet densely woven; cassis and black cherry framed by ultra-fine tannin, with tobacco leaf and subtle spice",
+      "finish": "Very long, perfumed and precise — florals and graphite persisting for minutes"
+    },
+    "flavor": {
+      "sweetness": 2,
+      "oak": 7,
+      "smoke": 1,
+      "fruit": 8,
+      "vanilla": 3,
+      "chocolate": 2,
+      "coffee": 1,
+      "nut": 1,
+      "herbal": 3,
+      "earthy": 5,
+      "spice": 4,
+      "pepper": 2,
+      "caramel": 0,
+      "honey": 0,
+      "leather": 4,
+      "citrus": 0,
+      "floral": 7,
+      "body": 8,
+      "finish": 9,
+      "complexity": 10
+    },
+    "glassware": [
+      "Bordeaux glass",
+      "Red wine glass"
+    ],
+    "servingTemp": "16–18 °C, decanted 1–2 hours; built to cellar for 30+ years",
+    "pairings": [
+      "Roast rack of lamb with herbes de Provence",
+      "Filet of beef with black truffle jus",
+      "Roast squab",
+      "Aged Comté"
+    ],
+    "cocktailIds": [],
+    "awards": [],
+    "facts": [
+      "Château Margaux is the only 1855 First Growth that carries the same name as its appellation.",
+      "The 2015 bottle is screen-printed in gold — a one-time design honoring the late director Paul Pontallier and the new Norman Foster winery, both milestones of that vintage.",
+      "The neo-Palladian château, completed in 1815, is nicknamed the 'Versailles of the Médoc'.",
+      "Only around a third of the estate's crop makes it into the grand vin in a given year."
+    ],
+    "relatedIds": [
+      "opus-one-2019",
+      "tignanello-2020",
+      "caymus-cabernet",
+      "dom-perignon-2013",
+      "taylors-10-tawny"
+    ],
+    "timeline": [
+      {
+        "year": 1855,
+        "event": "Ranked a Premier Grand Cru Classé in the Bordeaux classification",
+        "type": "milestone"
+      },
+      {
+        "year": 1977,
+        "event": "André Mentzelopoulos purchases and begins restoring the estate",
+        "type": "change"
+      },
+      {
+        "year": 2015,
+        "event": "Norman Foster-designed winery inaugurated; final vintage of director Paul Pontallier",
+        "type": "milestone"
+      },
+      {
+        "year": 2018,
+        "event": "2015 grand vin released in a commemorative screen-printed bottle",
+        "type": "release"
+      }
+    ],
+    "tags": [
+      "first-growth",
+      "grand-vin",
+      "collector",
+      "icon"
+    ]
+  },
+  {
+    "id": "opus-one-2019",
+    "name": "Opus One 2019",
+    "shortName": "Opus One 2019",
+    "brand": "Opus One",
+    "producerId": "opus-one-winery",
+    "category": "wine",
+    "subcategory": "red",
+    "style": "Napa Valley Bordeaux-style red blend",
+    "countryId": "united-states",
+    "regionId": "napa-valley",
+    "abv": 14.3,
+    "proof": null,
+    "ageStatement": null,
+    "ageYears": null,
+    "vintage": 2019,
+    "releaseYear": 2022,
+    "sizeMl": 750,
+    "msrp": 450,
+    "estValue": 425,
+    "availability": "limited",
+    "limited": false,
+    "discontinued": false,
+    "featured": false,
+    "color": "#3f0d1c",
+    "colorName": "Opaque ruby",
+    "glassColor": "#1f3b26",
+    "shape": "wine-bordeaux",
+    "description": "Opus One is the Napa Valley estate founded as a fifty-fifty venture between Robert Mondavi and Baron Philippe de Rothschild of Château Mouton Rothschild — old-world pedigree grafted onto Oakville fruit. The 2019 vintage, from a long, moderate growing season, is considered one of the estate's strongest recent releases: a cabernet-led blend of all five major Bordeaux varieties that balances Napa's dark, plush fruit against European restraint, savory tannin and cellar-worthy structure. One wine is made each year (with a second label, Overture, drawn from declassified lots), and the château-style approach extends to en primeur sales through the Bordeaux négociant system — unusual for an American winery. It remains one of the few California wines with genuine global luxury distribution.",
+    "history": "Robert Mondavi and Baron Philippe de Rothschild sketched the partnership in Hawaii in 1978 and made a first vintage in 1979, unveiled in 1984 at about $50 a bottle — then the most expensive California release. The name Opus One, chosen by the Baron, casts the wine as a composer's first masterwork. The estate's landmark semi-subterranean winery in Oakville opened in 1991. Today ownership is shared by Constellation Brands and Baron Philippe de Rothschild S.A.",
+    "production": "Estate vineyards surround the winery in Oakville, planted to tightly spaced Bordeaux varieties on gravelly loam. The 2019 blend is 78% cabernet sauvignon with 8% petit verdot, 6% cabernet franc, 6% merlot and 2% malbec. Grapes are hand-harvested at night, sorted berry by berry, fermented in stainless steel with gentle extraction, then aged about 18 months in new French oak before blending and bottling at the estate.",
+    "mashBill": null,
+    "grapes": [
+      "Cabernet Sauvignon",
+      "Petit Verdot",
+      "Cabernet Franc",
+      "Merlot",
+      "Malbec"
+    ],
+    "botanicals": null,
+    "barrel": "About 18 months in new French oak barriques",
+    "finishCask": null,
+    "filtration": null,
+    "coloring": null,
+    "tastingNotes": {
+      "nose": "Cassis, black cherry and blueberry with violets, graphite, cocoa and a savory bay-leaf edge",
+      "palate": "Full and velvety; layered dark fruit, espresso and baking spice over polished, structured tannin",
+      "finish": "Long and composed, dark fruit fading into mineral and fine oak spice"
+    },
+    "flavor": {
+      "sweetness": 3,
+      "oak": 7,
+      "smoke": 1,
+      "fruit": 8,
+      "vanilla": 4,
+      "chocolate": 4,
+      "coffee": 3,
+      "nut": 1,
+      "herbal": 3,
+      "earthy": 4,
+      "spice": 5,
+      "pepper": 2,
+      "caramel": 1,
+      "honey": 0,
+      "leather": 3,
+      "citrus": 0,
+      "floral": 4,
+      "body": 9,
+      "finish": 8,
+      "complexity": 8
+    },
+    "glassware": [
+      "Bordeaux glass",
+      "Red wine glass"
+    ],
+    "servingTemp": "16–18 °C, decanted about an hour; drinks well young but cellars 20+ years",
+    "pairings": [
+      "Dry-aged ribeye",
+      "Roast lamb loin with rosemary",
+      "Wild mushroom risotto",
+      "Aged Gouda"
+    ],
+    "cocktailIds": [],
+    "awards": [],
+    "facts": [
+      "The label carries the silhouetted profiles of both founders, Robert Mondavi and Baron Philippe de Rothschild.",
+      "Opus One sells a portion of each vintage en primeur through Bordeaux's Place de Bordeaux négociant network — rare for a Napa estate.",
+      "The 1984 debut price of about $50 made it the most expensive California wine release of its day."
+    ],
+    "relatedIds": [
+      "chateau-margaux-2015",
+      "caymus-cabernet",
+      "tignanello-2020"
+    ],
+    "timeline": [
+      {
+        "year": 1979,
+        "event": "First vintage produced from Mondavi's To Kalon fruit",
+        "type": "milestone"
+      },
+      {
+        "year": 1984,
+        "event": "First vintages (1979 and 1980) released simultaneously",
+        "type": "release"
+      },
+      {
+        "year": 1991,
+        "event": "Purpose-built Oakville winery completed",
+        "type": "milestone"
+      },
+      {
+        "year": 2022,
+        "event": "2019 vintage released",
+        "type": "release"
+      }
+    ],
+    "tags": [
+      "napa-icon",
+      "bordeaux-blend",
+      "joint-venture",
+      "collector"
+    ]
+  },
+  {
+    "id": "tignanello-2020",
+    "name": "Tignanello 2020",
+    "shortName": "Tignanello 2020",
+    "brand": "Marchesi Antinori",
+    "producerId": "marchesi-antinori",
+    "category": "wine",
+    "subcategory": "red",
+    "style": "Toscana IGT — Super Tuscan",
+    "countryId": "italy",
+    "regionId": "tuscany",
+    "abv": 14.0,
+    "proof": null,
+    "ageStatement": null,
+    "ageYears": null,
+    "vintage": 2020,
+    "releaseYear": 2022,
+    "sizeMl": 750,
+    "msrp": 160,
+    "estValue": 150,
+    "availability": "limited",
+    "limited": false,
+    "discontinued": false,
+    "featured": false,
+    "color": "#58121f",
+    "colorName": "Dark ruby",
+    "glassColor": "#1f3b26",
+    "shape": "wine-bordeaux",
+    "description": "Tignanello is the wine that ignited the Super Tuscan movement: a sangiovese-led blend with cabernet, grown on a single limestone-and-schist hillside vineyard in the heart of Chianti Classico yet deliberately bottled outside the appellation's rules. When Piero Antinori dropped the mandatory white grapes, brought in French varieties and aged the wine in small barriques, Italian law relegated it to lowly 'table wine' status — while critics and collectors elevated it to icon. The 2020 vintage, from a warm season tempered by cool September nights, shows the house signature: dark cherry and spiced plum riding bright sangiovese acidity, with cabernet adding graphite depth. It remains one of Italy's most influential and consistently benchmark-setting reds.",
+    "history": "The Antinori family has made wine since 1385, but Tignanello marks its modern turning point. The vineyard's 1970 Chianti Classico Riserva 'vigneto Tignanello' became, from the 1971 vintage, a stand-alone wine; white grapes were abandoned and cabernet joined the blend with the 1975 harvest. Its commercial success (alongside cousin Sassicaia) forced Italy to invent new legal categories, culminating in the IGT designation that legitimized the Super Tuscans.",
+    "production": "Fruit comes exclusively from the 57-hectare Tignanello vineyard at 350–400 metres on the Antinori estate in Chianti Classico, on calcareous soils rich in galestro and alberese. The 2020 blend is roughly 80% sangiovese, 15% cabernet sauvignon and 5% cabernet franc. Varieties ferment separately in temperature-controlled vats with the malolactic completed in barrique, then the blended wine ages 12–16 months in French and Hungarian oak, part new, plus a year in bottle.",
+    "mashBill": null,
+    "grapes": [
+      "Sangiovese",
+      "Cabernet Sauvignon",
+      "Cabernet Franc"
+    ],
+    "botanicals": null,
+    "barrel": "12–16 months in French and Hungarian oak barriques, a portion new",
+    "finishCask": null,
+    "filtration": null,
+    "coloring": null,
+    "tastingNotes": {
+      "nose": "Dark cherry, plum and blackberry with violets, sweet tobacco, balsamic herbs and cedar",
+      "palate": "Medium-full with vivid acidity; morello cherry and pomegranate over fine tannin, cabernet lending graphite and dark spice",
+      "finish": "Long and savory — cherry pit, leather and warm spice with a mineral close"
+    },
+    "flavor": {
+      "sweetness": 2,
+      "oak": 6,
+      "smoke": 1,
+      "fruit": 8,
+      "vanilla": 3,
+      "chocolate": 2,
+      "coffee": 2,
+      "nut": 1,
+      "herbal": 4,
+      "earthy": 5,
+      "spice": 5,
+      "pepper": 3,
+      "caramel": 0,
+      "honey": 0,
+      "leather": 5,
+      "citrus": 0,
+      "floral": 5,
+      "body": 7,
+      "finish": 8,
+      "complexity": 8
+    },
+    "glassware": [
+      "Bordeaux glass",
+      "Red wine glass"
+    ],
+    "servingTemp": "16–18 °C, decanted about an hour; best from 5–20 years after the vintage",
+    "pairings": [
+      "Bistecca alla fiorentina",
+      "Pappardelle with wild boar ragù",
+      "Aged pecorino toscano",
+      "Roast pork with fennel"
+    ],
+    "cocktailIds": [],
+    "awards": [],
+    "facts": [
+      "Tignanello was among the first Chianti-zone reds to abandon white grapes entirely and among the first sangiovese wines aged in French barriques.",
+      "Because it broke Chianti Classico rules, early vintages were legally classified as vino da tavola — table wine.",
+      "The neighboring Solaia vineyard, source of Antinori's cabernet-led flagship, sits on the same hillside with the blend proportions inverted.",
+      "Meghan Markle named her former lifestyle blog 'The Tig' after Tignanello."
+    ],
+    "relatedIds": [
+      "chateau-margaux-2015",
+      "opus-one-2019",
+      "caymus-cabernet"
+    ],
+    "timeline": [
+      {
+        "year": 1971,
+        "event": "First stand-alone Tignanello vintage bottled outside Chianti Classico rules",
+        "type": "milestone"
+      },
+      {
+        "year": 1975,
+        "event": "Cabernet enters the blend; white grapes dropped for good",
+        "type": "change"
+      },
+      {
+        "year": 2022,
+        "event": "2020 vintage released",
+        "type": "release"
+      }
+    ],
+    "tags": [
+      "super-tuscan",
+      "pioneer",
+      "sangiovese",
+      "single-vineyard"
+    ]
+  },
+  {
+    "id": "caymus-cabernet",
+    "name": "Caymus Vineyards Napa Cabernet Sauvignon",
+    "shortName": "Caymus Cabernet",
+    "brand": "Caymus Vineyards",
+    "producerId": "caymus-vineyards",
+    "category": "wine",
+    "subcategory": "red",
+    "style": "Napa Valley Cabernet Sauvignon",
+    "countryId": "united-states",
+    "regionId": "napa-valley",
+    "abv": 14.6,
+    "proof": null,
+    "ageStatement": null,
+    "ageYears": null,
+    "vintage": null,
+    "releaseYear": 1972,
+    "sizeMl": 750,
+    "msrp": 90,
+    "estValue": 85,
+    "availability": "widely-available",
+    "limited": false,
+    "discontinued": false,
+    "featured": false,
+    "color": "#4a0f22",
+    "colorName": "Inky ruby",
+    "glassColor": "#1f3b26",
+    "shape": "wine-bordeaux",
+    "description": "Caymus Napa Valley Cabernet Sauvignon is arguably America's most recognizable steakhouse red: dark, plush and unapologetically generous. Made by the Wagner family in Rutherford since the 1972 vintage, it defined a crowd-pleasing California style — ripe dark fruit, soft rounded tannin and cocoa-rich oak — that countless wineries have since chased. Winemaker Chuck Wagner farms and buys fruit across a spread of Napa sub-appellations, blending for consistency rather than vineyard expression, and releases the wine young and ready to drink. Critics debate its opulence; restaurants cannot keep it on lists. Released annually in vast quantities for a wine at its price, it functions for many drinkers as the gateway to premium Napa cabernet, with the smaller-production Special Selection sitting above it.",
+    "history": "Charlie Wagner and his wife Lorna Belle Glos Wagner, from families farming Napa since the nineteenth century, founded Caymus in 1972 with their son Chuck, producing their first cabernet that year. The Special Selection bottling followed in 1975 and twice took Wine Spectator's Wine of the Year — the only wine to do so. The family business has since grown into Wagner Family of Wine, spanning Conundrum, Mer Soleil, Belle Glos and other labels.",
+    "production": "Fruit is drawn from Wagner-farmed and grower vineyards across Napa Valley — the label carries the broad Napa Valley appellation rather than a single district. Grapes are picked ripe, often with extended hang time for supple tannin, fermented in stainless steel with carefully managed extraction, and aged roughly a year and a half in oak barrels, around a third new French, before an early, drink-now release.",
+    "mashBill": null,
+    "grapes": [
+      "Cabernet Sauvignon"
+    ],
+    "botanicals": null,
+    "barrel": "Roughly 16 months in oak, about one-third new French",
+    "finishCask": null,
+    "filtration": null,
+    "coloring": null,
+    "tastingNotes": {
+      "nose": "Ripe blackberry, cassis and black cherry with cocoa powder, vanilla and toasted oak",
+      "palate": "Full, plush and rounded; dark fruit compote, mocha and baking spice over velvet-soft tannin",
+      "finish": "Warm and generous — dark chocolate and sweet oak with gentle grip"
+    },
+    "flavor": {
+      "sweetness": 4,
+      "oak": 7,
+      "smoke": 1,
+      "fruit": 8,
+      "vanilla": 6,
+      "chocolate": 5,
+      "coffee": 3,
+      "nut": 1,
+      "herbal": 1,
+      "earthy": 2,
+      "spice": 4,
+      "pepper": 2,
+      "caramel": 2,
+      "honey": 0,
+      "leather": 2,
+      "citrus": 0,
+      "floral": 1,
+      "body": 9,
+      "finish": 6,
+      "complexity": 6
+    },
+    "glassware": [
+      "Bordeaux glass",
+      "Red wine glass"
+    ],
+    "servingTemp": "16–18 °C; no decanting required — made to drink on release",
+    "pairings": [
+      "Grilled ribeye",
+      "Braised short ribs",
+      "Blue-cheese burger",
+      "Dark chocolate desserts"
+    ],
+    "cocktailIds": [],
+    "awards": [],
+    "facts": [
+      "The name comes from Rancho Caymus, the Mexican land grant that once covered the Rutherford area.",
+      "Caymus Special Selection is the only wine to have been named Wine Spectator's Wine of the Year twice (for the 1984 and 1990 vintages).",
+      "Caymus popularized the ripe, extended-hang-time style that defines modern mainstream Napa cabernet."
+    ],
+    "relatedIds": [
+      "opus-one-2019",
+      "chateau-margaux-2015",
+      "tignanello-2020",
+      "cloudy-bay-sauvignon-blanc"
+    ],
+    "timeline": [
+      {
+        "year": 1972,
+        "event": "Wagner family founds Caymus and crushes its first Napa cabernet",
+        "type": "milestone"
+      },
+      {
+        "year": 1975,
+        "event": "First Special Selection vintage produced",
+        "type": "release"
+      },
+      {
+        "year": 1994,
+        "event": "Special Selection 1990 named Wine Spectator Wine of the Year, the label's second win",
+        "type": "award"
+      }
+    ],
+    "tags": [
+      "crowd-pleaser",
+      "napa",
+      "steakhouse-staple"
+    ]
+  },
+  {
+    "id": "cloudy-bay-sauvignon-blanc",
+    "name": "Cloudy Bay Sauvignon Blanc",
+    "shortName": "Cloudy Bay",
+    "brand": "Cloudy Bay",
+    "producerId": "cloudy-bay-vineyards",
+    "category": "wine",
+    "subcategory": "white",
+    "style": "Marlborough Sauvignon Blanc",
+    "countryId": "new-zealand",
+    "regionId": "marlborough",
+    "abv": 13.0,
+    "proof": null,
+    "ageStatement": null,
+    "ageYears": null,
+    "vintage": null,
+    "releaseYear": 1985,
+    "sizeMl": 750,
+    "msrp": 35,
+    "estValue": 30,
+    "availability": "widely-available",
+    "limited": false,
+    "discontinued": false,
+    "featured": false,
+    "color": "#e9edc0",
+    "colorName": "Pale straw with green glints",
+    "glassColor": "#2c4c36",
+    "shape": "wine-burgundy",
+    "description": "Cloudy Bay Sauvignon Blanc is the wine that put New Zealand on the world map. From its 1985 debut, its explosively aromatic style — passionfruit, gooseberry, fresh-cut grass and limey acidity — was unlike anything Europe was producing from the grape, and it became the international benchmark against which all Marlborough sauvignon is still measured. Demand through the late 1980s and 1990s outran supply so badly that allocations became legend in London wine shops. Now owned by LVMH, the winery blends fruit from vineyards across Marlborough's Wairau Valley, aiming each year for the same taut balance of tropical exuberance and mineral cut. It remains a rare thing: a mass-distributed wine that defined an entire national industry, made in a region where vines were first planted only in 1973.",
+    "history": "David Hohnen of Western Australia's Cape Mentelle founded Cloudy Bay in 1985, hiring winemaker Kevin Judd and naming the venture for the bay at the Wairau River's mouth — christened by Captain James Cook in 1770. The first vintage was made partly in borrowed facilities, yet within a few years the label had cult status in the UK. Veuve Clicquot took a majority stake in 1990 and full LVMH ownership followed in 2003.",
+    "production": "Grapes come from company-owned and long-term grower vineyards across the Wairau Valley's stony, free-draining alluvial soils, machine- and hand-harvested cool and pressed quickly to preserve aromatics. Fermentation is overwhelmingly in temperature-controlled stainless steel with selected yeasts; a small fraction ferments in older French oak for mid-palate weight. Parcels rest on light lees for several months before blending and early bottling under screwcap.",
+    "mashBill": null,
+    "grapes": [
+      "Sauvignon Blanc"
+    ],
+    "botanicals": null,
+    "barrel": "Predominantly stainless steel; a small fraction fermented in older French oak",
+    "finishCask": null,
+    "filtration": "Filtered before bottling",
+    "coloring": null,
+    "tastingNotes": {
+      "nose": "Passionfruit, gooseberry and kaffir lime over cut grass, tomato leaf and wet stone",
+      "palate": "Vivid and dry with racy acidity; citrus and stone fruit with a saline, chalky undertow",
+      "finish": "Clean and mouth-watering, lime zest and mineral notes lingering"
+    },
+    "flavor": {
+      "sweetness": 1,
+      "oak": 1,
+      "smoke": 0,
+      "fruit": 8,
+      "vanilla": 0,
+      "chocolate": 0,
+      "coffee": 0,
+      "nut": 0,
+      "herbal": 7,
+      "earthy": 2,
+      "spice": 1,
+      "pepper": 0,
+      "caramel": 0,
+      "honey": 0,
+      "leather": 0,
+      "citrus": 8,
+      "floral": 4,
+      "body": 4,
+      "finish": 6,
+      "complexity": 6
+    },
+    "glassware": [
+      "White wine glass"
+    ],
+    "servingTemp": "8–10 °C; drink within 2–3 years of vintage for peak aromatics",
+    "pairings": [
+      "Oysters",
+      "Goat cheese salad",
+      "Grilled asparagus",
+      "Ceviche"
+    ],
+    "cocktailIds": [],
+    "awards": [],
+    "facts": [
+      "Cloudy Bay was named for the bay Captain Cook charted in 1770, itself named for the sediment-clouded waters at the Wairau River mouth.",
+      "Marlborough had no commercial vineyards before 1973 — twelve years before Cloudy Bay's first vintage helped make it famous.",
+      "Founding winemaker Kevin Judd is also a noted vineyard photographer whose images appeared on the label's early marketing; he left to found Greywacke in 2009."
+    ],
+    "relatedIds": [
+      "dr-loosen-riesling-kabinett",
+      "whispering-angel-rose",
+      "tio-pepe-fino",
+      "veuve-clicquot-yellow-label"
+    ],
+    "timeline": [
+      {
+        "year": 1985,
+        "event": "First vintage of Cloudy Bay Sauvignon Blanc",
+        "type": "release"
+      },
+      {
+        "year": 1990,
+        "event": "Veuve Clicquot acquires a majority shareholding",
+        "type": "change"
+      },
+      {
+        "year": 2003,
+        "event": "Cloudy Bay passes fully into LVMH ownership",
+        "type": "change"
+      }
+    ],
+    "tags": [
+      "benchmark",
+      "aromatic",
+      "screwcap",
+      "value-pick"
+    ]
+  }
+]

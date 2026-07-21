@@ -1,0 +1,507 @@
+[
+  {
+    "id": "old-fashioned",
+    "name": "Old Fashioned",
+    "era": "1880s",
+    "origin": "Louisville / New York, USA",
+    "description": "The template from which the word 'cocktail' grew: spirit, sugar, bitters and water, unchanged in spirit since the early 1800s. The name arose in the 1880s when drinkers began asking for whiskey cocktails made 'the old-fashioned way', rejecting newfangled additions. It remains the benchmark test of a bourbon or rye — and of the bartender stirring it.",
+    "ingredients": [
+      {"amount": "60 ml (2 oz)", "item": "Bourbon or rye whiskey"},
+      {"amount": "1 cube (or 5 ml / 1 tsp rich syrup)", "item": "Sugar"},
+      {"amount": "2–3 dashes", "item": "Angostura bitters"},
+      {"amount": "1 piece", "item": "Orange peel"}
+    ],
+    "method": [
+      "Place the sugar cube in a rocks glass, saturate with the bitters and a few drops of water, and muddle to a paste (skip if using syrup).",
+      "Add the whiskey and a large ice cube.",
+      "Stir 20–30 seconds until chilled and lightly diluted.",
+      "Express the orange peel over the surface, rub it on the rim and drop it in."
+    ],
+    "glass": "Rocks glass",
+    "garnish": "Orange peel; optional cocktail cherry",
+    "suitedBottleIds": ["buffalo-trace", "eagle-rare-10", "woodford-reserve", "rittenhouse-rye"]
+  },
+  {
+    "id": "manhattan",
+    "name": "Manhattan",
+    "era": "1870s–1880s",
+    "origin": "New York City, USA",
+    "description": "The king of stirred whiskey drinks, born in Manhattan's club world in the 1870s–80s. Rye's spice against sweet vermouth's herbal richness, bound by aromatic bitters, made it the archetype for a whole family of cocktails — the Rob Roy, the Boulevardier and ultimately the dry Martini all follow its blueprint. Serve it icy, silky and undiluted by shortcuts.",
+    "ingredients": [
+      {"amount": "60 ml (2 oz)", "item": "Rye whiskey"},
+      {"amount": "30 ml (1 oz)", "item": "Sweet (red) vermouth"},
+      {"amount": "2 dashes", "item": "Angostura bitters"},
+      {"amount": "1", "item": "Maraschino or brandied cherry"}
+    ],
+    "method": [
+      "Add rye, vermouth and bitters to a mixing glass filled with ice.",
+      "Stir about 30 seconds until well chilled.",
+      "Strain into a chilled coupe or Nick & Nora glass.",
+      "Garnish with the cherry."
+    ],
+    "glass": "Coupe or Nick & Nora",
+    "garnish": "Cocktail cherry (or lemon twist for a drier drink)",
+    "suitedBottleIds": ["rittenhouse-rye", "sazerac-rye", "whistlepig-10"]
+  },
+  {
+    "id": "whiskey-sour",
+    "name": "Whiskey Sour",
+    "era": "1860s",
+    "origin": "United States (first printed by Jerry Thomas, 1862)",
+    "description": "The definitive member of the sour family: whiskey, lemon and sugar in balance, first codified in Jerry Thomas's 1862 bartender's guide. With an optional egg white it becomes plush and cloud-topped (a 'Boston Sour'); without, it is bracing and direct. A good sour proves a bar can balance strong, sweet and sharp — the fundamental cocktail equation.",
+    "ingredients": [
+      {"amount": "60 ml (2 oz)", "item": "Bourbon"},
+      {"amount": "30 ml (1 oz)", "item": "Fresh lemon juice"},
+      {"amount": "22.5 ml (¾ oz)", "item": "Simple syrup"},
+      {"amount": "15–20 ml (½–¾ oz), optional", "item": "Egg white"}
+    ],
+    "method": [
+      "Add all ingredients to a shaker; if using egg white, first shake without ice (dry shake) to build foam.",
+      "Add ice and shake hard for 10–15 seconds.",
+      "Strain into a rocks glass over fresh ice, or serve up in a coupe.",
+      "Garnish with the orange or lemon and a cherry; add a few drops of bitters on the foam if using egg white."
+    ],
+    "glass": "Rocks glass (or coupe, served up)",
+    "garnish": "Orange or lemon slice and a cherry",
+    "suitedBottleIds": ["buffalo-trace", "makers-mark", "wild-turkey-101", "four-roses-single-barrel"]
+  },
+  {
+    "id": "sazerac-cocktail",
+    "name": "Sazerac",
+    "era": "1850s–1870s",
+    "origin": "New Orleans, USA",
+    "description": "New Orleans in a glass — and the city's official cocktail since 2008. Born around the Sazerac Coffee House and Antoine Peychaud's apothecary bitters, it began as a cognac drink named for Sazerac-de-Forge brandy; rye took over after phylloxera ravaged French vineyards. The absinthe-rinsed glass, Peychaud's rosy anise note and the discarded lemon peel are non-negotiable ritual.",
+    "ingredients": [
+      {"amount": "60 ml (2 oz)", "item": "Rye whiskey (or cognac, the original base)"},
+      {"amount": "1 cube (or 5 ml / 1 tsp syrup)", "item": "Sugar"},
+      {"amount": "3 dashes", "item": "Peychaud's bitters"},
+      {"amount": "5 ml (1 bar spoon)", "item": "Absinthe, to rinse"},
+      {"amount": "1 piece", "item": "Lemon peel"}
+    ],
+    "method": [
+      "Chill a rocks glass, rinse its interior with absinthe and discard the excess.",
+      "In a mixing glass, muddle the sugar with Peychaud's bitters and a few drops of water, add the rye and ice, and stir until cold.",
+      "Strain into the prepared glass — no ice.",
+      "Express the lemon peel over the drink and, by tradition, discard it."
+    ],
+    "glass": "Chilled rocks glass, no ice",
+    "garnish": "Lemon peel, expressed and discarded",
+    "suitedBottleIds": ["sazerac-rye", "rittenhouse-rye", "pierre-ferrand-1840"]
+  },
+  {
+    "id": "mint-julep",
+    "name": "Mint Julep",
+    "era": "Early 1800s",
+    "origin": "American South (Virginia / Kentucky), USA",
+    "description": "The aristocrat of American coolers, sipped on Southern porches since the early nineteenth century — originally as a morning bracer — and the official drink of the Kentucky Derby since 1938, where over a hundred thousand are served each May. Bourbon, mint, sugar and a glittering dome of crushed ice: theatrical, simple and devastating in summer heat.",
+    "ingredients": [
+      {"amount": "60 ml (2 oz)", "item": "Bourbon"},
+      {"amount": "8–10 leaves", "item": "Fresh mint"},
+      {"amount": "10 ml (⅓ oz)", "item": "Simple syrup"},
+      {"amount": "To fill", "item": "Crushed ice"}
+    ],
+    "method": [
+      "Gently press the mint leaves with the syrup in the bottom of a julep cup — bruise, don't shred.",
+      "Add the bourbon and fill the cup with crushed ice.",
+      "Stir until the cup frosts, then mound more crushed ice on top.",
+      "Garnish with a generous mint bouquet beside a short straw."
+    ],
+    "glass": "Silver julep cup (or rocks glass)",
+    "garnish": "Large bouquet of mint, lightly slapped",
+    "suitedBottleIds": ["makers-mark", "woodford-reserve", "wild-turkey-101"]
+  },
+  {
+    "id": "highball",
+    "name": "Highball",
+    "era": "1890s",
+    "origin": "England / New York, USA (perfected in Japan)",
+    "description": "The simplest great drink: whisky lengthened with ice-cold sparkling water over hard ice. American bars claimed it in the 1890s from the English brandy-and-soda tradition, but Japan elevated it to craft — Suntory's postwar highball culture and its 2000s revival made the meticulous whisky highball a category of its own, precise about ice, temperature and bubble.",
+    "ingredients": [
+      {"amount": "45–60 ml (1.5–2 oz)", "item": "Whisky (blended Scotch or Japanese)"},
+      {"amount": "90–120 ml (3–4 oz)", "item": "Chilled sparkling water"},
+      {"amount": "1 piece, optional", "item": "Lemon peel"}
+    ],
+    "method": [
+      "Fill a highball glass with cold, dense ice and stir briefly to chill; drain any meltwater.",
+      "Pour in the whisky and stir a few turns.",
+      "Top gently with well-chilled sparkling water down the side of the glass.",
+      "Give one careful lift-stir to combine without killing the bubbles; add lemon peel if desired."
+    ],
+    "glass": "Highball",
+    "garnish": "Optional lemon peel",
+    "suitedBottleIds": ["johnnie-walker-black", "hibiki-harmony", "nikka-from-the-barrel", "jameson"]
+  },
+  {
+    "id": "penicillin",
+    "name": "Penicillin",
+    "era": "2005",
+    "origin": "Milk & Honey, New York City, USA",
+    "description": "The defining modern-classic cocktail, created by Australian bartender Sam Ross at New York's Milk & Honey in 2005. A blended-Scotch sour sweetened with honey-ginger syrup, finished with a float of smoky Islay malt — medicine by name, medicine by nature. Within a decade it was on menus worldwide, the rare twenty-first-century drink with true canon status.",
+    "ingredients": [
+      {"amount": "60 ml (2 oz)", "item": "Blended Scotch whisky"},
+      {"amount": "22.5 ml (¾ oz)", "item": "Fresh lemon juice"},
+      {"amount": "22.5 ml (¾ oz)", "item": "Honey-ginger syrup"},
+      {"amount": "7.5 ml (¼ oz)", "item": "Peated Islay single malt, to float"}
+    ],
+    "method": [
+      "Shake the blended Scotch, lemon juice and honey-ginger syrup hard with ice.",
+      "Strain into a rocks glass over one large cube.",
+      "Float the Islay malt over the back of a bar spoon.",
+      "Garnish with candied ginger."
+    ],
+    "glass": "Rocks glass",
+    "garnish": "Candied ginger",
+    "suitedBottleIds": ["johnnie-walker-black", "laphroaig-10", "ardbeg-10"]
+  },
+  {
+    "id": "boulevardier",
+    "name": "Boulevardier",
+    "era": "1920s",
+    "origin": "Paris, France",
+    "description": "The Negroni's whiskey-drinking American cousin, first recorded in Harry McElhone's 1927 'Barflies and Cocktails' and credited to Erskine Gwynne, expatriate editor of the Paris magazine The Boulevardier. Swapping gin for bourbon or rye deepens the drink into autumn territory — Campari's bitterness sanded smooth by oak, caramel and vermouth. Modern specs favor a stronger whiskey backbone.",
+    "ingredients": [
+      {"amount": "45 ml (1.5 oz)", "item": "Bourbon or rye whiskey"},
+      {"amount": "30 ml (1 oz)", "item": "Campari"},
+      {"amount": "30 ml (1 oz)", "item": "Sweet (red) vermouth"},
+      {"amount": "1 piece", "item": "Orange peel"}
+    ],
+    "method": [
+      "Add whiskey, Campari and vermouth to a mixing glass with ice.",
+      "Stir until well chilled.",
+      "Strain into a rocks glass over a large cube (or serve up in a coupe).",
+      "Express the orange peel over the drink and drop it in."
+    ],
+    "glass": "Rocks glass",
+    "garnish": "Orange peel or a cherry",
+    "suitedBottleIds": ["campari", "wild-turkey-101", "rittenhouse-rye"]
+  },
+  {
+    "id": "irish-coffee",
+    "name": "Irish Coffee",
+    "era": "1943",
+    "origin": "Foynes, Ireland (popularized in San Francisco)",
+    "description": "Invented by chef Joe Sheridan in 1943 to revive passengers at the Foynes flying-boat terminal in County Limerick, and carried to fame when travel writer Stanton Delaplane helped San Francisco's Buena Vista Café recreate it in 1952. Hot sweetened coffee and Irish whiskey under a cool collar of lightly whipped cream — drunk through the cream, never stirred.",
+    "ingredients": [
+      {"amount": "45 ml (1.5 oz)", "item": "Irish whiskey"},
+      {"amount": "120 ml (4 oz)", "item": "Hot strong coffee"},
+      {"amount": "2 tsp", "item": "Brown sugar (or demerara syrup)"},
+      {"amount": "30 ml (1 oz)", "item": "Lightly whipped cream"}
+    ],
+    "method": [
+      "Preheat a stemmed heatproof glass with hot water, then empty it.",
+      "Add the sugar and coffee and stir to dissolve.",
+      "Stir in the whiskey.",
+      "Float the barely-whipped cream over the back of a spoon; do not stir — drink through the cream."
+    ],
+    "glass": "Heatproof Irish coffee glass",
+    "garnish": "None (the cream layer is the garnish)",
+    "suitedBottleIds": ["jameson", "green-spot", "bushmills-10"]
+  },
+  {
+    "id": "daiquiri",
+    "name": "Daiquiri",
+    "era": "1898–1900s",
+    "origin": "Santiago de Cuba, Cuba",
+    "description": "Rum, lime and sugar — the Caribbean's perfect equation, named for the Cuban mining town of Daiquirí and often credited to American engineer Jennings Cox around 1898. Havana's El Floridita and barman Constantino Ribalaigua refined it into legend, with Hemingway as star customer. A proper daiquiri is shaken and bone-dry cold, nothing like its frozen slush caricature.",
+    "ingredients": [
+      {"amount": "60 ml (2 oz)", "item": "White or lightly aged rum"},
+      {"amount": "30 ml (1 oz)", "item": "Fresh lime juice"},
+      {"amount": "20 ml (⅔ oz)", "item": "Simple syrup"}
+    ],
+    "method": [
+      "Add rum, lime juice and syrup to a shaker with plenty of ice.",
+      "Shake hard for 10–12 seconds until frost forms on the tin.",
+      "Double-strain into a chilled coupe.",
+      "Garnish with a thin lime wheel."
+    ],
+    "glass": "Coupe",
+    "garnish": "Lime wheel",
+    "suitedBottleIds": ["planteray-barbados-5", "hampden-estate-8", "appleton-estate-12"]
+  },
+  {
+    "id": "mai-tai",
+    "name": "Mai Tai",
+    "era": "1944",
+    "origin": "Trader Vic's, Oakland, California, USA",
+    "description": "Tiki's crown jewel, created by Victor 'Trader Vic' Bergeron in Oakland in 1944 around a 17-year-old Jamaican rum; when a Tahitian friend tasted it she reportedly exclaimed 'maita'i roa a'e' — roughly, 'out of this world'. Aged rum, lime, orange curaçao and almond orgeat: nutty, bright and potent, no fruit-juice slurry required despite decades of resort imitations.",
+    "ingredients": [
+      {"amount": "60 ml (2 oz)", "item": "Aged rum (Jamaican, or a blend)"},
+      {"amount": "30 ml (1 oz)", "item": "Fresh lime juice"},
+      {"amount": "15 ml (½ oz)", "item": "Orange curaçao or Grand Marnier"},
+      {"amount": "15 ml (½ oz)", "item": "Orgeat (almond syrup)"},
+      {"amount": "7.5 ml (¼ oz)", "item": "Rich simple syrup (optional)"}
+    ],
+    "method": [
+      "Shake all ingredients briefly with crushed ice.",
+      "Pour unstrained into a double rocks glass and cap with more crushed ice.",
+      "Sink the spent lime shell into the drink.",
+      "Garnish with a slapped mint sprig."
+    ],
+    "glass": "Double rocks glass",
+    "garnish": "Spent lime shell and mint sprig",
+    "suitedBottleIds": ["appleton-estate-12", "hampden-estate-8", "el-dorado-12", "grand-marnier"]
+  },
+  {
+    "id": "mojito",
+    "name": "Mojito",
+    "era": "Early 1900s (roots to the 1500s)",
+    "origin": "Havana, Cuba",
+    "description": "Cuba's great thirst-quencher: rum brightened with lime, sugar, mint and soda over ice. Its ancestry runs back to El Draque, a sixteenth-century aguardiente-lime-mint remedy linked in legend to Francis Drake's crews, refined over centuries into the drink Havana's La Bodeguita del Medio made famous. Handle the mint gently — bruised leaves perfume; shredded leaves turn bitter.",
+    "ingredients": [
+      {"amount": "50 ml (1.7 oz)", "item": "White or lightly aged rum"},
+      {"amount": "25 ml (0.85 oz)", "item": "Fresh lime juice"},
+      {"amount": "2 tsp", "item": "Sugar (or 15 ml simple syrup)"},
+      {"amount": "8–10 leaves", "item": "Fresh mint"},
+      {"amount": "Top (about 60 ml / 2 oz)", "item": "Soda water"}
+    ],
+    "method": [
+      "In a highball glass, gently press the mint with the sugar and lime juice.",
+      "Add the rum and fill the glass with cracked or crushed ice.",
+      "Stir until cold and the sugar dissolves.",
+      "Top with soda, stir once, and garnish with a mint crown."
+    ],
+    "glass": "Highball",
+    "garnish": "Mint sprig and lime wedge",
+    "suitedBottleIds": ["planteray-barbados-5", "hampden-estate-8"]
+  },
+  {
+    "id": "negroni",
+    "name": "Negroni",
+    "era": "1919",
+    "origin": "Caffè Casoni, Florence, Italy",
+    "description": "By the most accepted account, Count Camillo Negroni asked bartender Fosco Scarselli at Florence's Caffè Casoni in 1919 to stiffen his Americano with gin in place of soda. The result — equal parts gin, Campari and sweet vermouth — is the modern bar's favorite classic: bitter, botanical and perfectly symmetrical, endlessly riffed but never improved.",
+    "ingredients": [
+      {"amount": "30 ml (1 oz)", "item": "London dry gin"},
+      {"amount": "30 ml (1 oz)", "item": "Campari"},
+      {"amount": "30 ml (1 oz)", "item": "Sweet (red) vermouth"},
+      {"amount": "1 piece", "item": "Orange peel or slice"}
+    ],
+    "method": [
+      "Add gin, Campari and vermouth to a mixing glass with ice and stir until well chilled.",
+      "Strain into a rocks glass over one large, clear cube.",
+      "Express the orange peel over the surface and drop it in."
+    ],
+    "glass": "Rocks glass",
+    "garnish": "Orange peel or half-wheel",
+    "suitedBottleIds": ["campari", "tanqueray-london-dry", "plymouth-gin", "the-botanist"]
+  },
+  {
+    "id": "aperol-spritz",
+    "name": "Aperol Spritz",
+    "era": "1950s (spritz roots in the 1800s)",
+    "origin": "Veneto, Italy",
+    "description": "The orange flag of Italian aperitivo hour. The spritz habit began under Habsburg rule, when Austrian soldiers 'sprayed' Veneto wines with water; Aperol claimed the serve in the 1950s and its 3-2-1 formula — prosecco, Aperol, soda — conquered the world in the 2010s. Low in alcohol, bittersweet and ice-cold, it is engineered for golden-hour drinking.",
+    "ingredients": [
+      {"amount": "90 ml (3 oz / 3 parts)", "item": "Prosecco"},
+      {"amount": "60 ml (2 oz / 2 parts)", "item": "Aperol"},
+      {"amount": "30 ml (1 oz / 1 part)", "item": "Soda water"},
+      {"amount": "1", "item": "Orange slice"}
+    ],
+    "method": [
+      "Fill a large wine glass with ice.",
+      "Pour in the prosecco first, then the Aperol (this keeps it from sinking).",
+      "Top with a splash of soda and stir once, gently.",
+      "Garnish with an orange slice."
+    ],
+    "glass": "Large wine glass",
+    "garnish": "Orange slice",
+    "suitedBottleIds": ["aperol", "la-marca-prosecco"]
+  },
+  {
+    "id": "martini",
+    "name": "Martini",
+    "era": "1880s–1900s",
+    "origin": "United States (evolved from the Martinez)",
+    "description": "The cocktail as cultural icon. Descended from the sweeter Martinez of the 1880s, the Martini dried out through the early twentieth century into gin (or vodka) and dry vermouth, stirred glacially cold and finished with olive or lemon twist. Every ratio from 2:1 to a whisper of vermouth has its partisans; what is non-negotiable is temperature and dilution.",
+    "ingredients": [
+      {"amount": "60 ml (2 oz)", "item": "London dry gin (or vodka)"},
+      {"amount": "10–20 ml (⅓–⅔ oz)", "item": "Dry vermouth"},
+      {"amount": "1 dash, optional", "item": "Orange bitters"},
+      {"amount": "1", "item": "Lemon twist or olive"}
+    ],
+    "method": [
+      "Add gin, vermouth and optional bitters to a mixing glass filled with ice.",
+      "Stir 30 seconds or more, until achingly cold.",
+      "Strain into a chilled martini glass or coupe.",
+      "Garnish with a lemon twist (expressed first) or an olive."
+    ],
+    "glass": "Martini glass or coupe",
+    "garnish": "Lemon twist or green olive",
+    "suitedBottleIds": ["tanqueray-london-dry", "plymouth-gin", "the-botanist", "grey-goose"]
+  },
+  {
+    "id": "gin-and-tonic",
+    "name": "Gin & Tonic",
+    "era": "1850s–1870s",
+    "origin": "British India",
+    "description": "Empire medicine turned global staple: British officers in India softened their daily anti-malarial quinine with gin, sugar and lime, and commercial tonic waters like Schweppes's (1870) fixed the formula. The Spanish 'gin-tonica' renaissance — balloon glasses, mountains of ice, expressive garnishes — reframed it as a showcase for botanical gins rather than a mere mixer drink.",
+    "ingredients": [
+      {"amount": "50 ml (1.7 oz)", "item": "Gin"},
+      {"amount": "100–150 ml (3.5–5 oz)", "item": "Chilled tonic water"},
+      {"amount": "1", "item": "Lime wedge (or garnish matched to the gin)"}
+    ],
+    "method": [
+      "Fill a highball or copa glass to the top with cold ice.",
+      "Pour the gin over the ice and stir briefly.",
+      "Top with chilled tonic, poured gently down a bar spoon.",
+      "Garnish to match the gin — lime, cucumber, grapefruit or herbs — and stir once."
+    ],
+    "glass": "Highball or Spanish copa",
+    "garnish": "Lime wedge; cucumber for Hendrick's-style gins",
+    "suitedBottleIds": ["tanqueray-london-dry", "hendricks", "monkey-47", "the-botanist"]
+  },
+  {
+    "id": "last-word",
+    "name": "Last Word",
+    "era": "1910s–1920s",
+    "origin": "Detroit Athletic Club, Detroit, USA",
+    "description": "A Prohibition-era equal-parts marvel from the Detroit Athletic Club, long attributed to vaudeville performer Frank Fogarty, that vanished for decades until Seattle bartender Murray Stenson resurrected it at the Zig Zag Café in 2004. Gin, green Chartreuse, maraschino and lime in perfect quarters: herbal, sharp, funky and luminous — the drink that helped reignite Chartreuse demand worldwide.",
+    "ingredients": [
+      {"amount": "22.5 ml (¾ oz)", "item": "London dry gin"},
+      {"amount": "22.5 ml (¾ oz)", "item": "Green Chartreuse"},
+      {"amount": "22.5 ml (¾ oz)", "item": "Maraschino liqueur"},
+      {"amount": "22.5 ml (¾ oz)", "item": "Fresh lime juice"}
+    ],
+    "method": [
+      "Add all four ingredients to a shaker with ice.",
+      "Shake hard until thoroughly chilled.",
+      "Double-strain into a chilled coupe.",
+      "Garnish with a brandied cherry, if desired."
+    ],
+    "glass": "Coupe",
+    "garnish": "Optional brandied cherry",
+    "suitedBottleIds": ["green-chartreuse", "luxardo-maraschino", "tanqueray-london-dry"]
+  },
+  {
+    "id": "margarita",
+    "name": "Margarita",
+    "era": "1930s–1940s",
+    "origin": "Mexico / US border (disputed)",
+    "description": "The world's favorite tequila drink, with origin stories to spare — a Tijuana bartender's creation for a dancer, a Texas socialite's party trick, or simply the Mexican 'Daisy' (margarita in Spanish) made with tequila. Whatever the truth, tequila, lime and orange liqueur with an optional salted rim is a perfect sour; made with good blanco and fresh lime it needs no slush machine.",
+    "ingredients": [
+      {"amount": "50 ml (1.7 oz)", "item": "Blanco or reposado tequila"},
+      {"amount": "25 ml (0.85 oz)", "item": "Fresh lime juice"},
+      {"amount": "20 ml (⅔ oz)", "item": "Orange liqueur (triple sec or Grand Marnier)"},
+      {"amount": "5–10 ml (¼–⅓ oz), to taste", "item": "Agave syrup (optional)"}
+    ],
+    "method": [
+      "If desired, rub a lime wedge around half the rim of a chilled rocks glass and dip in coarse salt.",
+      "Shake tequila, lime, orange liqueur and optional agave hard with ice.",
+      "Strain over fresh ice (or serve up in a coupe).",
+      "Garnish with a lime wheel."
+    ],
+    "glass": "Rocks glass (or coupe)",
+    "garnish": "Lime wheel; optional salt rim",
+    "suitedBottleIds": ["fortaleza-blanco", "el-tesoro-reposado", "grand-marnier"]
+  },
+  {
+    "id": "paloma",
+    "name": "Paloma",
+    "era": "Mid-1900s",
+    "origin": "Mexico",
+    "description": "Mexico's true everyday tequila drink — more popular there than the Margarita. Tequila lengthened with grapefruit soda, lime and a pinch of salt over ice: bitter-sweet, salty and endlessly refreshing. Its precise origin is unrecorded (the beloved cantina La Capilla in Tequila town is often invoked), but the formula thrives from taquerías to cocktail bars, often upgraded with fresh grapefruit and soda.",
+    "ingredients": [
+      {"amount": "50 ml (1.7 oz)", "item": "Blanco or reposado tequila"},
+      {"amount": "100–120 ml (3.5–4 oz)", "item": "Grapefruit soda (or 60 ml fresh grapefruit + 60 ml soda + 10 ml syrup)"},
+      {"amount": "15 ml (½ oz)", "item": "Fresh lime juice"},
+      {"amount": "1 pinch", "item": "Salt"}
+    ],
+    "method": [
+      "Optionally salt the rim of a highball glass, then fill it with ice.",
+      "Add tequila, lime juice and the pinch of salt.",
+      "Top with grapefruit soda and stir gently.",
+      "Garnish with a grapefruit wedge or lime wheel."
+    ],
+    "glass": "Highball",
+    "garnish": "Grapefruit wedge; optional salt rim",
+    "suitedBottleIds": ["fortaleza-blanco", "el-tesoro-reposado", "del-maguey-vida"]
+  },
+  {
+    "id": "espresso-martini",
+    "name": "Espresso Martini",
+    "era": "1983",
+    "origin": "Soho Brasserie, London, England",
+    "description": "Dick Bradsell's London creation of 1983, invented — as he told it — when a young model asked for a drink that would wake her up and then some. Vodka, fresh espresso, coffee liqueur and a whisper of sugar, shaken violently to raise a tan crema crowned with three beans. It roared back in the 2020s to become one of the world's most-ordered cocktails.",
+    "ingredients": [
+      {"amount": "45 ml (1.5 oz)", "item": "Vodka"},
+      {"amount": "30 ml (1 oz)", "item": "Fresh espresso, slightly cooled"},
+      {"amount": "22.5 ml (¾ oz)", "item": "Coffee liqueur"},
+      {"amount": "7.5 ml (¼ oz), to taste", "item": "Simple syrup"}
+    ],
+    "method": [
+      "Pull the espresso first so it can lose its scalding heat.",
+      "Shake all ingredients very hard with plenty of ice — the foam depends on it.",
+      "Double-strain into a chilled coupe or martini glass.",
+      "Garnish with three coffee beans on the crema."
+    ],
+    "glass": "Coupe or martini glass",
+    "garnish": "Three coffee beans",
+    "suitedBottleIds": ["grey-goose", "titos", "reyka"]
+  },
+  {
+    "id": "moscow-mule",
+    "name": "Moscow Mule",
+    "era": "1941",
+    "origin": "Los Angeles, USA",
+    "description": "The drink that taught America to drink vodka. In 1941 Smirnoff's John G. Martin and the Cock 'n' Bull pub's Jack Morgan — one stuck with unsold vodka, the other with home-brewed ginger beer — combined their problems over lime in soon-iconic copper mugs. The mule's spicy-cold simplicity carried vodka from obscurity to the top of American spirits.",
+    "ingredients": [
+      {"amount": "60 ml (2 oz)", "item": "Vodka"},
+      {"amount": "15 ml (½ oz)", "item": "Fresh lime juice"},
+      {"amount": "120 ml (4 oz)", "item": "Ginger beer, well chilled"},
+      {"amount": "1", "item": "Lime wedge"}
+    ],
+    "method": [
+      "Fill a copper mug (or highball) with ice.",
+      "Add the vodka and lime juice.",
+      "Top with ginger beer and stir gently.",
+      "Garnish with a lime wedge and, if you like, a mint sprig."
+    ],
+    "glass": "Copper mug",
+    "garnish": "Lime wedge; optional mint sprig",
+    "suitedBottleIds": ["titos", "reyka", "grey-goose"]
+  },
+  {
+    "id": "sidecar",
+    "name": "Sidecar",
+    "era": "1920s",
+    "origin": "Paris / London (Ritz Paris claim)",
+    "description": "The great cognac sour of the post-WWI café world, named — so the stories go — for an army captain delivered to his favorite bar by motorcycle sidecar; both the Ritz Paris and London's Buck's Club claim it. Cognac, orange liqueur and lemon, often with a sugared rim, it is the drink that keeps brandy's cocktail heritage alive and the reason bars stock cocktail-strength cognac.",
+    "ingredients": [
+      {"amount": "45 ml (1.5 oz)", "item": "Cognac"},
+      {"amount": "22.5 ml (¾ oz)", "item": "Orange liqueur (Cointreau or Grand Marnier)"},
+      {"amount": "22.5 ml (¾ oz)", "item": "Fresh lemon juice"},
+      {"amount": "Optional", "item": "Sugar, for the rim"}
+    ],
+    "method": [
+      "If using, sugar the rim of a chilled coupe and let it set.",
+      "Shake cognac, orange liqueur and lemon juice hard with ice.",
+      "Double-strain into the coupe.",
+      "Garnish with an expressed orange twist."
+    ],
+    "glass": "Coupe",
+    "garnish": "Orange twist; optional sugared rim",
+    "suitedBottleIds": ["pierre-ferrand-1840", "hennessy-vs", "grand-marnier"]
+  },
+  {
+    "id": "french-75",
+    "name": "French 75",
+    "era": "1915–1920s",
+    "origin": "Harry's New York Bar, Paris, France",
+    "description": "Gin, lemon and sugar given a champagne afterburner, named for the French 75 mm field gun of the Great War for the way it hits. Associated with Harry MacElhone's Harry's New York Bar in Paris and canonized in the 1930 Savoy Cocktail Book, it remains the definitive celebration cocktail — a sour wearing a ballgown, equally at home at brunch and midnight.",
+    "ingredients": [
+      {"amount": "30 ml (1 oz)", "item": "London dry gin"},
+      {"amount": "15 ml (½ oz)", "item": "Fresh lemon juice"},
+      {"amount": "15 ml (½ oz)", "item": "Simple syrup"},
+      {"amount": "60 ml (2 oz)", "item": "Champagne or dry sparkling wine, chilled"}
+    ],
+    "method": [
+      "Shake the gin, lemon juice and syrup briefly with ice.",
+      "Strain into a chilled flute.",
+      "Top slowly with cold champagne.",
+      "Garnish with a long lemon twist."
+    ],
+    "glass": "Flute",
+    "garnish": "Long lemon twist",
+    "suitedBottleIds": ["tanqueray-london-dry", "plymouth-gin", "veuve-clicquot-yellow-label"]
+  }
+]

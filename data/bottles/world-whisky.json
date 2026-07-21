@@ -1,0 +1,832 @@
+[
+  {
+    "id": "glenfiddich-12",
+    "name": "Glenfiddich 12 Year",
+    "shortName": "Glenfiddich 12",
+    "brand": "Glenfiddich",
+    "producerId": "glenfiddich-distillery",
+    "category": "whiskey",
+    "subcategory": "scotch",
+    "style": "Speyside Single Malt Scotch Whisky",
+    "countryId": "scotland",
+    "regionId": "speyside",
+    "abv": 40.0,
+    "proof": null,
+    "ageStatement": "12 Years",
+    "ageYears": 12,
+    "vintage": null,
+    "releaseYear": 1999,
+    "sizeMl": 750,
+    "msrp": 50,
+    "estValue": 50,
+    "availability": "widely-available",
+    "limited": false,
+    "discontinued": false,
+    "featured": false,
+    "color": "#d4a24e",
+    "colorName": "Pale gold",
+    "glassColor": null,
+    "shape": "whiskey",
+    "description": "Glenfiddich 12 is the flagship of the world's best-selling single malt Scotch and, for a huge share of drinkers, the first single malt they ever taste. It is a textbook gentle Speyside: fresh pear and green apple over light honey, soft vanilla and a clean, subtly oaky finish, bottled at 40% ABV. The whisky comes from the family-owned Dufftown distillery that did more than any other to create the modern single malt category, and its triangular green-tinted bottle with the stag emblem is one of the most recognizable packages in spirits. Critics rarely call it profound, but its consistency, availability and approachable price have made it the standard reference point for the Speyside style — the bottle against which lighter, orchard-fruited malts are routinely measured.",
+    "history": "William Grant built Glenfiddich by hand with his nine children, and the first spirit ran from the stills on Christmas Day 1887. The distillery remains in the hands of his descendants at William Grant & Sons. In 1963 the company began actively marketing Glenfiddich outside Scotland as a single (then 'straight') malt — a move widely credited with launching the modern single malt category. The 12-year-old expression took over as the standard-bearer of the range in 1999, replacing the earlier Special Reserve bottling.",
+    "production": "Malted barley is mashed with water from the Robbie Dhu spring, fermented, and distilled twice in unusually small copper stills — Glenfiddich runs one of the largest stillhouses in Scotland by keeping many small stills rather than a few big ones. Maturation combines American oak ex-bourbon casks with European oak sherry casks; the whisky is then married in large oak tuns for several months before bottling at 40% ABV.",
+    "mashBill": {
+      "malted barley": 100
+    },
+    "grapes": null,
+    "botanicals": null,
+    "barrel": "American oak ex-bourbon and European oak Oloroso sherry casks; married in oak tuns before bottling",
+    "finishCask": null,
+    "filtration": "Chill filtered",
+    "coloring": "Caramel colour (E150a) used for batch consistency",
+    "tastingNotes": {
+      "nose": "Fresh pear, green apple, cut grass, light honey and a soft floral maltiness.",
+      "palate": "Gentle and sweet — orchard fruit, vanilla cream, butterscotch and a whisper of oak spice.",
+      "finish": "Short to medium, clean and mellow, with lingering pear and soft malt."
+    },
+    "flavor": {
+      "sweetness": 6,
+      "oak": 4,
+      "smoke": 0,
+      "fruit": 7,
+      "vanilla": 5,
+      "chocolate": 1,
+      "coffee": 0,
+      "nut": 2,
+      "herbal": 2,
+      "earthy": 1,
+      "spice": 3,
+      "pepper": 1,
+      "caramel": 3,
+      "honey": 5,
+      "leather": 1,
+      "citrus": 3,
+      "floral": 4,
+      "body": 4,
+      "finish": 4,
+      "complexity": 4
+    },
+    "glassware": [
+      "Glencairn",
+      "Copita"
+    ],
+    "servingTemp": "Neat at room temperature (18–20 °C); also works over ice or in a highball",
+    "pairings": [
+      "Apple tart",
+      "Mild cheddar",
+      "Roast pork"
+    ],
+    "cocktailIds": [
+      "highball"
+    ],
+    "awards": [],
+    "facts": [
+      "Glenfiddich means 'valley of the deer' in Gaelic — hence the stag on every label.",
+      "The first spirit ran from the stills on Christmas Day 1887.",
+      "The triangular bottle, introduced in 1957, was designed by Hans Schleger.",
+      "In 1963 Glenfiddich became the first distillery to actively market single malt outside Scotland, and in 1969 it opened the first distillery visitor centre in Scotland."
+    ],
+    "relatedIds": [
+      "macallan-12-sherry-oak",
+      "highland-park-12",
+      "johnnie-walker-black",
+      "jameson"
+    ],
+    "timeline": [
+      {
+        "year": 1887,
+        "event": "First spirit distilled at Glenfiddich on Christmas Day",
+        "type": "milestone"
+      },
+      {
+        "year": 1957,
+        "event": "Distinctive triangular bottle introduced",
+        "type": "packaging"
+      },
+      {
+        "year": 1963,
+        "event": "Glenfiddich begins marketing single malt internationally, effectively creating the category",
+        "type": "milestone"
+      },
+      {
+        "year": 1999,
+        "event": "12-year-old expression becomes the flagship of the core range",
+        "type": "release"
+      }
+    ],
+    "tags": [
+      "speyside",
+      "entry-point",
+      "best-seller",
+      "family-owned"
+    ]
+  },
+  {
+    "id": "macallan-12-sherry-oak",
+    "name": "The Macallan Sherry Oak 12 Year",
+    "shortName": "Macallan 12 Sherry Oak",
+    "brand": "The Macallan",
+    "producerId": "macallan-distillery",
+    "category": "whiskey",
+    "subcategory": "scotch",
+    "style": "Speyside Single Malt Scotch Whisky",
+    "countryId": "scotland",
+    "regionId": "speyside",
+    "abv": 43.0,
+    "proof": null,
+    "ageStatement": "12 Years",
+    "ageYears": 12,
+    "vintage": null,
+    "releaseYear": null,
+    "sizeMl": 750,
+    "msrp": 95,
+    "estValue": 100,
+    "availability": "widely-available",
+    "limited": false,
+    "discontinued": false,
+    "featured": false,
+    "color": "#b56a24",
+    "colorName": "Rich amber",
+    "glassColor": null,
+    "shape": "whiskey",
+    "description": "The Macallan Sherry Oak 12 is the entry point to the most heavily sherried house style among major Speyside distilleries, and one of the world's most prestigious whisky brands. Matured entirely in sherry-seasoned oak casks commissioned in Jerez, it delivers dried fruit, ginger, orange zest and sweet wood spice with a depth of colour that comes from the casks alone — The Macallan adds no caramel. The brand's cask-first philosophy, its 'curiously small' spirit stills and its record-shattering auction results have given it a luxury aura few distilleries can match, and prices have climbed accordingly. As an introduction to classic sherry-cask maturation, though, the 12-year-old remains the benchmark: rich but polished, it is the bottle most drinkers mean when they say a whisky tastes 'sherried'.",
+    "history": "Alexander Reid licensed The Macallan in 1824, making it one of the first legal distilleries in Speyside after the 1823 Excise Act. It sat for most of its life on the Easter Elchies estate above the River Spey, supplying blenders before its single malt rose to prominence in the late twentieth century under Highland Distillers, later Edrington. In 2018 a striking £140 million distillery, cut into the hillside under a rippling turf roof, replaced the old plant. In 2023 a 1926 Macallan became the most expensive bottle of whisky ever sold at auction.",
+    "production": "The Macallan distils a deliberately narrow spirit cut through some of the smallest spirit stills in Speyside, giving a rich, oily new-make. The Sherry Oak range matures exclusively in oak casks — mostly European oak with some American — that are coopered and seasoned with Oloroso sherry in Jerez, Spain, to the distillery's specification. Colour is entirely natural, and the 12-year-old is bottled at 43% ABV for the US market.",
+    "mashBill": {
+      "malted barley": 100
+    },
+    "grapes": null,
+    "botanicals": null,
+    "barrel": "Exclusively sherry-seasoned oak casks (European and American oak), coopered and seasoned in Jerez, Spain",
+    "finishCask": null,
+    "filtration": "Chill filtered",
+    "coloring": "Natural colour — no caramel added",
+    "tastingNotes": {
+      "nose": "Dried fruits, sherry richness, ginger, toffee and a hint of orange peel.",
+      "palate": "Raisin, fig and date sweetness with wood spice, dark chocolate, hazelnut and zesty orange.",
+      "finish": "Medium-long, warming ginger and dried fruit with gently drying oak."
+    },
+    "flavor": {
+      "sweetness": 7,
+      "oak": 6,
+      "smoke": 1,
+      "fruit": 7,
+      "vanilla": 4,
+      "chocolate": 4,
+      "coffee": 2,
+      "nut": 5,
+      "herbal": 1,
+      "earthy": 2,
+      "spice": 5,
+      "pepper": 2,
+      "caramel": 5,
+      "honey": 4,
+      "leather": 3,
+      "citrus": 2,
+      "floral": 2,
+      "body": 6,
+      "finish": 6,
+      "complexity": 6
+    },
+    "glassware": [
+      "Glencairn",
+      "Copita"
+    ],
+    "servingTemp": "Neat at room temperature (18–20 °C); a few drops of water soften the spice",
+    "pairings": [
+      "Dark chocolate",
+      "Orange cake",
+      "Manchego"
+    ],
+    "cocktailIds": [],
+    "awards": [],
+    "facts": [
+      "The Macallan never adds colouring — the deep amber comes entirely from sherry-seasoned oak.",
+      "Its spirit stills are among the smallest in Speyside, a feature the distillery credits for its rich new-make.",
+      "A 1926 Macallan sold for about £2.19 million at Sotheby's in 2023, the world auction record for a bottle of whisky.",
+      "The new distillery, opened in 2018, sits beneath an undulating timber-and-turf roof designed by Rogers Stirk Harbour + Partners."
+    ],
+    "relatedIds": [
+      "glenfiddich-12",
+      "highland-park-12",
+      "redbreast-12",
+      "yamazaki-12"
+    ],
+    "timeline": [
+      {
+        "year": 1824,
+        "event": "Alexander Reid licenses The Macallan on the Easter Elchies estate",
+        "type": "milestone"
+      },
+      {
+        "year": 2018,
+        "event": "New £140 million distillery opens beneath a turf roof",
+        "type": "milestone"
+      },
+      {
+        "year": 2023,
+        "event": "A 1926 Macallan sets the world auction record for a bottle of whisky (~£2.19 m)",
+        "type": "milestone"
+      }
+    ],
+    "tags": [
+      "sherried",
+      "natural-color",
+      "luxury"
+    ]
+  },
+  {
+    "id": "lagavulin-16",
+    "name": "Lagavulin 16 Year",
+    "shortName": "Lagavulin 16",
+    "brand": "Lagavulin",
+    "producerId": "lagavulin-distillery",
+    "category": "whiskey",
+    "subcategory": "scotch",
+    "style": "Islay Single Malt Scotch Whisky",
+    "countryId": "scotland",
+    "regionId": "islay",
+    "abv": 43.0,
+    "proof": null,
+    "ageStatement": "16 Years",
+    "ageYears": 16,
+    "vintage": null,
+    "releaseYear": 1988,
+    "sizeMl": 750,
+    "msrp": 110,
+    "estValue": 110,
+    "availability": "widely-available",
+    "limited": false,
+    "discontinued": false,
+    "featured": true,
+    "color": "#a35c20",
+    "colorName": "Deep amber",
+    "glassColor": "#31413a",
+    "shape": "whiskey",
+    "description": "Lagavulin 16 is the reference point for mature Islay whisky: a dense, tarry, deeply smoky malt that trades the aggression of younger peated drams for something slower and more contemplative. Sixteen years in oak knit thick peat smoke into layers of dried fruit, seaweed, iodine, sweet sherry and old leather, with a finish that famously goes on for minutes. Chosen as the Islay representative in Diageo's original Classic Malts line-up in 1988, it has been the south-shore icon ever since, and its cult status was only amplified when it became the on-screen dram of choice of Ron Swanson in Parks and Recreation. For many whisky drinkers it is the definitive winter-evening malt — peat as depth and texture rather than shock value.",
+    "history": "Lagavulin was licensed in 1816 by John Johnston, on a bay where illicit distilling reportedly dates back to the 1740s. In the late nineteenth century it became the engine of Peter Mackie's White Horse blend, one of the great Victorian Scotch brands. Diageo's predecessors selected the 16-year-old for the Classic Malts range in 1988, turning a blender's workhorse into a single malt icon. The distillery celebrated its bicentenary in 2016, and since 2019 has bottled the Offerman Edition series with actor Nick Offerman.",
+    "production": "Lagavulin's malt is peated to roughly 35 ppm phenols at Port Ellen Maltings. The distillery ferments slowly and runs what it describes as the slowest distillation on Islay — a spirit run of around nine hours through pear-shaped stills — producing a heavy, oily spirit. Maturation is predominantly in refill American oak hogsheads with a proportion of European oak sherry wood, and the whisky is bottled at 43% ABV.",
+    "mashBill": {
+      "malted barley": 100
+    },
+    "grapes": null,
+    "botanicals": null,
+    "barrel": "Mainly refill American oak hogsheads with a proportion of European oak ex-sherry casks",
+    "finishCask": null,
+    "filtration": "Chill filtered",
+    "coloring": "Caramel colour (E150a) used for batch consistency",
+    "tastingNotes": {
+      "nose": "Thick peat smoke, iodine, seaweed and tar over raisins, vanilla and old sherry.",
+      "palate": "Rich and mouth-coating — bonfire smoke, sweet dried fruit, espresso, salted caramel and dark chocolate.",
+      "finish": "Very long and smouldering; ash, leather, brine and a sweet malty echo."
+    },
+    "flavor": {
+      "sweetness": 4,
+      "oak": 6,
+      "smoke": 10,
+      "fruit": 4,
+      "vanilla": 3,
+      "chocolate": 3,
+      "coffee": 3,
+      "nut": 2,
+      "herbal": 3,
+      "earthy": 7,
+      "spice": 5,
+      "pepper": 4,
+      "caramel": 3,
+      "honey": 2,
+      "leather": 6,
+      "citrus": 1,
+      "floral": 1,
+      "body": 8,
+      "finish": 9,
+      "complexity": 9
+    },
+    "glassware": [
+      "Glencairn",
+      "Snifter"
+    ],
+    "servingTemp": "Neat at room temperature (18–20 °C); a teaspoon of water unlocks sweeter fruit under the smoke",
+    "pairings": [
+      "Blue cheese (Roquefort)",
+      "Oysters",
+      "Dark chocolate"
+    ],
+    "cocktailIds": [],
+    "awards": [],
+    "facts": [
+      "Chosen in 1988 as the Islay representative of the original six Classic Malts.",
+      "The distillery claims the slowest distillation on Islay — the spirit run takes around nine hours.",
+      "Nick Offerman's Parks and Recreation character Ron Swanson made Lagavulin 16 a pop-culture icon, leading to the real Offerman Edition bottlings from 2019.",
+      "Lagavulin was the heart of the White Horse blend created by Peter Mackie in 1890."
+    ],
+    "relatedIds": [
+      "ardbeg-10",
+      "laphroaig-10",
+      "talisker-10",
+      "del-maguey-vida"
+    ],
+    "timeline": [
+      {
+        "year": 1816,
+        "event": "John Johnston licenses the Lagavulin distillery",
+        "type": "milestone"
+      },
+      {
+        "year": 1988,
+        "event": "Lagavulin 16 launched as part of the Classic Malts selection",
+        "type": "release"
+      },
+      {
+        "year": 2016,
+        "event": "Distillery bicentenary marked with special releases",
+        "type": "milestone"
+      },
+      {
+        "year": 2019,
+        "event": "First Offerman Edition released with Nick Offerman",
+        "type": "release"
+      }
+    ],
+    "tags": [
+      "peated",
+      "islay",
+      "icon"
+    ]
+  },
+  {
+    "id": "ardbeg-10",
+    "name": "Ardbeg 10 Year",
+    "shortName": "Ardbeg 10",
+    "brand": "Ardbeg",
+    "producerId": "ardbeg-distillery",
+    "category": "whiskey",
+    "subcategory": "scotch",
+    "style": "Islay Single Malt Scotch Whisky",
+    "countryId": "scotland",
+    "regionId": "islay",
+    "abv": 46.0,
+    "proof": null,
+    "ageStatement": "10 Years",
+    "ageYears": 10,
+    "vintage": null,
+    "releaseYear": 2000,
+    "sizeMl": 750,
+    "msrp": 60,
+    "estValue": 60,
+    "availability": "widely-available",
+    "limited": false,
+    "discontinued": false,
+    "featured": false,
+    "color": "#e0c26b",
+    "colorName": "Light gold",
+    "glassColor": null,
+    "shape": "whiskey",
+    "description": "Ardbeg Ten is one of the most intensely peated widely available single malts, yet its trick is brightness: beneath the tar and bonfire smoke runs a seam of lime, pear and vanilla that keeps the whisky lifted rather than leaden. Bottled at 46% ABV, non-chill filtered and without added colour, it is unusually transparent for a flagship malt, and its pale colour surprises drinkers expecting darkness to accompany that much smoke. The Ten anchored Ardbeg's improbable comeback after the distillery spent much of the 1980s and 1990s silent or barely running, and it has since built one of whisky's most devoted followings through the Ardbeg Committee. Among the Kildalton coast peat heavyweights it is the citric, high-definition one — sootier than Lagavulin, less medicinal than Laphroaig.",
+    "history": "Founded in 1815 by John Macdougall on Islay's south coast, Ardbeg supplied blenders for over a century before falling on hard times: it closed in 1981, ran intermittently from 1989 and was nearly lost. In 1997 Glenmorangie plc bought the derelict site for around £7 million and restored production. The definitive 10-year-old appeared in 2000, the same year the Ardbeg Committee fan organisation was founded. LVMH acquired Glenmorangie, and with it Ardbeg, in 2004, and demand eventually so outgrew the little distillery that a second stillhouse doubled capacity in 2021.",
+    "production": "Ardbeg's malt is peated to roughly 50–55 ppm phenols, among the highest of any regularly produced Scotch. A purifier pipe on the spirit still returns heavier vapours for redistillation, preserving citrusy, estery top notes despite the massive peating — the source of the whisky's signature lime-and-smoke balance. Maturation is chiefly in first-fill and refill ex-bourbon American oak, and the whisky is bottled at 46% ABV, non-chill filtered, with no added colour.",
+    "mashBill": {
+      "malted barley": 100
+    },
+    "grapes": null,
+    "botanicals": null,
+    "barrel": "First-fill and refill ex-bourbon American oak casks",
+    "finishCask": null,
+    "filtration": "Non-chill filtered",
+    "coloring": "No added colour",
+    "tastingNotes": {
+      "nose": "Sharp peat smoke, lime zest, brine, smoked fish and vanilla cream.",
+      "palate": "Espresso, tar and black pepper cut by sweet lemon, pear drops and toasted marshmallow.",
+      "finish": "Long and ashy with fading citrus, aniseed and sea-spray salinity."
+    },
+    "flavor": {
+      "sweetness": 3,
+      "oak": 3,
+      "smoke": 10,
+      "fruit": 4,
+      "vanilla": 4,
+      "chocolate": 2,
+      "coffee": 3,
+      "nut": 1,
+      "herbal": 2,
+      "earthy": 6,
+      "spice": 4,
+      "pepper": 5,
+      "caramel": 2,
+      "honey": 1,
+      "leather": 4,
+      "citrus": 6,
+      "floral": 1,
+      "body": 7,
+      "finish": 9,
+      "complexity": 8
+    },
+    "glassware": [
+      "Glencairn",
+      "Copita"
+    ],
+    "servingTemp": "Neat at room temperature (18–20 °C); stands up well to a splash of water",
+    "pairings": [
+      "Smoked mackerel",
+      "Goat cheese",
+      "Espresso desserts"
+    ],
+    "cocktailIds": [
+      "penicillin"
+    ],
+    "awards": [],
+    "facts": [
+      "Ardbeg sent vials of new-make spirit and oak to the International Space Station in 2011 to study maturation in microgravity; the samples returned in 2014.",
+      "The distillery was bought back from dereliction in 1997 for around £7 million by Glenmorangie plc.",
+      "Despite malt peated to roughly 50–55 ppm, a purifier on the spirit still keeps the whisky bright and citric.",
+      "The Ardbeg Committee, founded in 2000, has grown to well over one hundred thousand members worldwide."
+    ],
+    "relatedIds": [
+      "laphroaig-10",
+      "lagavulin-16",
+      "talisker-10",
+      "the-botanist"
+    ],
+    "timeline": [
+      {
+        "year": 1815,
+        "event": "John Macdougall founds Ardbeg on the Kildalton coast",
+        "type": "milestone"
+      },
+      {
+        "year": 1981,
+        "event": "Distillery closes as blend demand collapses",
+        "type": "discontinued"
+      },
+      {
+        "year": 1997,
+        "event": "Glenmorangie plc buys and revives the distillery",
+        "type": "reintroduced"
+      },
+      {
+        "year": 2000,
+        "event": "Ardbeg Ten launched; Ardbeg Committee founded",
+        "type": "release"
+      }
+    ],
+    "tags": [
+      "peated",
+      "islay",
+      "non-chill-filtered",
+      "value-pick"
+    ]
+  },
+  {
+    "id": "laphroaig-10",
+    "name": "Laphroaig 10 Year",
+    "shortName": "Laphroaig 10",
+    "brand": "Laphroaig",
+    "producerId": "laphroaig-distillery",
+    "category": "whiskey",
+    "subcategory": "scotch",
+    "style": "Islay Single Malt Scotch Whisky",
+    "countryId": "scotland",
+    "regionId": "islay",
+    "abv": 43.0,
+    "proof": null,
+    "ageStatement": "10 Years",
+    "ageYears": 10,
+    "vintage": null,
+    "releaseYear": null,
+    "sizeMl": 750,
+    "msrp": 60,
+    "estValue": 60,
+    "availability": "widely-available",
+    "limited": false,
+    "discontinued": false,
+    "featured": false,
+    "color": "#cf9b3a",
+    "colorName": "Full gold",
+    "glassColor": null,
+    "shape": "whiskey",
+    "description": "Laphroaig 10 is whisky's great polarizer — the famously 'medicinal' Islay malt whose iodine, TCP-antiseptic and seaweed notes drinkers either adore or never touch again. The distillery leans into it, having long marketed the whisky with the slogan of love it or hate it. Beneath the surgical-ward smoke sits surprising sweetness: vanilla, coconut and custard from ex-bourbon barrels, many of them sourced from Maker's Mark, its sibling under Suntory ownership. Part of the character comes from Laphroaig's own floor maltings, where barley is cold-smoked over peat before kilning. The 10-year-old has been the house standard for over a century and carries a Royal Warrant granted by the then Prince of Wales in 1994 — a curious honour for so confrontational a dram, and proof of its singular place in Scotch whisky.",
+    "history": "Brothers Donald and Alexander Johnston founded Laphroaig around 1815 beside a sheltered bay on Islay's south coast. During US Prohibition it was reportedly sold legally as medicinal spirit, its iodine reek persuading customs agents it was medicine. Ian Hunter, the last of the founding family, left the distillery in 1954 to Bessie Williamson, the first woman to own and run a Scotch whisky distillery in the twentieth century. The Prince of Wales granted his Royal Warrant in 1994, and Laphroaig passed to Beam, then Suntory, in 2014.",
+    "production": "Laphroaig still malts a portion of its own barley on traditional floor maltings, cold-smoking it over Islay peat for a tarry, medicinal phenol character that complements malt from Port Ellen Maltings (overall around 40–45 ppm). After double distillation, the spirit matures mostly in first-fill ex-bourbon barrels — many previously holding Maker's Mark — close to the sea. The standard US bottling is 43% ABV and chill filtered.",
+    "mashBill": {
+      "malted barley": 100
+    },
+    "grapes": null,
+    "botanicals": null,
+    "barrel": "Predominantly first-fill ex-bourbon American oak barrels, many sourced from Maker's Mark",
+    "finishCask": null,
+    "filtration": "Chill filtered",
+    "coloring": "Caramel colour (E150a) used for batch consistency",
+    "tastingNotes": {
+      "nose": "Iodine, antiseptic smoke, seaweed and tar over vanilla and a faint coconut sweetness.",
+      "palate": "Big ashy peat, sea salt and liquorice with custard, oak and a surprising malty sweetness underneath.",
+      "finish": "Long, drying and smoky with lingering salt, ash and gentle vanilla."
+    },
+    "flavor": {
+      "sweetness": 3,
+      "oak": 4,
+      "smoke": 9,
+      "fruit": 2,
+      "vanilla": 4,
+      "chocolate": 1,
+      "coffee": 2,
+      "nut": 2,
+      "herbal": 3,
+      "earthy": 7,
+      "spice": 4,
+      "pepper": 4,
+      "caramel": 2,
+      "honey": 1,
+      "leather": 5,
+      "citrus": 2,
+      "floral": 0,
+      "body": 7,
+      "finish": 8,
+      "complexity": 7
+    },
+    "glassware": [
+      "Glencairn",
+      "Rocks glass"
+    ],
+    "servingTemp": "Neat at room temperature (18–20 °C); water tames the antiseptic edge",
+    "pairings": [
+      "Oysters",
+      "Smoked salmon",
+      "Strong blue cheese"
+    ],
+    "cocktailIds": [
+      "penicillin"
+    ],
+    "awards": [],
+    "facts": [
+      "During Prohibition, Laphroaig was reportedly imported into the US legally as medicinal spirit — the iodine aroma helped convince the authorities.",
+      "Holds a Royal Warrant from the Prince of Wales (now King Charles III), granted during his 1994 visit to Islay.",
+      "Friends of Laphroaig members receive a lifetime lease on one square foot of Islay, with annual rent payable as a dram.",
+      "Bessie Williamson, who inherited the distillery in 1954, was the first woman to own and manage a Scotch whisky distillery in the twentieth century."
+    ],
+    "relatedIds": [
+      "ardbeg-10",
+      "lagavulin-16",
+      "makers-mark",
+      "del-maguey-vida"
+    ],
+    "timeline": [
+      {
+        "year": 1815,
+        "event": "Donald and Alexander Johnston establish Laphroaig",
+        "type": "milestone"
+      },
+      {
+        "year": 1954,
+        "event": "Bessie Williamson inherits the distillery from Ian Hunter",
+        "type": "milestone"
+      },
+      {
+        "year": 1994,
+        "event": "Royal Warrant granted by the Prince of Wales; Friends of Laphroaig founded",
+        "type": "award"
+      },
+      {
+        "year": 2014,
+        "event": "Laphroaig becomes part of Beam Suntory (now Suntory Global Spirits)",
+        "type": "change"
+      }
+    ],
+    "tags": [
+      "peated",
+      "islay",
+      "medicinal",
+      "floor-malted"
+    ]
+  },
+  {
+    "id": "talisker-10",
+    "name": "Talisker 10 Year",
+    "shortName": "Talisker 10",
+    "brand": "Talisker",
+    "producerId": "talisker-distillery",
+    "category": "whiskey",
+    "subcategory": "scotch",
+    "style": "Island Single Malt Scotch Whisky",
+    "countryId": "scotland",
+    "regionId": "islands",
+    "abv": 45.8,
+    "proof": null,
+    "ageStatement": "10 Years",
+    "ageYears": 10,
+    "vintage": null,
+    "releaseYear": 1988,
+    "sizeMl": 750,
+    "msrp": 70,
+    "estValue": 70,
+    "availability": "widely-available",
+    "limited": false,
+    "discontinued": false,
+    "featured": false,
+    "color": "#c78d33",
+    "colorName": "Bright amber",
+    "glassColor": null,
+    "shape": "whiskey",
+    "description": "Talisker 10 is the definitive maritime single malt — a whisky that tastes of where it is made, on the shore of Loch Harport beneath the Cuillin hills of Skye. Its signature is a one-two of sea salt and cracked black pepper: medium peat smoke rolls over sweet barley and dried fruit before the famous 'chilli catch' flares on the swallow. Bottled at an unusual 45.8% ABV, it is punchier than most core-range malts and was chosen in 1988 as the island representative of Diageo's Classic Malts. Old-fashioned worm tub condensers preserve a slightly sulphury, muscular weight that modern condensers would strip away. It is the standard recommendation for drinkers ready to step from gentle Speyside toward Islay — smoke as seasoning rather than the whole dish.",
+    "history": "Brothers Hugh and Kenneth MacAskill founded Talisker in 1830 at Carbost, and for 187 years it was the Isle of Skye's only licensed distillery. Robert Louis Stevenson name-checked it approvingly in an 1880 poem as one of the great drinks of Scotland. A stillhouse fire in 1960 destroyed the five stills, which were rebuilt as exact replicas two years later. Selected for the Classic Malts range in 1988, Talisker has since grown into one of Diageo's flagship single malts under the 'Made by the Sea' identity.",
+    "production": "Talisker mashes lightly peated malt (around 18–22 ppm) and ferments long, then distils through an idiosyncratic setup of two wash stills — fitted with purifier pipes that recycle heavier vapours — and three spirit stills. Vapour is condensed in traditional outdoor worm tubs, retaining meaty, full-bodied character. Maturation is mainly in refill American oak hogsheads, and bottling is at the distillery's traditional 45.8% ABV.",
+    "mashBill": {
+      "malted barley": 100
+    },
+    "grapes": null,
+    "botanicals": null,
+    "barrel": "Mainly refill American oak hogsheads",
+    "finishCask": null,
+    "filtration": "Chill filtered",
+    "coloring": "Caramel colour (E150a) used for batch consistency",
+    "tastingNotes": {
+      "nose": "Sea spray, smoke and citrus over sweet malt and a whiff of oilskin.",
+      "palate": "Rich dried fruit and barley sugar swept up in peat smoke, brine and cracked black pepper.",
+      "finish": "Long and warming with the signature peppery 'chilli catch' and drifting smoke."
+    },
+    "flavor": {
+      "sweetness": 4,
+      "oak": 4,
+      "smoke": 6,
+      "fruit": 4,
+      "vanilla": 3,
+      "chocolate": 1,
+      "coffee": 1,
+      "nut": 1,
+      "herbal": 2,
+      "earthy": 4,
+      "spice": 6,
+      "pepper": 8,
+      "caramel": 3,
+      "honey": 2,
+      "leather": 3,
+      "citrus": 3,
+      "floral": 1,
+      "body": 6,
+      "finish": 7,
+      "complexity": 7
+    },
+    "glassware": [
+      "Glencairn",
+      "Rocks glass"
+    ],
+    "servingTemp": "Neat at room temperature (18–20 °C); also excellent in a highball with a grind of black pepper",
+    "pairings": [
+      "Oysters",
+      "Grilled langoustines",
+      "Peppered steak"
+    ],
+    "cocktailIds": [
+      "highball"
+    ],
+    "awards": [],
+    "facts": [
+      "Robert Louis Stevenson praised Talisker in verse in 1880, ranking it among 'the king o' drinks'.",
+      "Was the only distillery on the Isle of Skye from 1830 until Torabhaig opened in 2017.",
+      "A 1960 stillhouse fire destroyed all five stills; they were rebuilt as exact copies to preserve the spirit character.",
+      "Bottled at 45.8% ABV, a hangover from an old proof standard the distillery never abandoned."
+    ],
+    "relatedIds": [
+      "highland-park-12",
+      "lagavulin-16",
+      "ardbeg-10",
+      "springbank-10"
+    ],
+    "timeline": [
+      {
+        "year": 1830,
+        "event": "Hugh and Kenneth MacAskill found Talisker at Carbost",
+        "type": "milestone"
+      },
+      {
+        "year": 1960,
+        "event": "Stillhouse fire destroys the stills, rebuilt as exact replicas",
+        "type": "milestone"
+      },
+      {
+        "year": 1988,
+        "event": "Talisker 10 launched as part of the Classic Malts selection",
+        "type": "release"
+      }
+    ],
+    "tags": [
+      "maritime",
+      "peated",
+      "island"
+    ]
+  },
+  {
+    "id": "highland-park-12",
+    "name": "Highland Park 12 Year Viking Honour",
+    "shortName": "Highland Park 12",
+    "brand": "Highland Park",
+    "producerId": "highland-park-distillery",
+    "category": "whiskey",
+    "subcategory": "scotch",
+    "style": "Island Single Malt Scotch Whisky",
+    "countryId": "scotland",
+    "regionId": "islands",
+    "abv": 43.0,
+    "proof": null,
+    "ageStatement": "12 Years",
+    "ageYears": 12,
+    "vintage": null,
+    "releaseYear": null,
+    "sizeMl": 750,
+    "msrp": 65,
+    "estValue": 60,
+    "availability": "widely-available",
+    "limited": false,
+    "discontinued": false,
+    "featured": false,
+    "color": "#c58a2e",
+    "colorName": "Amber gold",
+    "glassColor": null,
+    "shape": "whiskey",
+    "description": "Highland Park 12 — badged Viking Honour since 2017 — is often held up as the great all-rounder of single malt: a whisky that balances honeyed sweetness, sherried fruit and a wisp of aromatic smoke so evenly that it satisfies peat lovers and Speyside drinkers alike. The smoke is distinctive because the peat is: Orkney's Hobbister Moor peat is heather-rich and woodless, giving fragrant, floral smoke quite unlike Islay's tarry iodine. Around a fifth of the malt is still turned by hand on the distillery's own floors, and maturation leans on sherry-seasoned oak with no added colouring. From Scotland's northernmost distillery, founded in 1798, it remains one of the most complete whiskies in its price bracket and a fixture on best-value lists.",
+    "history": "Highland Park traces its origin to 1798 and Magnus Eunson, an Orkney beadle and butcher who ran an illicit still on the site before the distillery was formally established. Licensed in 1826, it prospered supplying blenders and by the twentieth century had built a single malt reputation under Highland Distillers, later the Edrington Group. In 2017 the range was repackaged around the islands' Norse heritage, renaming the 12-year-old Viking Honour — Orkney was ruled by Norway for centuries, and the branding leans into that history.",
+    "production": "About twenty per cent of Highland Park's barley is floor-malted on site and kilned over heather-rich peat cut from Hobbister Moor (around 30–40 ppm on that portion), then blended with unpeated mainland malt for a gently smoky mash. After distillation the spirit matures predominantly in sherry-seasoned European and American oak casks in cool Orkney warehouses. The 12 is married before bottling at 43% ABV with natural colour.",
+    "mashBill": {
+      "malted barley": 100
+    },
+    "grapes": null,
+    "botanicals": null,
+    "barrel": "Predominantly sherry-seasoned European and American oak casks, with refill wood",
+    "finishCask": null,
+    "filtration": "Chill filtered",
+    "coloring": "Natural colour — no caramel added",
+    "tastingNotes": {
+      "nose": "Heather honey, orange peel and gentle floral peat smoke with sherried dried fruit.",
+      "palate": "Honeyed malt, marzipan, winter spice and citrus wrapped in soft aromatic smoke.",
+      "finish": "Medium-long, warming and lightly smoky with a sweet heathery fade."
+    },
+    "flavor": {
+      "sweetness": 6,
+      "oak": 4,
+      "smoke": 4,
+      "fruit": 5,
+      "vanilla": 3,
+      "chocolate": 2,
+      "coffee": 1,
+      "nut": 3,
+      "herbal": 4,
+      "earthy": 3,
+      "spice": 4,
+      "pepper": 2,
+      "caramel": 3,
+      "honey": 7,
+      "leather": 2,
+      "citrus": 3,
+      "floral": 4,
+      "body": 5,
+      "finish": 6,
+      "complexity": 7
+    },
+    "glassware": [
+      "Glencairn",
+      "Copita"
+    ],
+    "servingTemp": "Neat at room temperature (18–20 °C)",
+    "pairings": [
+      "Aged cheddar",
+      "Honey cake",
+      "Smoked duck"
+    ],
+    "cocktailIds": [],
+    "awards": [],
+    "facts": [
+      "The most northerly Scotch whisky distillery, edging out neighbouring Scapa by less than a mile.",
+      "Orkney's Hobbister Moor peat is heather-rich and virtually treeless, which is why Highland Park's smoke reads floral rather than tarry.",
+      "Founder Magnus Eunson was by day a church officer and by night a smuggler, hiding whisky under the pulpit according to distillery lore.",
+      "Around 20% of the malt is still turned by hand on traditional malting floors."
+    ],
+    "relatedIds": [
+      "talisker-10",
+      "macallan-12-sherry-oak",
+      "springbank-10",
+      "glenfiddich-12"
+    ],
+    "timeline": [
+      {
+        "year": 1798,
+        "event": "Whisky-making begins on the Highland Park site under Magnus Eunson",
+        "type": "milestone"
+      },
+      {
+        "year": 1826,
+        "event": "Distillery formally licensed",
+        "type": "milestone"
+      },
+      {
+        "year": 2017,
+        "event": "12-year-old repackaged as Viking Honour",
+        "type": "packaging"
+      }
+    ],
+    "tags": [
+      "heather-peat",
+      "sherried",
+      "island",
+      "value-pick"
+    ]
+  }
+]

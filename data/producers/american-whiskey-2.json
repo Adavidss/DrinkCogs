@@ -1,0 +1,172 @@
+[
+  {
+    "id": "heaven-hill-distillery",
+    "name": "Heaven Hill Distillery",
+    "type": "distillery",
+    "countryId": "united-states",
+    "regionId": "kentucky",
+    "location": "Bardstown, Kentucky, USA (distillation at Bernheim, Louisville)",
+    "lat": 37.8090,
+    "lng": -85.4669,
+    "founded": 1935,
+    "parentCompany": "Independent (Shapira family)",
+    "masterDistiller": "Conor O'Driscoll",
+    "website": "heavenhill.com",
+    "description": "Heaven Hill is America's largest independent, family-owned spirits producer and one of the biggest holders of aging bourbon on earth. From the Bernheim distillery in Louisville and vast Bardstown warehouses it makes Evan Williams, Elijah Craig, Henry McKenna, Larceny, and the rye stalwarts Rittenhouse and Pikesville — a portfolio famous for delivering bonded, age-stated whiskey at working prices.",
+    "history": "Five Shapira brothers founded Heaven Hill in Bardstown in 1935, betting on bourbon just after Repeal, with members of the Beam family serving as master distillers for decades. A catastrophic 1996 fire destroyed the original distillery and about 90,000 barrels, with burning whiskey flowing downhill in a river of flame; Heaven Hill distilled at rivals' plants until buying the modern Bernheim distillery in Louisville from Diageo in 1999. Distillation has run there since, while aging and bottling remain centered on Bardstown, where the Bourbon Heritage Center opened in 2004. Still wholly owned by the Shapira family, the company expanded Bernheim substantially in the 2020s and announced a new Bardstown distillery, remaining the industry's great independent.",
+    "signatureBottleIds": ["rittenhouse-rye"],
+    "facts": [
+      "The 1996 fire destroyed roughly 90,000 barrels and remains one of the most dramatic disasters in bourbon history.",
+      "Heaven Hill bottles more bottled-in-bond whiskey than any other producer.",
+      "Parker Beam, master distiller for decades, is honored by the annual charity release Parker's Heritage Collection."
+    ],
+    "timeline": [
+      {"year": 1935, "event": "Shapira brothers found Heaven Hill in Bardstown", "type": "milestone"},
+      {"year": 1996, "event": "Fire destroys the Bardstown distillery and ~90,000 barrels", "type": "milestone"},
+      {"year": 1999, "event": "Heaven Hill buys the Bernheim distillery in Louisville", "type": "change"},
+      {"year": 2004, "event": "Bourbon Heritage Center opens in Bardstown", "type": "milestone"}
+    ]
+  },
+  {
+    "id": "whistlepig-farm",
+    "name": "WhistlePig Farm",
+    "type": "producer",
+    "countryId": "united-states",
+    "regionId": "vermont",
+    "location": "Shoreham, Vermont, USA",
+    "lat": 43.8892,
+    "lng": -73.3129,
+    "founded": 2007,
+    "parentCompany": "Independent (investor-owned)",
+    "masterDistiller": "Meghan Ireland (master blender)",
+    "website": "whistlepigwhiskey.com",
+    "description": "WhistlePig is the Vermont farm operation that made rye whiskey luxurious. Built on expertly selected Canadian 100 % rye stocks shaped by the late Dave Pickerell, it layered on creative cask finishes (Sauternes, port, maple) and pushed prices and age statements — 10, 12, 15, 18 years — that rye had never seen, while gradually planting estate rye and distilling on the farm for its Farmstock line.",
+    "history": "Former Wall Street trader and reality-TV contestant Raj Peter Bhakta bought a 500-acre Shoreham dairy farm in 2007 and hired Dave Pickerell, Maker's Mark's longtime master distiller, to build a whiskey company. Pickerell sourced mature 100 % rye from Alberta and blended the first WhistlePig 10 in 2010; critical raves followed, along with debate about sourcing transparency. The farm restored an 1870s barn into a licensed distillery in 2015, released the estate-grown Farmstock series from 2017, and weathered a founder-board split that saw Bhakta depart in 2019. Pickerell died in 2018; his protégée Meghan Ireland became master blender, continuing the finishing-driven house style from Vermont.",
+    "signatureBottleIds": ["whistlepig-10"],
+    "facts": [
+      "The farm's pigs, after which the brand is named, once included a resident mascot named Mortimer.",
+      "WhistlePig taps its own maple trees for the barrel-aged maple syrup used in its hospitality program.",
+      "Dave Pickerell consulted for dozens of craft distilleries and is often called the father of craft whiskey."
+    ],
+    "timeline": [
+      {"year": 2007, "event": "Raj Bhakta buys the Shoreham farm", "type": "milestone"},
+      {"year": 2010, "event": "WhistlePig 10 Year debuts", "type": "release"},
+      {"year": 2015, "event": "On-farm distillery licensed in a restored 1870s barn", "type": "milestone"},
+      {"year": 2017, "event": "Farmstock line introduces estate-grown rye", "type": "release"}
+    ]
+  },
+  {
+    "id": "jack-daniel-distillery",
+    "name": "Jack Daniel Distillery",
+    "type": "distillery",
+    "countryId": "united-states",
+    "regionId": "tennessee",
+    "location": "Lynchburg, Tennessee, USA",
+    "lat": 35.2843,
+    "lng": -86.3679,
+    "founded": 1866,
+    "parentCompany": "Brown-Forman",
+    "masterDistiller": "Chris Fletcher",
+    "website": "jackdaniels.com",
+    "description": "The Jack Daniel Distillery in Lynchburg is the largest whiskey distillery in the United States and the home of Tennessee whiskey, defined by charcoal mellowing through sugar-maple charcoal before barreling. Around its globally dominant Old No. 7 it produces Gentleman Jack, Single Barrel, bonded and rye expressions, burning its own charcoal and raising its own barrels at Brown-Forman cooperages.",
+    "history": "Jack Daniel, orphaned young, learned whiskey making from preacher-distiller Dan Call and Nearest Green, an enslaved distiller who after Emancipation became Daniel's first head distiller. The distillery cites an 1866 registration date, contested by historians who favor around 1875. A 1904 St. Louis World's Fair gold medal made the whiskey nationally famous. Daniel died in 1911 — legend blames gangrene from kicking a stubborn safe — and nephew Lem Motlow carried the company through Prohibition. Brown-Forman acquired it in 1956, and postwar celebrity endorsement (famously Frank Sinatra) propelled Old No. 7 to global dominance. In 2016 the company began formally honoring Green's role, and Fawn Weaver's Uncle Nearest brand extended his legacy. Chris Fletcher, grandson of former master distiller Frank Bobo, took the distiller's chair in 2020.",
+    "signatureBottleIds": ["jack-daniels-old-no-7"],
+    "facts": [
+      "The distillery burns ricks of sugar maple on site to make its mellowing charcoal.",
+      "Cave Spring Hollow supplies iron-free spring water at a constant 13 °C (56 °F).",
+      "Frank Sinatra was buried with a bottle of Jack Daniel's; a namesake expression honors him."
+    ],
+    "timeline": [
+      {"year": 1866, "event": "Claimed registration of the distillery", "type": "milestone"},
+      {"year": 1904, "event": "Gold medal at the St. Louis World's Fair", "type": "award"},
+      {"year": 1956, "event": "Brown-Forman purchases Jack Daniel's", "type": "change"},
+      {"year": 2016, "event": "Nearest Green officially recognized as first master distiller", "type": "milestone"},
+      {"year": 2020, "event": "Chris Fletcher named master distiller", "type": "change"}
+    ]
+  },
+  {
+    "id": "westland-distillery",
+    "name": "Westland Distillery",
+    "type": "distillery",
+    "countryId": "united-states",
+    "regionId": "washington-state",
+    "location": "Seattle, Washington, USA",
+    "lat": 47.5816,
+    "lng": -122.3341,
+    "founded": 2010,
+    "parentCompany": "Rémy Cointreau",
+    "masterDistiller": "Matt Hofmann (co-founder & master distiller)",
+    "website": "westlanddistillery.com",
+    "description": "Westland is the standard-bearer of American single malt, distilling brewer's-grade malts with Belgian yeast in Seattle's SoDo district. Its provenance-obsessed program — Washington barley, Skagit Valley grain research, and native Garryana oak casks — argues that the Pacific Northwest is to malt whiskey what Kentucky is to bourbon, and its advocacy helped win the style formal US recognition in 2024.",
+    "history": "Founded in 2010 by Matt Hofmann and Emerson Lamb, Westland opened its Seattle distillery in 2013 and quickly drew international attention for treating single malt as a brewer would, with roasted specialty malts and long ferments. It co-founded the American Single Malt Whiskey Commission in 2016 to define and defend the category, released the acclaimed Garryana series matured in Pacific Northwest native oak, and partnered with Skagit Valley farmers and WSU's Bread Lab on flavor-first barley breeding. Rémy Cointreau acquired the distillery in 2017, expanding distribution while production philosophy stayed local. In December 2024 the TTB formalized American Single Malt as a standard of identity, capping the campaign Westland helped lead.",
+    "signatureBottleIds": ["westland-american-oak"],
+    "facts": [
+      "The Garryana series ages whiskey in Quercus garryana, an oak native only to the Pacific Northwest.",
+      "Westland ferments with a Belgian brewer's yeast strain chosen for fruity esters rather than a standard distiller's yeast.",
+      "Co-founder Matt Hofmann began distilling studies at Heriot-Watt in Edinburgh before returning to build Westland."
+    ],
+    "timeline": [
+      {"year": 2010, "event": "Westland founded in Seattle", "type": "milestone"},
+      {"year": 2013, "event": "SoDo distillery opens; American Oak flagship released", "type": "release"},
+      {"year": 2016, "event": "Co-founds the American Single Malt Whiskey Commission", "type": "milestone"},
+      {"year": 2017, "event": "Acquired by Rémy Cointreau", "type": "change"},
+      {"year": 2024, "event": "TTB formally recognizes American Single Malt whiskey", "type": "milestone"}
+    ]
+  },
+  {
+    "id": "crown-royal-distillery",
+    "name": "Crown Royal Distillery (Gimli)",
+    "type": "distillery",
+    "countryId": "canada",
+    "regionId": "manitoba",
+    "location": "Gimli, Manitoba, Canada",
+    "lat": 50.6330,
+    "lng": -96.9890,
+    "founded": 1968,
+    "parentCompany": "Diageo",
+    "masterDistiller": "Joanna Scandella (master blender)",
+    "website": "crownroyal.com",
+    "description": "The Gimli plant on Lake Winnipeg is the sole home of Crown Royal, the top-selling Canadian whisky in the United States. A dozen still configurations produce dozens of distinct corn, rye, and barley whiskies that age through Manitoba's brutal winters in one of the world's largest maturing stocks — about 1.5 million barrels — before blending into Deluxe, Black, Northern Harvest Rye, and a stream of finished and flavored expressions.",
+    "history": "Crown Royal began in 1939 as Samuel Bronfman's gift blend for the royal visit of King George VI, made by Seagram in Waterloo, Ontario. Its postwar American success demanded capacity, and Seagram opened the Gimli, Manitoba distillery in 1968 in a town settled by Icelandic immigrants on Lake Winnipeg. As Seagram consolidated, Gimli became Crown Royal's exclusive production site by the 1990s. Diageo inherited the brand and plant in the 2000 Seagram breakup and has since expanded warehousing across the prairie campus. Northern Harvest Rye's naming as Jim Murray's 2016 World Whisky of the Year briefly emptied shelves worldwide, underscoring Gimli's quiet importance to whisky at scale.",
+    "signatureBottleIds": ["crown-royal-deluxe"],
+    "facts": [
+      "Gimli means 'paradise' in Old Norse; the town was founded by Icelandic settlers in the 1870s.",
+      "Roughly 1.5 million barrels age on the prairie campus beside Lake Winnipeg.",
+      "Extreme Manitoba temperature swings — from −30 °C winters to +30 °C summers — drive the maturation regime."
+    ],
+    "timeline": [
+      {"year": 1939, "event": "Crown Royal created by Seagram for the royal visit", "type": "milestone"},
+      {"year": 1968, "event": "Gimli distillery opens on Lake Winnipeg", "type": "milestone"},
+      {"year": 2000, "event": "Diageo acquires Crown Royal in the Seagram breakup", "type": "change"},
+      {"year": 2016, "event": "Northern Harvest Rye named World Whisky of the Year in Jim Murray's Whisky Bible", "type": "award"}
+    ]
+  },
+  {
+    "id": "hiram-walker-distillery",
+    "name": "Hiram Walker & Sons Distillery",
+    "type": "distillery",
+    "countryId": "canada",
+    "regionId": "ontario",
+    "location": "Windsor, Ontario, Canada",
+    "lat": 42.3217,
+    "lng": -83.0000,
+    "founded": 1858,
+    "parentCompany": "Pernod Ricard (operated with Corby Spirit and Wine)",
+    "masterDistiller": "Dr. Don Livermore (master blender)",
+    "website": "corby.ca",
+    "description": "Hiram Walker & Sons in Windsor, Ontario is the largest beverage-alcohol distillery in North America, facing Detroit across the river. It distills J.P. Wiser's, Lot No. 40, Pike Creek, and Gooderham & Worts for Corby and Pernod Ricard — and Canadian Club under contract — with master blender Dr. Don Livermore, a PhD in brewing and distilling, as the modern face of technical Canadian whisky making.",
+    "history": "Detroit grocer Hiram Walker crossed the river in 1858 to build a distillery and a model company town, Walkerville, around it. His Club whisky so rattled American rivals that US labeling lobbying forced \"Canadian\" onto the label — inadvertently branding a national style. The distillery boomed during US Prohibition, when Windsor's riverfront became a smuggling corridor to Detroit. The Walker family sold in 1926; ownership passed through Hiram Walker-Gooderham & Worts and Allied Domecq to Pernod Ricard in 2005, with publicly traded Corby Spirit and Wine managing the Canadian brands. Dr. Don Livermore's blending era brought Lot No. 40's revival and repeated Canadian Whisky Awards wins, re-establishing Windsor as a source of serious rye.",
+    "signatureBottleIds": ["lot-no-40"],
+    "facts": [
+      "Hiram Walker built Walkerville, a company town with its own churches, homes and fire brigade, around the distillery.",
+      "American competitors' lobbying put the word 'Canadian' on Club whisky's label — helping name the entire category.",
+      "Master blender Don Livermore holds a PhD in brewing and distilling from Heriot-Watt University."
+    ],
+    "timeline": [
+      {"year": 1858, "event": "Hiram Walker founds the Windsor distillery", "type": "milestone"},
+      {"year": 1920, "event": "US Prohibition era makes Windsor a whisky export hub", "type": "milestone"},
+      {"year": 2005, "event": "Pernod Ricard acquires the distillery in the Allied Domecq breakup", "type": "change"},
+      {"year": 2012, "event": "Lot No. 40 relaunched under Dr. Don Livermore", "type": "release"}
+    ]
+  }
+]

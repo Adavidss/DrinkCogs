@@ -1,0 +1,326 @@
+[
+  {
+    "id": "maison-hennessy",
+    "name": "Maison Hennessy",
+    "type": "producer",
+    "countryId": "france",
+    "regionId": "cognac",
+    "location": "Cognac, Charente, France",
+    "lat": 45.697,
+    "lng": -0.328,
+    "founded": 1765,
+    "parentCompany": "LVMH (Moët Hennessy)",
+    "masterDistiller": "Renaud Fillioux de Gironde",
+    "website": "hennessy.com",
+    "description": "Maison Hennessy is the largest cognac house in the world, responsible for roughly forty percent of global cognac sales. Working with well over a thousand growers and distillers across the appellation, the house style prizes consistency at enormous scale: round, fruit-and-oak-driven blends assembled by a tasting committee under a master blender role the Fillioux family has held for eight generations. Its range runs from the ubiquitous V.S to the prestige blends Paradis and Richard Hennessy.",
+    "history": "Richard Hennessy, born at Ballymacmoy in County Cork, Ireland, settled in Cognac and founded his eaux-de-vie trading house in 1765, shipping casks to Ireland, England and the American colonies. His son James built the firm into a leading exporter, and in 1865 Maurice Hennessy introduced the star-grading system whose three-star tier evolved into today's V.S; the house also helped popularize the term XO with an 1870 blend for family use. Hennessy merged distribution with Moët & Chandon in 1971 and became a founding component of luxury group LVMH in 1987. Blending has been directed by the Fillioux family for eight generations, with Renaud Fillioux de Gironde succeeding his uncle Yann in 2017. Today Hennessy ships more than eight million cases a year, with the United States and China its largest markets.",
+    "signatureBottleIds": ["hennessy-vs"],
+    "facts": [
+      "Founded by an Irish émigré — Hennessy remains a point of pride in County Cork.",
+      "The master blender post has passed through eight generations of the Fillioux family.",
+      "Hennessy alone accounts for around 40% of all cognac sold worldwide."
+    ],
+    "timeline": [
+      {"year": 1765, "event": "Richard Hennessy founds the house in Cognac", "type": "milestone"},
+      {"year": 1865, "event": "Maurice Hennessy introduces the star classification system", "type": "milestone"},
+      {"year": 1971, "event": "Distribution merger with Moët & Chandon", "type": "change"},
+      {"year": 1987, "event": "Becomes a founding part of LVMH", "type": "change"}
+    ]
+  },
+  {
+    "id": "remy-martin",
+    "name": "Rémy Martin",
+    "type": "producer",
+    "countryId": "france",
+    "regionId": "cognac",
+    "location": "Cognac, Charente, France",
+    "lat": 45.693,
+    "lng": -0.337,
+    "founded": 1724,
+    "parentCompany": "Rémy Cointreau",
+    "masterDistiller": "Baptiste Loiseau",
+    "website": "remymartin.com",
+    "description": "Rémy Martin is the cognac house most identified with the Champagne crus: virtually its entire production is Fine Champagne, blending Grande and Petite Champagne eaux-de-vie prized for long, graceful aging. The centaur-branded range runs from the standard-setting V.S.O.P through XO to Louis XIII, the famous decanter blend of very old Grande Champagne. The house style is aromatic and silky — stone fruit, florals and rancio rather than raw oak power.",
+    "history": "Winegrower Rémy Martin founded the house in 1724, and it stayed in family and merchant hands as it built a reputation for quality over volume. The centaur emblem was adopted in 1870, a nod to the founder's Sagittarius sign. Under André Renaud and later André Hériard Dubreuil in the twentieth century, the house committed almost exclusively to Fine Champagne cognac and launched Louis XIII in its Baccarat decanter as one of the first true luxury spirits. V.S.O.P in its frosted bottle became a global benchmark after 1927, and XO Special followed in 1981. A 1990 merger with liqueur maker Cointreau created the Rémy Cointreau group. Cellar master Baptiste Loiseau, appointed in 2014 as one of the youngest in house history, oversees a reserve of eaux-de-vie stretching back a century.",
+    "signatureBottleIds": ["remy-martin-xo"],
+    "facts": [
+      "Nearly all Rémy Martin cognac is Fine Champagne — Grande and Petite Champagne fruit only.",
+      "Louis XIII, the house's apex blend, contains eaux-de-vie aged up to a century.",
+      "The centaur trademark has appeared on bottles since 1870."
+    ],
+    "timeline": [
+      {"year": 1724, "event": "Rémy Martin founds the house", "type": "milestone"},
+      {"year": 1874, "event": "Louis XIII registered, becoming a pioneer of luxury cognac", "type": "release"},
+      {"year": 1981, "event": "XO Special launched", "type": "release"},
+      {"year": 1990, "event": "Merger with Cointreau forms Rémy Cointreau", "type": "change"}
+    ]
+  },
+  {
+    "id": "chateau-de-laubade",
+    "name": "Château de Laubade",
+    "type": "producer",
+    "countryId": "france",
+    "regionId": "armagnac",
+    "location": "Sorbets, Gers, France",
+    "lat": 43.72,
+    "lng": -0.07,
+    "founded": 1870,
+    "parentCompany": "Vignobles Lesgourgues",
+    "masterDistiller": null,
+    "website": "chateaudelaubade.com",
+    "description": "Château de Laubade is one of the largest family-owned estates in Bas-Armagnac, farming roughly a hundred hectares of vines around its 1870 château at Sorbets in the Gers. Everything is done on the property — growing, vinification, distillation in a continuous armagnac still, long aging in oak and blending — an estate model rare among brandies of its scale. The house style is generous and fruit-driven, and its vintage armagnacs, spanning many decades, are a specialty.",
+    "history": "The estate was assembled around a château built in 1870 in the sandy-soiled heart of Bas-Armagnac, the sub-region long considered the appellation's finest. After passing through several local proprietors, the estate had declined by the mid-twentieth century. In 1974 Maurice Lesgourgues acquired Laubade and, with his son Jean-Jacques and grandsons Arnaud and Denis, replanted vineyards, restored the cellars and committed to estate-bottled armagnac at a time when most production was sold in bulk. Today Laubade holds one of the deepest vintage libraries in Gascony, distills its four traditional grape varieties separately, and champions Gascon oak aging, exporting to dozens of countries as a flagship of Bas-Armagnac.",
+    "signatureBottleIds": ["chateau-de-laubade-vsop"],
+    "facts": [
+      "Single-estate armagnac: grapes, distillation, aging and blending all happen at Sorbets.",
+      "The estate maintains a vintage collection reaching back to the early twentieth century.",
+      "Four grape varieties — ugni blanc, baco 22A, folle blanche and colombard — are grown and distilled separately."
+    ],
+    "timeline": [
+      {"year": 1870, "event": "Château built and estate established at Sorbets", "type": "milestone"},
+      {"year": 1974, "event": "Lesgourgues family acquires and revives the estate", "type": "change"}
+    ]
+  },
+  {
+    "id": "christian-drouin",
+    "name": "Christian Drouin",
+    "type": "producer",
+    "countryId": "france",
+    "regionId": "normandy",
+    "location": "Coudray-Rabut, Calvados, France",
+    "lat": 49.3,
+    "lng": 0.18,
+    "founded": 1960,
+    "parentCompany": null,
+    "masterDistiller": "Guillaume Drouin",
+    "website": "calvados-drouin.com",
+    "description": "Christian Drouin is a three-generation family house in the Pays d'Auge, calvados's prestige appellation, and one of the spirit's leading international ambassadors. From a half-timbered Norman farmstead near Pont-l'Évêque, the family double-distills cider from traditional bitter and bittersweet apples and matures it in a famously deep cellar of casks, including a celebrated run of vintage calvados sold under the Coeur de Lion name.",
+    "history": "Christian Drouin, a successful businessman, bought a farm at Gonneville in 1960 and began producing and, crucially, collecting calvados, buying old stocks from neighboring farms. His son Christian Jr. left a finance career in 1969 to make the house a full-time business, patiently building export markets at a time when calvados was seen as a rustic farm spirit. The firm moved to its current home, the seventeenth-century farmstead of Fiefs Sainte-Anne at Coudray-Rabut, and in 2004 the founder's grandson Guillaume Drouin, a trained oenologist who had worked harvests abroad, took over production. Under Guillaume the house modernized its orchards, expanded into pommeau, cider and even a cider-based gin, while its vintage library — with casks reaching back to the mid-twentieth century — became a reference for collectors worldwide.",
+    "signatureBottleIds": ["christian-drouin-selection"],
+    "facts": [
+      "Three generations — founder, son and grandson — have each led the house.",
+      "Its library of vintage calvados, sold as Coeur de Lion, reaches back to the mid-1900s.",
+      "Based in a postcard 17th-century half-timbered farmstead in the Pays d'Auge."
+    ],
+    "timeline": [
+      {"year": 1960, "event": "Christian Drouin begins making and collecting calvados", "type": "milestone"},
+      {"year": 2004, "event": "Guillaume Drouin, third generation, takes charge of production", "type": "change"}
+    ]
+  },
+  {
+    "id": "chartreuse-diffusion",
+    "name": "Chartreuse (Les Pères Chartreux)",
+    "type": "producer",
+    "countryId": "france",
+    "regionId": null,
+    "location": "Voiron / Aiguenoire, Isère, France",
+    "lat": 45.365,
+    "lng": 5.59,
+    "founded": 1737,
+    "parentCompany": "Order of Carthusians",
+    "masterDistiller": null,
+    "website": "chartreuse.fr",
+    "description": "Chartreuse is made by the monks of the Grande Chartreuse, the mother house of the Carthusian order in the French Alps, with Chartreuse Diffusion in Voiron handling the commercial side on their behalf. Only two monks know the complete 130-plant formula, preparing the botanical blends that become Green and Yellow Chartreuse, the Elixir Végétal and the long-aged V.E.P. bottlings. Proceeds support the order's monasteries and charitable works — the monks famously refuse to grow production beyond what monastic life allows.",
+    "history": "In 1605 Marshal François Hannibal d'Estrées gave the Carthusians a manuscript for an 'elixir of long life'; the order's apothecary perfected it at the Grande Chartreuse by 1737, and the milder Green Chartreuse liqueur followed in 1764, with Yellow Chartreuse arriving in 1838. Expelled from France in 1903, the monks produced Chartreuse in Tarragona, Spain, while a state-run 'Chartreuse' failed at home; supporters helped the order regain its brand, and after a 1935 landslide wrecked the Fourvoirie distillery production moved to Voiron. In 2018 distillation shifted to a purpose-built site at Aiguenoire, with aging continuing in vast cellars. Facing soaring cocktail-era demand, the order confirmed in 2023 that output would remain capped to protect its contemplative vocation, making allocation a permanent feature of the brand.",
+    "signatureBottleIds": ["green-chartreuse"],
+    "facts": [
+      "Only two monks at a time know the full recipe and supervise the botanical preparation.",
+      "Profits fund the Carthusian order rather than shareholders — and the monks deliberately cap production.",
+      "Between 1903 and 1989 Chartreuse was also made in Tarragona, Spain, during and after the order's exile."
+    ],
+    "timeline": [
+      {"year": 1605, "event": "The order receives the elixir manuscript from Marshal d'Estrées", "type": "milestone"},
+      {"year": 1764, "event": "Green Chartreuse first produced", "type": "release"},
+      {"year": 1903, "event": "Monks expelled from France; production moves to Tarragona", "type": "change"},
+      {"year": 2018, "event": "New distillery opens at Aiguenoire", "type": "change"},
+      {"year": 2023, "event": "Order publicly confirms permanent production cap", "type": "change"}
+    ]
+  },
+  {
+    "id": "campari-group",
+    "name": "Campari Group",
+    "type": "producer",
+    "countryId": "italy",
+    "regionId": "lombardy",
+    "location": "Sesto San Giovanni, Milan, Italy",
+    "lat": 45.533,
+    "lng": 9.235,
+    "founded": 1860,
+    "parentCompany": null,
+    "masterDistiller": null,
+    "website": "camparigroup.com",
+    "description": "Campari Group is the Milan-based drinks company built around Gaspare Campari's 1860 red bitter, today one of the world's largest spirits groups. Its portfolio pairs the two poles of Italian aperitivo — assertive Campari and gentle Aperol — with brands including Wild Turkey, Appleton Estate, Grand Marnier, SKYY and Courvoisier. The group is synonymous with aperitivo culture, bold graphic branding and the Negroni-and-spritz revival that reshaped modern drinking.",
+    "history": "Gaspare Campari created his bitter in Novara in 1860 and moved to Milan, where the family café made the drink a city institution; his son Davide opened the Camparino bar in the Galleria Vittorio Emanuele II in 1915 and turned the liqueur into an export business, backed by pioneering poster art and Fortunato Depero's 1932 Camparisoda bottle. Davide Campari-Milano listed on the Milan bourse in 2001 and, under the controlling Garavoglia family, grew through relentless acquisition: Aperol via the Barbieri brands in 2003, Wild Turkey in 2009, Appleton's owner Lascelles deMercado in 2012, Grand Marnier in 2016 and Courvoisier in 2024. Headquartered at a striking campus in Sesto San Giovanni, the group operates worldwide while the Camparino still pours its namesake beside the Duomo.",
+    "signatureBottleIds": ["campari", "aperol"],
+    "facts": [
+      "Owns both Campari and Aperol — the bitter and the gentle ends of Italian aperitivo.",
+      "The Camparino bar in Milan's Galleria has served Campari since 1915.",
+      "Campari commissioned landmark poster art and Depero's Futurist Camparisoda bottle, making design central to the brand."
+    ],
+    "timeline": [
+      {"year": 1860, "event": "Gaspare Campari creates his bitter", "type": "milestone"},
+      {"year": 1915, "event": "Camparino bar opens in Milan", "type": "milestone"},
+      {"year": 2003, "event": "Acquires Aperol with the Barbieri brands", "type": "change"},
+      {"year": 2016, "event": "Acquires Grand Marnier", "type": "change"}
+    ]
+  },
+  {
+    "id": "marnier-lapostolle",
+    "name": "Marnier Lapostolle",
+    "type": "producer",
+    "countryId": "france",
+    "regionId": "cognac",
+    "location": "Bourg-Charente & Neauphle-le-Château, France",
+    "lat": 45.683,
+    "lng": -0.16,
+    "founded": 1827,
+    "parentCompany": "Campari Group",
+    "masterDistiller": null,
+    "website": "grandmarnier.com",
+    "description": "Marnier Lapostolle is the house behind Grand Marnier, the cognac-based bitter-orange liqueur created in 1880. The company unites two heritages: the Lapostolle family distillery founded in 1827 near Paris, and the cognac cellars of Château de Bourg-Charente on the Charente river, where the brandy at the heart of the liqueur is selected and married with distilled orange essence. Beyond Cordon Rouge, the house produces cuvée versions built on older cognacs.",
+    "history": "Jean-Baptiste Lapostolle founded a fruit-liqueur distillery at Neauphle-le-Château in 1827. His granddaughter married Louis-Alexandre Marnier, and in 1880 the renamed house launched his invention — bitter Caribbean oranges married with cognac — as Grand Marnier Cordon Rouge, a name house lore attributes to hotelier César Ritz. The liqueur conquered the grand hotels and kitchens of the Belle Époque, becoming inseparable from crêpes Suzette. The family acquired Château de Bourg-Charente in the Cognac region for its brandy stocks and kept control of the company for five generations, also founding the Casa Lapostolle winery in Chile in 1994. In 2016 Campari Group purchased Société des Produits Marnier Lapostolle, folding the amber bottle with the red ribbon into its portfolio while production remained in France.",
+    "signatureBottleIds": ["grand-marnier"],
+    "facts": [
+      "The house owns Château de Bourg-Charente in Cognac, source of the liqueur's brandy soul.",
+      "Grand Marnier stayed family-controlled for five generations until Campari's 2016 acquisition.",
+      "The same family founded Chile's Casa Lapostolle winery."
+    ],
+    "timeline": [
+      {"year": 1827, "event": "Lapostolle distillery founded at Neauphle-le-Château", "type": "milestone"},
+      {"year": 1880, "event": "Grand Marnier Cordon Rouge created", "type": "release"},
+      {"year": 2016, "event": "Campari Group acquires the company", "type": "change"}
+    ]
+  },
+  {
+    "id": "st-germain",
+    "name": "St-Germain",
+    "type": "brand",
+    "countryId": "france",
+    "regionId": null,
+    "location": "Paris, France (made in France; Bacardi brand)",
+    "lat": 48.857,
+    "lng": 2.352,
+    "founded": 2007,
+    "parentCompany": "Bacardi Limited",
+    "masterDistiller": null,
+    "website": "stgermain.fr",
+    "description": "St-Germain is the French elderflower liqueur that created a category. Conceived by American drinks entrepreneur Rob Cooper and produced in France from fresh spring-harvested elderflower blossoms, it arrived in 2007 in an art-deco bottle and rapidly became one of the most influential modifiers in modern bartending — floral, citrusy and endlessly mixable. Since 2013 it has been part of Bacardi's portfolio, positioned as the definitive elderflower liqueur.",
+    "history": "Rob Cooper, grandson of the founder of Charles Jacquin et Cie and son of the creator of Chambord, became fixated on elderflower after encountering an elderflower cordial in London bars. Through his independent Cooper Spirits Company he developed St-Germain, sourcing blossoms picked during the short French spring bloom and naming the liqueur for the Saint-Germain-des-Prés quarter of Paris. Launched in 2007 at the crest of the craft-cocktail revival, it spread through bar programs so completely that bartenders joked about 'bartender's ketchup'. Bacardi, initially a distribution partner, acquired the brand outright in 2013. Cooper died in 2016 at age 39; St-Germain endures as the modern floral-liqueur benchmark, its harvest-driven production still tied to a few weeks of elderflower bloom each year.",
+    "signatureBottleIds": ["st-germain-elderflower"],
+    "facts": [
+      "Founder Rob Cooper came from American liqueur royalty — his father created Chambord.",
+      "Elderflowers are harvested during a brief spring window and processed quickly before the aroma fades.",
+      "Named after the Saint-Germain-des-Prés quarter of Paris."
+    ],
+    "timeline": [
+      {"year": 2007, "event": "St-Germain launched by Cooper Spirits Company", "type": "release"},
+      {"year": 2013, "event": "Bacardi acquires the brand", "type": "change"}
+    ]
+  },
+  {
+    "id": "luxardo-distillery",
+    "name": "Girolamo Luxardo S.p.A.",
+    "type": "distillery",
+    "countryId": "italy",
+    "regionId": "veneto",
+    "location": "Torreglia, Veneto, Italy",
+    "lat": 45.343,
+    "lng": 11.731,
+    "founded": 1821,
+    "parentCompany": null,
+    "masterDistiller": null,
+    "website": "luxardo.it",
+    "description": "Girolamo Luxardo S.p.A. is a family distillery in the Euganean Hills of the Veneto, best known for Maraschino Originale, the clear marasca-cherry liqueur essential to classic cocktails, and for its candied Luxardo cherries. Two centuries and six generations on, the family still grows its own marasca orchards around Torreglia and produces a wide range of liqueurs — sambuca, amaretto, aperitivo bitters and fruit specialties — with maraschino as the flagship.",
+    "history": "Girolamo Luxardo founded the firm in 1821 in Zara, Dalmatia (now Zadar, Croatia), commercializing the refined maraschino his wife Maria Canevari had perfected from a local rosolio tradition; the liqueur won imperial warrants and sailed with the great nineteenth-century shipping lines. The Second World War annihilated both distillery and family — Allied bombing leveled the Zara works and several Luxardos died in the war's chaos. The sole surviving brother, Giorgio, re-founded the company in 1947 at Torreglia near Padua, famously bringing marasca cherry stock from Dalmatia to replant in the Euganean Hills. The straw-sleeved bottle and the two-year ash-vat rest of the cherry distillate carried on unchanged, and the 2000s cocktail renaissance — Last Words and Aviations above all — restored Luxardo Maraschino to indispensable status worldwide.",
+    "signatureBottleIds": ["luxardo-maraschino"],
+    "facts": [
+      "Founded in Zara, Dalmatia in 1821; re-founded in Italy in 1947 after the distillery's wartime destruction.",
+      "The family still farms its own marasca cherry orchards around Torreglia.",
+      "Also produces the famous candied Luxardo cocktail cherries, a bar-cart staple in their own right."
+    ],
+    "timeline": [
+      {"year": 1821, "event": "Girolamo Luxardo founds the distillery in Zara", "type": "milestone"},
+      {"year": 1947, "event": "Giorgio Luxardo rebuilds the firm at Torreglia, Veneto", "type": "change"}
+    ]
+  },
+  {
+    "id": "fratelli-branca",
+    "name": "Fratelli Branca Distillerie",
+    "type": "distillery",
+    "countryId": "italy",
+    "regionId": "lombardy",
+    "location": "Milan, Italy",
+    "lat": 45.5,
+    "lng": 9.16,
+    "founded": 1845,
+    "parentCompany": null,
+    "masterDistiller": null,
+    "website": "brancadistillerie.com",
+    "description": "Fratelli Branca Distillerie is the Milanese family firm behind Fernet-Branca, the world's defining fernet, along with Brancamenta, Carpano vermouths, Antica Formula and Caffè Borghetti. Five generations of the Branca family have guarded the secret 27-herb formula — the company motto, 'Novare serbando' (innovate while conserving), is taken literally: the president still personally oversees the blending of the aromatics in Milan.",
+    "history": "Bernardino Branca launched Fernet-Branca in Milan in 1845, marketing the ferociously bitter herbal blend as a tonic and digestive; nineteenth-century advertising claimed virtues against everything from cholera to nerves, and the eagle-over-globe emblem became one of Italy's great trademarks. Italian emigration carried fernet to Argentina, and demand grew so vast that Branca opened a Buenos Aires distillery in 1925 — still its only production site outside Milan — where fernet with cola became a de facto national drink. The firm acquired the historic Carpano vermouth house in 2001, adding Antica Formula to its stable. Through it all the company has remained wholly family-owned; Niccolò Branca, fifth generation, leads today, and the Milan headquarters houses a museum of the brand's poster art and apothecary history.",
+    "signatureBottleIds": ["fernet-branca"],
+    "facts": [
+      "Family-owned through five generations since 1845 — the full formula remains a family secret.",
+      "Its Buenos Aires distillery (1925) is the only Branca production site outside Milan.",
+      "Also owns Carpano, maker of Antica Formula vermouth."
+    ],
+    "timeline": [
+      {"year": 1845, "event": "Bernardino Branca creates Fernet-Branca in Milan", "type": "milestone"},
+      {"year": 1925, "event": "Buenos Aires distillery opens for the Argentine market", "type": "milestone"},
+      {"year": 2001, "event": "Acquires the Carpano vermouth house", "type": "change"}
+    ]
+  },
+  {
+    "id": "high-noon-spirits",
+    "name": "High Noon Spirits Company",
+    "type": "brand",
+    "countryId": "united-states",
+    "regionId": "california",
+    "location": "Modesto, California, USA",
+    "lat": 37.639,
+    "lng": -120.997,
+    "founded": 2019,
+    "parentCompany": "E. & J. Gallo Winery",
+    "masterDistiller": null,
+    "website": "highnoonspirits.com",
+    "description": "High Noon Spirits Company is the E. & J. Gallo brand behind High Noon Sun Sips, the vodka-and-real-juice hard seltzer that became America's best-selling spirits-based ready-to-drink. Built on Gallo's Modesto production and distribution machine, the brand staked out the premium end of the seltzer wave with a simple formula — real vodka, sparkling water, real fruit juice, no added sugar — and sunny, beach-flag branding.",
+    "history": "E. & J. Gallo, the family wine giant founded in Modesto in 1933, had quietly built a spirits arm (New Amsterdam vodka among others) when it launched High Noon in 2019 to answer the malt-seltzer boom led by White Claw. Betting that drinkers would trade up to real spirits and juice, Gallo scaled flavors and distribution aggressively through the pandemic RTD surge; sports marketing and a near-permanent presence at beaches, golf courses and tailgates made the sun-logo can a lifestyle shorthand. By 2023 retail trackers reported High Noon had overtaken the malt incumbents to become the top-selling hard seltzer brand in the United States, and the line has since expanded into tequila seltzers, vodka iced teas and larger formats.",
+    "signatureBottleIds": ["high-noon-vodka-seltzer"],
+    "facts": [
+      "Owned by E. & J. Gallo, the world's largest family-owned wine company.",
+      "By 2023 it was reported as the best-selling US hard seltzer, displacing malt-based rivals.",
+      "The line uses distilled vodka and real juice rather than fermented malt or sugar bases."
+    ],
+    "timeline": [
+      {"year": 2019, "event": "High Noon launches nationally", "type": "release"},
+      {"year": 2023, "event": "Reported as the top-selling US hard seltzer brand", "type": "milestone"}
+    ]
+  },
+  {
+    "id": "on-the-rocks",
+    "name": "On The Rocks Premium Cocktails",
+    "type": "brand",
+    "countryId": "united-states",
+    "regionId": null,
+    "location": "New York, New York, USA (Suntory Global Spirits)",
+    "lat": 40.713,
+    "lng": -74.006,
+    "founded": 2015,
+    "parentCompany": "Suntory Global Spirits (Beam Suntory)",
+    "masterDistiller": null,
+    "website": "ontherockscocktails.com",
+    "description": "On The Rocks (OTR) is a premium bottled-cocktail brand pairing bartender-developed recipes with name-brand base spirits at true cocktail proof — an Old Fashioned on Knob Creek bourbon, a Margarita on Hornitos tequila, a Mai Tai on Cruzan rum. Founded by industry veterans in Texas and now owned by Suntory Global Spirits, OTR helped establish the high-end tier of the ready-to-drink boom, especially in travel retail, stadiums and hospitality.",
+    "history": "Bartender Rocco Milano and partner Patrick Halbert founded On The Rocks in Texas in 2015, batching full-strength classics into apothecary-style bottles when almost all RTDs were low-proof malt products. The bet on quality found a champion in Beam Suntory, which took a stake in 2019 and acquired the brand outright in December 2020, re-basing each cocktail on a spirit from its own portfolio and scaling production. Distribution spread through airlines, airports, hotels and arenas — occasions where a consistent, pour-over-ice cocktail beats a makeshift bar — and OTR became one of the leading premium RTD lines in the US. Its parent renamed itself Suntory Global Spirits in 2024, with OTR anchoring the company's ready-to-drink strategy.",
+    "signatureBottleIds": ["otr-old-fashioned"],
+    "facts": [
+      "Founded by working bartenders in Texas in 2015, before premium RTDs were an established category.",
+      "Acquired by Beam Suntory in 2020; each cocktail uses a named Suntory portfolio spirit.",
+      "A fixture of airline carts and airport retail, where single-serve real cocktails found a natural niche."
+    ],
+    "timeline": [
+      {"year": 2015, "event": "On The Rocks founded in Texas", "type": "milestone"},
+      {"year": 2020, "event": "Beam Suntory acquires the brand", "type": "change"},
+      {"year": 2024, "event": "Parent company renamed Suntory Global Spirits", "type": "change"}
+    ]
+  }
+]

@@ -1,0 +1,176 @@
+[
+  {
+    "id": "buffalo-trace-distillery",
+    "name": "Buffalo Trace Distillery",
+    "type": "distillery",
+    "countryId": "united-states",
+    "regionId": "kentucky",
+    "location": "Frankfort, Kentucky, USA",
+    "lat": 38.2154,
+    "lng": -84.8695,
+    "founded": 1858,
+    "parentCompany": "Sazerac Company",
+    "masterDistiller": "Harlen Wheatley",
+    "website": "buffalotracedistillery.com",
+    "description": "Buffalo Trace is the most collected distillery in American whiskey, home to Buffalo Trace, Eagle Rare, E.H. Taylor, Weller, Blanton's, the Van Winkle line, and the annual Antique Collection. Working from a handful of undisclosed mash bills — low-rye, higher-rye, wheated, and rye — it produces a spectrum from thirty-dollar staples to four-figure unicorns, all in a distinctly rich, caramel-forward Kentucky style.",
+    "history": "Distilling on this Kentucky River site is documented back to the nineteenth century, with the first modern distillery built in 1858 by Daniel Swigert. Colonel E.H. Taylor, Jr. made it famous as O.F.C. from 1870, pioneering steam-heated warehouses; George T. Stagg took control in 1878, and the plant carried his name for most of the twentieth century. It was one of only a few distilleries permitted to bottle medicinal whiskey through Prohibition. New Orleans-based Sazerac bought the distillery in 1992, renamed it Buffalo Trace in 1999 after the bison ford nearby, and rode the bourbon boom to cult status, adding a major capacity expansion and National Historic Landmark designation in 2013.",
+    "signatureBottleIds": ["buffalo-trace", "eagle-rare-10", "blantons-original", "george-t-stagg", "pappy-van-winkle-23"],
+    "facts": [
+      "Claims the title of America's oldest continuously operating distillery thanks to its Prohibition-era medicinal permit.",
+      "Warehouse C, built by E.H. Taylor in 1881, still ages whiskey for the Taylor line.",
+      "The distillery runs experimental Warehouse X to study light, airflow and temperature effects on aging."
+    ],
+    "timeline": [
+      {"year": 1858, "event": "First modern distillery built on the site by Daniel Swigert", "type": "milestone"},
+      {"year": 1870, "event": "E.H. Taylor, Jr. buys the plant and names it O.F.C.", "type": "change"},
+      {"year": 1904, "event": "Renamed the George T. Stagg Distillery", "type": "change"},
+      {"year": 1992, "event": "Sazerac Company acquires the distillery", "type": "change"},
+      {"year": 1999, "event": "Renamed Buffalo Trace Distillery; flagship bourbon launched", "type": "milestone"},
+      {"year": 2013, "event": "Designated a National Historic Landmark", "type": "milestone"}
+    ]
+  },
+  {
+    "id": "makers-mark-distillery",
+    "name": "Maker's Mark Distillery",
+    "type": "distillery",
+    "countryId": "united-states",
+    "regionId": "kentucky",
+    "location": "Loretto, Kentucky, USA",
+    "lat": 37.6469,
+    "lng": -85.3487,
+    "founded": 1953,
+    "parentCompany": "Suntory Global Spirits",
+    "masterDistiller": "Blake Layfield",
+    "website": "makersmark.com",
+    "description": "Maker's Mark makes essentially one whisky superbly: a soft, wheated bourbon hand-dipped in red wax at Star Hill Farm in Loretto. The distillery is deliberately old-fashioned — a roller mill instead of a hammer mill, its own yeast, hand-rotated barrels — and its line extensions (46, Cask Strength, Private Selection) are all variations on the single wheated mash bill rather than new recipes.",
+    "history": "Bill Samuels, Sr., sixth generation of a Kentucky distilling family, bought the 1805-vintage Burks' Distillery near Loretto in 1953 to make a deliberately smoother bourbon, swapping rye for red winter wheat — a recipe legend says he chose by baking bread. His wife Margie named Maker's Mark, designed the label, and invented the red wax dip; the first bottles sold in 1958. The distillery became the first operating American distillery named a National Historic Landmark in 1980. Ownership passed through Hiram Walker and Allied Domecq to Fortune Brands and then Beam; today it belongs to Suntory Global Spirits. Maker's 46, its first new expression in decades, arrived in 2010, followed by Cask Strength and a wood-stave private barrel program.",
+    "signatureBottleIds": ["makers-mark"],
+    "facts": [
+      "Every bottle is still dipped in red wax by hand, so no two seals are identical.",
+      "The distillery draws water from a spring-fed lake on the farm and rotates barrels between warehouse floors by hand.",
+      "Margie Samuels is one of the few non-distillers in the Bourbon Hall of Fame, honored for creating the brand's entire identity."
+    ],
+    "timeline": [
+      {"year": 1953, "event": "Bill Samuels, Sr. purchases Burks' Distillery at Loretto", "type": "milestone"},
+      {"year": 1958, "event": "First bottles of Maker's Mark sold", "type": "release"},
+      {"year": 1980, "event": "Named a National Historic Landmark", "type": "milestone"},
+      {"year": 2010, "event": "Maker's 46 launched, the first major line extension", "type": "release"},
+      {"year": 2014, "event": "Becomes part of Beam Suntory (now Suntory Global Spirits)", "type": "change"}
+    ]
+  },
+  {
+    "id": "four-roses-distillery",
+    "name": "Four Roses Distillery",
+    "type": "distillery",
+    "countryId": "united-states",
+    "regionId": "kentucky",
+    "location": "Lawrenceburg, Kentucky, USA",
+    "lat": 38.0135,
+    "lng": -84.9010,
+    "founded": 1888,
+    "parentCompany": "Kirin Brewery Company",
+    "masterDistiller": "Brent Elliott",
+    "website": "fourrosesbourbon.com",
+    "description": "Four Roses is bourbon's great systematist: two mash bills (one high-rye, one very high-rye) crossed with five proprietary yeast strains yield ten distinct recipes, blended in different combinations for its Bourbon, Small Batch, Single Barrel, and limited editions. The house style is fruity, floral, and spice-driven, and the Spanish Mission-style distillery in Lawrenceburg is an architectural landmark unique among Kentucky plants.",
+    "history": "Paul Jones, Jr. trademarked Four Roses in 1888, and by legend named it for the rose corsage a sweetheart wore to accept his proposal. The Lawrenceburg distillery rose in 1910. Seagram bought the brand in 1943 and after the war withdrew the straight bourbon from the US, selling a blended whiskey under the name at home while the genuine article became a best-seller in Europe and Japan. Kirin Brewery acquired Four Roses in 2002, retired the blend, restored straight bourbon to the American market, and launched Single Barrel (2004) and Small Batch (2006). Master distiller Jim Rutledge, and since 2015 Brent Elliott, rebuilt its critical standing, and the ten-recipe system became one of bourbon's most studied production frameworks.",
+    "signatureBottleIds": ["four-roses-single-barrel"],
+    "facts": [
+      "Ten recipes come from two mash bills crossed with five yeast strains, each coded like OBSV or OESK.",
+      "Whiskey ages in single-story rack warehouses at Cox's Creek, avoiding the temperature extremes of tall rickhouses.",
+      "For decades Americans knew Four Roses only as a cheap blend while the straight bourbon starred abroad."
+    ],
+    "timeline": [
+      {"year": 1888, "event": "Four Roses trademark registered by Paul Jones, Jr.", "type": "milestone"},
+      {"year": 1910, "event": "Spanish Mission-style distillery built at Lawrenceburg", "type": "milestone"},
+      {"year": 1943, "event": "Seagram acquires the brand", "type": "change"},
+      {"year": 2002, "event": "Kirin acquires Four Roses and revives US straight bourbon sales", "type": "change"},
+      {"year": 2015, "event": "Brent Elliott becomes master distiller", "type": "change"}
+    ]
+  },
+  {
+    "id": "jim-beam-distillery",
+    "name": "Jim Beam Distillery",
+    "type": "distillery",
+    "countryId": "united-states",
+    "regionId": "kentucky",
+    "location": "Clermont, Kentucky, USA",
+    "lat": 37.9319,
+    "lng": -85.6631,
+    "founded": 1795,
+    "parentCompany": "Suntory Global Spirits",
+    "masterDistiller": "Fred Noe",
+    "website": "jimbeam.com",
+    "description": "Jim Beam is the world's largest bourbon producer, its Clermont and Boston, Kentucky plants filling more barrels than any rival. Beyond the white-label flagship, the distillery created the Small Batch Bourbon Collection — Knob Creek, Booker's, Baker's, Basil Hayden — and its nutty, grain-forward house character (often traced to the 1930s-era jug yeast) anchors an eighth-generation family dynasty of master distillers.",
+    "history": "Jacob Beam, a German-American farmer-distiller, sold his first barrels of corn whiskey around 1795. His descendants distilled through the nineteenth century as Old Tub; after Prohibition, seventy-year-old James Beauregard \"Jim\" Beam rebuilt the Clermont distillery in about 120 days in 1934, and the company took his name. Booker Noe, Jim Beam's grandson, pioneered premium bourbon with Booker's (1988) and the Small Batch Collection (1992). Fortune Brands' spirits arm became Beam Inc., which Japan's Suntory bought in 2014 for about 16 billion dollars, forming Beam Suntory — renamed Suntory Global Spirits in 2024. Seventh-generation Fred Noe remains master distiller, with son Freddie leading the new Fred B. Noe craft distillery.",
+    "signatureBottleIds": ["knob-creek-9"],
+    "facts": [
+      "The same family has led distilling for eight generations, from Jacob Beam to Freddie Noe.",
+      "Beam's jug yeast strain, kept alive since shortly after Prohibition, reportedly went home on weekends with Jim Beam himself in the early days.",
+      "A 2019 lightning-sparked warehouse fire destroyed about 45,000 aging barrels at Beam's Woodford County site."
+    ],
+    "timeline": [
+      {"year": 1795, "event": "Jacob Beam sells his first whiskey barrels", "type": "milestone"},
+      {"year": 1934, "event": "Jim Beam rebuilds the Clermont distillery after Repeal", "type": "milestone"},
+      {"year": 1992, "event": "Booker Noe launches the Small Batch Bourbon Collection", "type": "release"},
+      {"year": 2014, "event": "Suntory acquires Beam Inc., creating Beam Suntory", "type": "change"}
+    ]
+  },
+  {
+    "id": "woodford-reserve-distillery",
+    "name": "Woodford Reserve Distillery",
+    "type": "distillery",
+    "countryId": "united-states",
+    "regionId": "kentucky",
+    "location": "Versailles, Woodford County, Kentucky, USA",
+    "lat": 38.1131,
+    "lng": -84.8102,
+    "founded": 1812,
+    "parentCompany": "Brown-Forman",
+    "masterDistiller": "Elizabeth McCall",
+    "website": "woodfordreserve.com",
+    "description": "Woodford Reserve operates Kentucky's most picturesque distillery, a limestone-and-copper restoration on Glenn's Creek where sour-mash bourbon making was systematized in the 1830s. Its signature is triple distillation in Scottish-built copper pot stills, married with column-still spirit from parent Brown-Forman, plus heat-cycled stone warehouses. The brand spans Distiller's Select, Double Oaked, rye, malt, and an annual Master's Collection of experiments.",
+    "history": "Elijah Pepper began distilling near Versailles around 1812, and his son Oscar built the stone distillery in 1838. There the scientifically minded Scot James Crow refined sour-mash practice into a repeatable system that shaped all subsequent bourbon. The plant later operated as Labrot & Graham for a century. Brown-Forman, which had owned it mid-century, bought the derelict site back in 1994, restored it, installed three copper pot stills, and launched Woodford Reserve in 1996 as a super-premium brand. It became the Kentucky Derby's official bourbon in 1999 and a National Historic Landmark in 2000. Chris Morris led production for two decades before Elizabeth McCall succeeded him as master distiller in 2023.",
+    "signatureBottleIds": ["woodford-reserve"],
+    "facts": [
+      "James Crow's 1830s–40s work at this site standardized the sour-mash process used industry-wide.",
+      "The distillery triple-distills in copper pot stills, unusual for bourbon.",
+      "Elizabeth McCall became one of the youngest female master distillers in bourbon history on her 2023 appointment."
+    ],
+    "timeline": [
+      {"year": 1812, "event": "Elijah Pepper establishes distilling on Glenn's Creek", "type": "milestone"},
+      {"year": 1838, "event": "Oscar Pepper builds the stone distillery; James Crow era begins", "type": "milestone"},
+      {"year": 1994, "event": "Brown-Forman repurchases and restores the site", "type": "change"},
+      {"year": 1996, "event": "Woodford Reserve brand launched", "type": "release"},
+      {"year": 2023, "event": "Elizabeth McCall named master distiller", "type": "change"}
+    ]
+  },
+  {
+    "id": "wild-turkey-distillery",
+    "name": "Wild Turkey Distillery",
+    "type": "distillery",
+    "countryId": "united-states",
+    "regionId": "kentucky",
+    "location": "Lawrenceburg, Kentucky, USA",
+    "lat": 38.0397,
+    "lng": -84.8556,
+    "founded": 1869,
+    "parentCompany": "Campari Group",
+    "masterDistiller": "Jimmy Russell & Eddie Russell",
+    "website": "wildturkeybourbon.com",
+    "description": "Wild Turkey, perched on a bluff above the Kentucky River, is the keeper of old-school, high-rye, full-flavored bourbon. Its low barrel-entry proof and deep alligator-char barrels define a bold house style that has barely moved in seventy years, guarded by the father-son team of Jimmy and Eddie Russell — the longest-running master distiller partnership in whiskey — across 101, Rare Breed, Kentucky Spirit, and Russell's Reserve.",
+    "history": "The Ripy brothers built a distillery at Tyrone, outside Lawrenceburg, in 1869; their whiskey represented Kentucky at the 1893 World's Columbian Exposition. New York grocer Austin Nichols bottled the bourbon that gained the Wild Turkey name after a 1940 hunting trip, launching Wild Turkey 101 in 1942. Jimmy Russell joined in 1954, becoming master distiller in the 1960s and an industry patriarch; son Eddie joined in 1981 and grandson Bruce now blends alongside. Pernod Ricard owned the brand from 1980 until Campari Group bought it in 2009, investing in a new distillery (2011), expanded warehousing, and a visitor center, while the Russells' recipe — low entry proof, heavy char, no chill-filter compromises on the premium lines — stayed fixed.",
+    "signatureBottleIds": ["wild-turkey-101"],
+    "facts": [
+      "Jimmy Russell has worked at the distillery since 1954 — the longest active tenure in the industry.",
+      "Wild Turkey barrels at one of the lowest entry proofs of any major bourbon producer, concentrating flavor.",
+      "Actor Matthew McConaughey served as the brand's creative director, co-creating the Longbranch expression."
+    ],
+    "timeline": [
+      {"year": 1869, "event": "Ripy brothers build the Tyrone distillery", "type": "milestone"},
+      {"year": 1942, "event": "Austin Nichols launches Wild Turkey 101", "type": "release"},
+      {"year": 1954, "event": "Jimmy Russell begins his career at the distillery", "type": "milestone"},
+      {"year": 2009, "event": "Campari Group acquires Wild Turkey", "type": "change"},
+      {"year": 2011, "event": "New distillery completed on Wild Turkey Hill", "type": "milestone"}
+    ]
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "id": "tequila-fortaleza",
+    "name": "Tequila Fortaleza (Destilería La Fortaleza)",
+    "type": "distillery",
+    "countryId": "mexico",
+    "regionId": "jalisco",
+    "location": "Tequila, Jalisco, Mexico",
+    "lat": 20.88,
+    "lng": -103.84,
+    "founded": 2005,
+    "parentCompany": null,
+    "masterDistiller": "Guillermo Erickson Sauza (Owner)",
+    "website": "fortalezatequila.com",
+    "description": "Tequila Fortaleza is the small family distillery of Guillermo Erickson Sauza in the town of Tequila itself, making 100% agave tequila the pre-industrial way: stone ovens, a volcanic tahona wheel, wood-tank fermentation and small copper pot stills, with no additives. Its blanco, reposado and añejo are touchstones for the additive-free, tradition-first movement — and chronically allocated because the methods do not scale.",
+    "history": "The Sauza dynasty began when Don Cenobio Sauza founded La Perseverancia in 1873 and became the first to export tequila to the United States. Four generations later, in 1976, the family sold the Sauza brand, and the small La Fortaleza distillery on the hill above town — with its stone tower and hand-dug aging cellar — was preserved as a museum. Guillermo Erickson Sauza, fifth generation, refused to let the story end there: beginning in the late 1990s he restored the old plant, replanted agave, and in 2005 bottled the first Fortaleza (sold in Mexico as Los Abuelos, 'the grandparents') under NOM 1493. Production has grown only modestly since, by adding a second tahona and stills built to the old pattern, and demand has far outrun supply since the tequila boom of the late 2010s.",
+    "signatureBottleIds": ["fortaleza-blanco"],
+    "facts": [
+      "Founder Guillermo Erickson Sauza is the great-great-grandson of Don Cenobio Sauza, tequila's first exporter to the US.",
+      "The distillery still crushes all its cooked agave with volcanic-stone tahona wheels.",
+      "Bottles are hand-blown and stoppered with miniature glass agave piñas, finished by hand in the town of Tequila."
+    ],
+    "timeline": [
+      {"year": 1873, "event": "Don Cenobio Sauza founds the family's first distillery in Tequila", "type": "milestone"},
+      {"year": 1976, "event": "Sauza brand sold; the old La Fortaleza distillery becomes a museum", "type": "milestone"},
+      {"year": 2005, "event": "First Fortaleza bottling from the restored distillery", "type": "release"}
+    ]
+  },
+  {
+    "id": "la-altena-distillery",
+    "name": "La Alteña Distillery (Tequila Tapatío / El Tesoro)",
+    "type": "distillery",
+    "countryId": "mexico",
+    "regionId": "jalisco",
+    "location": "Arandas, Los Altos, Jalisco, Mexico",
+    "lat": 20.7,
+    "lng": -102.34,
+    "founded": 1937,
+    "parentCompany": null,
+    "masterDistiller": "Carlos Camarena (Master Distiller)",
+    "website": "eltesorotequila.com",
+    "description": "La Alteña, the Camarena family distillery in the highland town of Arandas, is one of tequila's most revered traditional producers. Home to El Tesoro and Tapatío, it grows its own agave, cooks in brick ovens, crushes by tahona, ferments with fibers in open wood vats and — its signature — distills to bottling proof in copper pot stills, adding no water and no additives afterward. Third-generation master distiller Carlos Camarena is a leading voice for traditional, estate-grown tequila.",
+    "history": "Don Felipe Camarena Hernández built La Alteña in 1937, re-establishing a family distilling line interrupted by the Revolution, and planted the highland agave fields the house still farms. His son Don Felipe J. Camarena partnered with Michigan importer Robert Denton to launch El Tesoro de Don Felipe in 1988, one of the first super-premium 100% agave tequilas in the US market. Grandson Carlos Camarena took over production, later co-creating Tequila Ocho with Tomas Estes and mentoring much of the modern craft-agave movement. The El Tesoro brand passed to Beam (now Suntory Global Spirits) while the family retained the distillery, the fields and complete control of production — an arrangement that has kept methods unchanged even as volumes grew.",
+    "signatureBottleIds": ["el-tesoro-reposado"],
+    "facts": [
+      "El Tesoro is distilled to proof — the second distillation comes off the still at bottling strength, with no dilution after.",
+      "The distillery ferments and first-distills with the tahona-crushed agave fibers included, an increasingly rare practice.",
+      "Carlos Camarena co-created Tequila Ocho, the category's pioneering single-field 'vintage' tequila."
+    ],
+    "timeline": [
+      {"year": 1937, "event": "Don Felipe Camarena builds La Alteña in Arandas", "type": "milestone"},
+      {"year": 1988, "event": "El Tesoro de Don Felipe launches for the US market", "type": "release"}
+    ]
+  },
+  {
+    "id": "don-julio-distillery",
+    "name": "Don Julio (La Primavera Distillery)",
+    "type": "distillery",
+    "countryId": "mexico",
+    "regionId": "jalisco",
+    "location": "Atotonilco el Alto, Jalisco, Mexico",
+    "lat": 20.55,
+    "lng": -102.51,
+    "founded": 1942,
+    "parentCompany": "Diageo",
+    "masterDistiller": null,
+    "website": "donjulio.com",
+    "description": "Don Julio, produced at the La Primavera distillery (NOM 1449) in the highland town of Atotonilco el Alto, is the archetypal luxury tequila house. Founded on Don Julio González's meticulous agave farming — fully ripened highland piñas, closely spaced plantings he pioneered — it built the premium 100% agave category and, with the 1942 añejo, the celebrity-tequila era. Diageo has owned the brand outright since 2015.",
+    "history": "Don Julio González-Frausto Estrada began distilling in 1942, reputedly aged 17, and spent decades supplying western Mexico with tequila from La Primavera while refining his agave agronomy. In 1987, for his 60th year in reverse — a tribute dinner marking his life's work — his sons bottled his private reserve in short bottles that wouldn't block conversation across the table, and the Don Julio brand was born, among the first tequilas positioned as luxury goods. The 1942 expression followed in 2002 for the 60th anniversary of the founding. After a joint venture with Seagram and then Diageo, the González family and Casa Cuervo interests were bought out in a 2014–15 deal in which Diageo traded Bushmills for full control. Don Julio 1942 became the emblem of tequila's premiumization boom.",
+    "signatureBottleIds": ["don-julio-1942"],
+    "facts": [
+      "Brand lore holds that the short Don Julio bottle was designed so diners could see each other over it at the table.",
+      "Don Julio González planted agave in tighter rows with more space between plants, a practice credited with improving ripeness.",
+      "Diageo obtained full ownership by trading Bushmills Irish whiskey to Jose Cuervo's parent in a deal completed in 2015."
+    ],
+    "timeline": [
+      {"year": 1942, "event": "Don Julio González begins distilling at La Primavera, Atotonilco el Alto", "type": "milestone"},
+      {"year": 1987, "event": "Don Julio launched as a standalone premium brand", "type": "release"},
+      {"year": 2002, "event": "Don Julio 1942 released for the 60th anniversary", "type": "release"},
+      {"year": 2015, "event": "Diageo completes full acquisition of the brand", "type": "change"}
+    ]
+  },
+  {
+    "id": "del-maguey",
+    "name": "Del Maguey Single Village Mezcal",
+    "type": "producer",
+    "countryId": "mexico",
+    "regionId": "oaxaca",
+    "location": "Oaxaca, Mexico (village palenques across the state)",
+    "lat": 17.06,
+    "lng": -96.72,
+    "founded": 1995,
+    "parentCompany": "Pernod Ricard (majority)",
+    "masterDistiller": null,
+    "website": "delmaguey.com",
+    "description": "Del Maguey is the house that introduced artisanal mezcal to the world. Founded by American artist Ron Cooper in 1995, it bottles unblended spirits from individual Zapotec and Mixtec village palenques — each labeled with its pueblo's name and made by its own family of producers using pit roasting, tahona or hand milling, wild fermentation and small-still distillation. Its green-label bottles and the cocktail-strength Vida seeded the global mezcal boom.",
+    "history": "Ron Cooper, a Los Angeles-born visual artist, first traveled the Oaxacan sierra in the 1960s and returned in 1990 on an art project, coming home with jugs of village mezcal that stunned everyone who tasted them. In 1995 he founded Del Maguey to export these spirits legally, against considerable bureaucratic odds, naming each bottling for its village — Chichicapa, San Luis del Río, Santo Domingo Albarradas — and splitting proceeds with the producing families. Bartenders and chefs made the brand a cult through the 2000s; Vida, the accessible expression created with San Luis del Río in 2010, put mezcal in cocktails worldwide. Pernod Ricard bought majority control in 2017, with Cooper remaining involved and the village-family model, single-village labeling and production methods preserved.",
+    "signatureBottleIds": ["del-maguey-vida"],
+    "facts": [
+      "Every core bottling is named for the single village where it is made and carries the producing family's mezcal unblended.",
+      "Founder Ron Cooper is a recognized visual artist; the brand began as an extension of his decades of work in Oaxaca.",
+      "Del Maguey's early-2000s bottlings are widely credited with launching the international artisanal mezcal movement."
+    ],
+    "timeline": [
+      {"year": 1995, "event": "Ron Cooper founds Del Maguey Single Village Mezcal", "type": "milestone"},
+      {"year": 2010, "event": "Vida launches from San Luis del Río", "type": "release"},
+      {"year": 2017, "event": "Pernod Ricard acquires a majority stake", "type": "change"}
+    ]
+  },
+  {
+    "id": "ilegal-mezcal",
+    "name": "Ilegal Mezcal",
+    "type": "brand",
+    "countryId": "mexico",
+    "regionId": "oaxaca",
+    "location": "Santiago Matatlán, Oaxaca, Mexico",
+    "lat": 16.86,
+    "lng": -96.38,
+    "founded": 2009,
+    "parentCompany": "Bacardí Limited",
+    "masterDistiller": null,
+    "website": "ilegalmezcal.com",
+    "description": "Ilegal Mezcal is the brand born from actual smuggling: unmarked jugs of Oaxacan mezcal run across borders to supply Café No Sé, founder John Rexer's bar in Antigua, Guatemala, before the label went legitimate in 2009. Its joven, reposado and añejo are made by partner family palenques around Santiago Matatlán using pit-roasted espadín, wild fermentation and copper pot stills. Punky, political marketing built a bar-world following; Bacardí acquired the brand outright in 2023.",
+    "history": "John Rexer opened Café No Sé in Antigua in 2003 and wanted real Oaxacan mezcal for its back-room mezcal bar — unavailable legally in Guatemala — so for years he and friends ran it in by bus, boat and bribe, in water bottles and gas cans. The bootleg's reputation outgrew the bar, and in 2009 Rexer launched Ilegal as a legal brand, working with maestro mezcalero families in Santiago Matatlán, the Tlacolula Valley town styled the world capital of mezcal. Guerrilla stunts — including anti-Trump 'Donald, eres un pendejo' posters in 2016 — cemented its countercultural image while volumes grew. Bacardí invested in 2017 and completed a full acquisition in 2023, pledging to keep production artisanal and Oaxacan.",
+    "signatureBottleIds": ["ilegal-joven"],
+    "facts": [
+      "The name commemorates the brand's origin smuggling unbranded mezcal into Guatemala to stock Café No Sé.",
+      "Production is centered on family palenques around Santiago Matatlán, Oaxaca's mezcal heartland.",
+      "Bacardí moved from minority investor (2017) to full owner (2023) as mezcal became the spirits industry's fastest-premiumizing category."
+    ],
+    "timeline": [
+      {"year": 2003, "event": "Café No Sé opens in Antigua, Guatemala", "type": "milestone"},
+      {"year": 2009, "event": "Ilegal Mezcal launches as a legal brand", "type": "release"},
+      {"year": 2023, "event": "Bacardí completes full acquisition", "type": "change"}
+    ]
+  }
+]

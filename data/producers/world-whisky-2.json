@@ -1,0 +1,261 @@
+[
+  {
+    "id": "midleton-distillery",
+    "name": "Midleton Distillery",
+    "type": "distillery",
+    "countryId": "ireland",
+    "regionId": "county-cork",
+    "location": "Midleton, County Cork, Ireland",
+    "lat": 51.9147,
+    "lng": -8.166,
+    "founded": 1825,
+    "parentCompany": "Irish Distillers (Pernod Ricard)",
+    "masterDistiller": "Kevin O'Gorman",
+    "website": "irishdistillers.ie",
+    "description": "Midleton is the powerhouse of Irish whiskey — the County Cork complex where Irish Distillers produces Jameson, Redbreast, the Spot range, Powers and Midleton Very Rare. Its vast copper pots and column stills make both single pot still whiskey, Ireland's indigenous style built on malted and unmalted barley, and the grain whiskey behind the world's best-selling Irish blends, under master distiller Kevin O'Gorman.",
+    "history": "The Murphy brothers converted a Midleton woollen mill into a distillery in 1825, and it grew into the leading house of Cork distilling, merging into Cork Distilleries Company in 1867. The pivotal moment came in 1966, when the remnants of the once-mighty Irish industry — Jameson, Powers and Cork Distilleries — merged as Irish Distillers to survive; in 1975 all production consolidated into the purpose-built New Midleton distillery beside the Victorian original. Pernod Ricard acquired Irish Distillers in 1988 and funded the export push that made Jameson a global phenomenon. Redbreast, the Spot whiskeys and Midleton Very Rare have since led the revival of single pot still whiskey, while the old distillery serves as a visitor centre.",
+    "signatureBottleIds": ["jameson", "redbreast-12", "green-spot"],
+    "facts": [
+      "The old Midleton distillery houses one of the largest pot stills ever built, with a capacity of roughly 143,000 litres.",
+      "Virtually every major Irish Distillers whiskey — Jameson, Redbreast, the Spots, Powers — is distilled at Midleton.",
+      "The 1966 Irish Distillers merger is widely credited with saving Irish whiskey from extinction.",
+      "A micro-distillery on site produces the experimental Method and Madness range."
+    ],
+    "timeline": [
+      {"year": 1825, "event": "Murphy brothers found the Midleton distillery", "type": "milestone"},
+      {"year": 1966, "event": "Jameson, Powers and Cork Distilleries merge as Irish Distillers", "type": "change"},
+      {"year": 1975, "event": "New Midleton distillery opens; Dublin distilling winds down", "type": "milestone"},
+      {"year": 1988, "event": "Pernod Ricard acquires Irish Distillers", "type": "change"}
+    ]
+  },
+  {
+    "id": "bushmills-distillery",
+    "name": "Old Bushmills Distillery",
+    "type": "distillery",
+    "countryId": "ireland",
+    "regionId": "county-antrim",
+    "location": "Bushmills, County Antrim, Northern Ireland",
+    "lat": 55.2029,
+    "lng": -6.517,
+    "founded": 1784,
+    "parentCompany": "Proximo Spirits (Becle)",
+    "masterDistiller": "Colum Egan",
+    "website": "bushmills.com",
+    "description": "Bushmills is the historic malt whiskey house of Ireland's north, trading on a 1608 royal licence to distil in its territory — the basis of its claim to be the world's oldest licensed whiskey distillery. Uniquely among the old Irish houses it specialised in triple-distilled single malt rather than pot still blends, and its light, honeyed, fruit-driven style anchors both its single malts and the Black Bush and Original blends.",
+    "history": "King James I granted Sir Thomas Phillips a licence to distil in the Bushmills territory in 1608; the Old Bushmills Distillery Company was registered in 1784. A fire destroyed the works in 1885, and the rebuilt Victorian distillery still operates beside the River Bush, drawing water from Saint Columb's Rill. The company pioneered transatlantic marketing — its steamship SS Bushmills carried whiskey to America in 1890 — and survived Prohibition and the Irish industry's collapse. Modern ownership has rotated through Irish Distillers (1972), Pernod Ricard, and Diageo (2005); since 2015 Bushmills has belonged to Proximo Spirits, acquired in the deal that gave Diageo full control of Don Julio tequila.",
+    "signatureBottleIds": ["bushmills-10"],
+    "facts": [
+      "The 1608 licence from King James I underpins the 'oldest licensed distillery' claim, though the company dates to 1784.",
+      "Its water source is Saint Columb's Rill, a tributary of the River Bush.",
+      "The company steamship SS Bushmills delivered whiskey directly to America from 1890.",
+      "Traded from Diageo to Proximo Spirits in 2015 in exchange for full ownership of Don Julio."
+    ],
+    "timeline": [
+      {"year": 1608, "event": "Royal licence to distil granted for the Bushmills territory", "type": "milestone"},
+      {"year": 1784, "event": "Old Bushmills Distillery Company registered", "type": "milestone"},
+      {"year": 1885, "event": "Distillery destroyed by fire and rebuilt", "type": "milestone"},
+      {"year": 2015, "event": "Proximo Spirits acquires Bushmills", "type": "change"}
+    ]
+  },
+  {
+    "id": "yamazaki-distillery",
+    "name": "Yamazaki Distillery",
+    "type": "distillery",
+    "countryId": "japan",
+    "regionId": "osaka",
+    "location": "Shimamoto, Osaka Prefecture, Japan",
+    "lat": 34.8924,
+    "lng": 135.6741,
+    "founded": 1923,
+    "parentCompany": "Suntory Holdings",
+    "masterDistiller": null,
+    "website": "suntory.com",
+    "description": "Yamazaki is Japan's first malt whisky distillery, built by Suntory founder Shinjiro Torii in 1923 in a humid, misty valley between Osaka and Kyoto famed for its water. Designed to produce many spirit styles under one roof — varied stills, mixed washbacks, multiple yeasts — it supplies Suntory's blends and the Yamazaki single malts, whose mizunara-oak character became the defining flavour of Japanese whisky's global rise.",
+    "history": "Shinjiro Torii, a wine merchant turned drinks visionary, broke ground at Yamazaki in 1923 and hired Masataka Taketsuru — the chemist who had studied whisky-making in Scotland and later founded Nikka — as first distillery manager. The first Suntory whisky appeared in 1929, and decades of blend-focused production followed before the Yamazaki single malt launched in 1984. International recognition arrived with a 2003 ISC gold medal, and the subsequent boom in Japanese whisky demand emptied its aged warehouses, putting the 12- and 18-year-olds on permanent allocation. The distillery, extensively renovated in 2023 for its centenary, remains Japanese whisky's symbolic home.",
+    "signatureBottleIds": ["yamazaki-12"],
+    "facts": [
+      "Japan's first malt whisky distillery, operating since 1923.",
+      "The valley's water was celebrated centuries before whisky — tea master Sen no Rikyu built a tea room nearby.",
+      "Runs eight pairs of pot stills in different shapes to create dozens of distillate styles on one site.",
+      "Pioneered maturation in Japanese mizunara oak, now the signature wood of Japanese whisky."
+    ],
+    "timeline": [
+      {"year": 1923, "event": "Construction begins on Japan's first malt whisky distillery", "type": "milestone"},
+      {"year": 1929, "event": "Suntory's first whisky, Shirofuda, is released", "type": "release"},
+      {"year": 1984, "event": "Yamazaki single malt launched", "type": "release"},
+      {"year": 2023, "event": "Centenary renovation completed", "type": "milestone"}
+    ]
+  },
+  {
+    "id": "hakushu-distillery",
+    "name": "Hakushu Distillery",
+    "type": "distillery",
+    "countryId": "japan",
+    "regionId": "yamanashi",
+    "location": "Hokuto, Yamanashi Prefecture, Japan",
+    "lat": 35.8262,
+    "lng": 138.3178,
+    "founded": 1973,
+    "parentCompany": "Suntory Holdings",
+    "masterDistiller": null,
+    "website": "suntory.com",
+    "description": "Hakushu is Suntory's mountain forest distillery, set at about 700 metres among woods at the foot of Mount Kaikomagatake in the Southern Japanese Alps. Granite-filtered snowmelt, cool high-altitude warehouses and a portion of lightly peated malt shape a house style of green freshness — mint, young fruit and soft smoke — that made its single malts the defining whisky of the Japanese highball.",
+    "history": "Suntory opened Hakushu in 1973, fifty years after breaking ground at Yamazaki, to diversify its malt supply with a contrasting mountain terroir. Expansion through the late 1970s and 1980s — at one point the complex ran dozens of stills — made it among the largest malt distilleries in the world before capacity was rationalised around today's flexible stillhouse. Its single malts rose to prominence in the 1990s and 2000s, and the 12-year-old's 2018 suspension for lack of aged stock, followed by a 2021 return, became emblematic of the Japanese whisky shortage. The forested grounds, which include a bird sanctuary, share their water with one of Japan's best-known bottled mineral waters.",
+    "signatureBottleIds": ["hakushu-12"],
+    "facts": [
+      "Opened in 1973 on the fiftieth anniversary of Yamazaki's construction.",
+      "Sits at roughly 700 metres elevation in forest at the foot of the Southern Japanese Alps.",
+      "The grounds double as a certified wild-bird sanctuary.",
+      "At its 1980s peak it ranked among the largest malt whisky distilleries in the world."
+    ],
+    "timeline": [
+      {"year": 1973, "event": "Hakushu distillery opens in Yamanashi Prefecture", "type": "milestone"},
+      {"year": 2018, "event": "Hakushu 12 suspended amid aged-stock shortages", "type": "discontinued"},
+      {"year": 2021, "event": "Hakushu 12 returns on allocation", "type": "reintroduced"}
+    ]
+  },
+  {
+    "id": "suntory",
+    "name": "Suntory",
+    "type": "blender",
+    "countryId": "japan",
+    "regionId": "osaka",
+    "location": "Osaka, Japan",
+    "lat": 34.6963,
+    "lng": 135.4959,
+    "founded": 1899,
+    "parentCompany": "Suntory Holdings",
+    "masterDistiller": "Shinji Fukuyo",
+    "website": "suntory.com",
+    "description": "Suntory is the house that built Japanese whisky: founder Shinjiro Torii opened the country's first malt distillery at Yamazaki in 1923, and the company's blending tradition — today led by fifth-generation chief blender Shinji Fukuyo — spans Yamazaki, Hakushu and the Chita grain distillery. Its Hibiki blends and single malts define the elegant, harmony-first Japanese style, and its 2014 purchase of Beam made it one of the world's largest spirits groups.",
+    "history": "Shinjiro Torii founded his Osaka drinks shop, Torii Shoten, in 1899 and funded his whisky ambitions with the hit Akadama Port Wine. Against prevailing advice he built Yamazaki in 1923, released Japan's first true whisky in 1929, and found the national palate with the softer Kakubin in 1937. The company, renamed Suntory, added the Chita grain distillery and Hakushu in the early 1970s as highballs made whisky Japan's everyday drink, and launched Hibiki for its ninetieth anniversary in 1989. International awards from the early 2000s ignited global demand that still outruns its aged stocks. In 2014 Suntory acquired Beam Inc. for about 16 billion dollars, creating Beam Suntory — now Suntory Global Spirits.",
+    "signatureBottleIds": ["hibiki-harmony", "yamazaki-12", "hakushu-12"],
+    "facts": [
+      "Founder Shinjiro Torii's motto 'Yatte minahare' — roughly, 'Go for it and see' — remains company lore.",
+      "The Akadama Port Wine fortune financed Japan's first malt whisky distillery.",
+      "Chief blender Shinji Fukuyo is only the fifth person to hold the role in a century.",
+      "Bought Beam Inc. for roughly $16 billion in 2014, adding Jim Beam, Maker's Mark and Laphroaig to the group."
+    ],
+    "timeline": [
+      {"year": 1899, "event": "Shinjiro Torii founds Torii Shoten in Osaka", "type": "milestone"},
+      {"year": 1929, "event": "Japan's first whisky, Suntory Shirofuda, released", "type": "release"},
+      {"year": 1989, "event": "Hibiki launched for the company's 90th anniversary", "type": "release"},
+      {"year": 2014, "event": "Acquisition of Beam Inc. creates Beam Suntory", "type": "change"}
+    ]
+  },
+  {
+    "id": "nikka-whisky",
+    "name": "Nikka Whisky",
+    "type": "blender",
+    "countryId": "japan",
+    "regionId": null,
+    "location": "Tokyo, Japan (distilleries: Yoichi, Hokkaidō and Miyagikyo, Sendai)",
+    "lat": 35.658,
+    "lng": 139.7516,
+    "founded": 1934,
+    "parentCompany": "Asahi Group Holdings",
+    "masterDistiller": null,
+    "website": "nikka.com",
+    "description": "Nikka is the second pillar of Japanese whisky, founded by Masataka Taketsuru — the chemist who learned distilling in Scotland and is remembered as the father of Japanese whisky. Its two malt distilleries bracket the craft: coal-fired, muscular Yoichi on Hokkaido and orchard-elegant Miyagikyo near Sendai, joined by antique Coffey stills whose grain whiskies underpin blends like the cult From the Barrel.",
+    "history": "Masataka Taketsuru travelled to Scotland in 1918, studied chemistry in Glasgow and apprenticed at distilleries including Hazelburn in Campbeltown, returning with a Scottish wife, Rita, and a notebook that became Japanese whisky's founding document. After a decade running Yamazaki for Suntory's predecessor, he struck out alone in 1934, founding Dai Nippon Kaju — later Nikka — at Yoichi on Hokkaido, chosen for its Scotland-like climate, and selling apple juice while his first whisky matured. Miyagikyo followed in 1969, Coffey stills were imported in the 1960s, and From the Barrel appeared in 1985. Nikka became part of Asahi's group in the post-war decades and a full subsidiary in 2001, and global demand since the 2010s has kept much of its range allocated.",
+    "signatureBottleIds": ["nikka-from-the-barrel"],
+    "facts": [
+      "Founder Masataka Taketsuru apprenticed in Scottish distilleries, including Hazelburn in Campbeltown, in 1919–20.",
+      "The company's first name, Dai Nippon Kaju ('Great Japan Juice'), reflected the apple juice it sold while whisky aged.",
+      "Yoichi still direct-fires some stills with coal, a practice nearly extinct worldwide.",
+      "Taketsuru and his Scottish wife Rita were dramatised in the hit 2014–15 NHK television series Massan."
+    ],
+    "timeline": [
+      {"year": 1934, "event": "Taketsuru founds the company and builds Yoichi distillery on Hokkaido", "type": "milestone"},
+      {"year": 1940, "event": "First Nikka whisky released", "type": "release"},
+      {"year": 1969, "event": "Miyagikyo distillery opens near Sendai", "type": "milestone"},
+      {"year": 2001, "event": "Nikka becomes a wholly owned Asahi subsidiary", "type": "change"}
+    ]
+  },
+  {
+    "id": "kavalan-distillery",
+    "name": "Kavalan Distillery",
+    "type": "distillery",
+    "countryId": "taiwan",
+    "regionId": "yilan",
+    "location": "Yuanshan, Yilan County, Taiwan",
+    "lat": 24.7465,
+    "lng": 121.744,
+    "founded": 2005,
+    "parentCompany": "King Car Group",
+    "masterDistiller": null,
+    "website": "kavalanwhisky.com",
+    "description": "Kavalan is Taiwan's first whisky distillery and the flagbearer of subtropical maturation: Yilan County's heat and humidity age whisky several times faster than Scotland's climate, at the cost of a double-digit angel's share. Guided in its design by maturation scientist Dr Jim Swan, it vaulted from first spirit in 2006 to World's Best Single Malt in under a decade, and its cask-strength Solist bottlings are collected worldwide.",
+    "history": "Beverage conglomerate King Car Group began building Kavalan in 2005 on the rainy Yilan plain, naming it for the region's indigenous people and hiring consultant Dr Jim Swan to engineer maturation for the tropics, including his signature shaved-toasted-recharred wine casks. The first spirit ran in March 2006 and the first bottles sold in December 2008. Validation came fast: a Kavalan topped a 2010 Burns Night blind tasting in Scotland, and in 2015 Solist Vinho Barrique was named World's Best Single Malt at the World Whiskies Awards. Now with one of the largest single-malt capacities in Asia, Kavalan exports to over sixty countries and has made 'Taiwanese whisky' a fixture of the world stage.",
+    "signatureBottleIds": ["kavalan-classic"],
+    "facts": [
+      "Named for the Kavalan indigenous people of the Yilan plain.",
+      "Went from pouring its first spirit in 2006 to a World's Best Single Malt award in 2015.",
+      "Subtropical heat drives an angel's share of ten per cent or more per year, several times Scotland's rate.",
+      "Sister company King Car also produces Mr. Brown canned coffee, Taiwan's ubiquitous roadside brew."
+    ],
+    "timeline": [
+      {"year": 2005, "event": "King Car Group begins construction in Yilan County", "type": "milestone"},
+      {"year": 2006, "event": "First spirit distilled in March", "type": "milestone"},
+      {"year": 2008, "event": "First bottles go on sale in December", "type": "release"},
+      {"year": 2015, "event": "Solist Vinho Barrique named World's Best Single Malt (World Whiskies Awards)", "type": "award"}
+    ]
+  },
+  {
+    "id": "amrut-distillery",
+    "name": "Amrut Distilleries",
+    "type": "distillery",
+    "countryId": "india",
+    "regionId": "karnataka",
+    "location": "Bengaluru, Karnataka, India",
+    "lat": 12.8996,
+    "lng": 77.4826,
+    "founded": 1948,
+    "parentCompany": "N.R. Jagdale Group (family-owned)",
+    "masterDistiller": "Ashok Chokalingam",
+    "website": "amrutdistilleries.com",
+    "description": "Amrut is the pioneer of Indian single malt, a family-owned Bengaluru distillery that proved barley whisky matured at 3,000 feet in the tropics could stand beside Scotland's best. Its malts age roughly three times faster than Scotch — with an angel's share above ten per cent a year — and its Fusion flagship, marrying Indian and peated Scottish barley, ranks among the most acclaimed whiskies of the New World.",
+    "history": "J.N. Radhakrishna Rao Jagdale founded Amrut Distilleries in 1948, the year after Indian independence, and the family firm spent decades producing spirits for the domestic market — including whisky blends and rum — before experimenting with single malt from Indian barley in the 1980s. Convinced that home-market prestige required foreign validation, the Jagdales launched Amrut Single Malt in Glasgow in 2004. Recognition snowballed after Jim Murray's Whisky Bible named Fusion the world's third-finest whisky in its 2010 edition, and Amrut's limited releases now sell out globally, with the distillery exporting to dozens of countries while remaining family-controlled.",
+    "signatureBottleIds": ["amrut-fusion"],
+    "facts": [
+      "Amrut derives from the Sanskrit amrita, the nectar of immortality churned from the cosmic ocean in Hindu myth.",
+      "Launched its single malt in Glasgow in 2004 on the theory that convincing the Scots would convince everyone.",
+      "Bengaluru's elevation and climate mature whisky roughly three times faster than Scotland's.",
+      "Remains owned and run by the founding Jagdale family."
+    ],
+    "timeline": [
+      {"year": 1948, "event": "Amrut Distilleries founded in Bengaluru", "type": "milestone"},
+      {"year": 2004, "event": "Amrut Single Malt launched in Glasgow", "type": "milestone"},
+      {"year": 2009, "event": "Amrut Fusion released", "type": "release"},
+      {"year": 2010, "event": "Fusion ranked third-finest whisky in the world by the Whisky Bible", "type": "award"}
+    ]
+  },
+  {
+    "id": "eimverk-distillery",
+    "name": "Eimverk Distillery",
+    "type": "distillery",
+    "countryId": "iceland",
+    "regionId": null,
+    "location": "Garðabær, Iceland",
+    "lat": 64.0886,
+    "lng": -21.9247,
+    "founded": 2009,
+    "parentCompany": null,
+    "masterDistiller": null,
+    "website": "eimverk.is",
+    "description": "Eimverk is Iceland's pioneering whisky distillery, a family-run operation outside Reykjavík committed to 100% Icelandic ingredients. Its hardy subarctic barley — grown without pesticides and yielding far less sugar than commercial malt — gives the Flóki whiskies their earthy, cereal-forward character, while sister spirits Vor gin and Víti brennivín extend the all-Icelandic idea, and special editions revive sheep-dung smoking, the island's traditional curing method.",
+    "history": "The Thorkelsson family founded Eimverk in 2009 with the aim of making whisky entirely from Icelandic grain, spending years and more than a hundred trial distillations adapting mashing and fermentation to low-sugar northern barley. Production began in earnest in 2012–13, and the distillery bridged its maturation wait with Flóki Young Malt in 2014 before releasing Iceland's first fully matured single malt in late 2017. Named for Hrafna-Flóki, the Norse explorer who named Iceland, the Flóki range has since grown to include sherry-cask and sheep-dung-smoked reserves, all produced in small batches at the Garðabær site.",
+    "signatureBottleIds": ["floki-single-malt"],
+    "facts": [
+      "Iceland's first whisky distillery, founded by the Thorkelsson family in 2009.",
+      "Uses only Icelandic barley, which needs no pesticides at 64°N but yields so little sugar that each bottle takes ~50% more grain.",
+      "Smoked editions kiln barley over sheep dung, the traditional Icelandic fuel used to cure hangikjöt.",
+      "Also produces Vor gin and Víti brennivín from the same all-Icelandic philosophy."
+    ],
+    "timeline": [
+      {"year": 2009, "event": "Eimverk founded in Garðabær by the Thorkelsson family", "type": "milestone"},
+      {"year": 2014, "event": "Flóki Young Malt pre-release bridges the maturation wait", "type": "release"},
+      {"year": 2017, "event": "Iceland's first fully matured single malt whisky released", "type": "release"}
+    ]
+  }
+]

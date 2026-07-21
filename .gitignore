@@ -1,0 +1,4 @@
+.DS_Store
+Thumbs.db
+# map source (public-domain download, ~250 KB) — regenerate with scripts/build_map.py
+scripts/countries.geo.json

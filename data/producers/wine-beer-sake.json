@@ -1,0 +1,243 @@
+[
+  {
+    "id": "chateau-margaux",
+    "name": "Château Margaux",
+    "type": "winery",
+    "countryId": "france",
+    "regionId": "bordeaux",
+    "location": "Margaux-Cantenac, Médoc, France",
+    "lat": 45.043,
+    "lng": -0.677,
+    "founded": null,
+    "parentCompany": "Mentzelopoulos family",
+    "masterDistiller": "Philippe Bascaules (managing director & winemaker)",
+    "website": "chateau-margaux.com",
+    "description": "One of the five First Growths of the 1855 classification and the only one sharing its name with its appellation, Château Margaux is the Médoc's byword for perfume and finesse. From roughly 80 hectares of red-wine vines on deep gravel croupes, the estate makes a cabernet-led grand vin celebrated for violet aromatics, silken tannin and decades of longevity, alongside Pavillon Rouge, Pavillon Blanc and a third wine.",
+    "history": "The vineyard was assembled by the Lestonnac family in the late sixteenth century and refined over generations; the estate's neo-Palladian château, designed by Louis Combes, was completed in 1815. Ranked a Premier Grand Cru Classé in 1855, Margaux drifted through mid-twentieth-century mediocrity until Greek-French grocery magnate André Mentzelopoulos bought it in 1977 and spent heavily on vineyards and cellars. His daughter Corinne led a celebrated era with director Paul Pontallier from 1990 until Pontallier's death in 2016; Philippe Bascaules, who had spent two decades at the estate before running Inglenook in Napa, returned as managing director. A Norman Foster-designed winery, inaugurated with the 2015 vintage, brought the first major building works in two hundred years.",
+    "signatureBottleIds": ["chateau-margaux-2015"],
+    "facts": [
+      "Thomas Jefferson, visiting Bordeaux in 1787, listed Margaux among the region's four great estates.",
+      "The 1815 château is nicknamed the 'Versailles of the Médoc'.",
+      "Roughly two-thirds of the crop is declassified into second and third wines to protect the grand vin."
+    ],
+    "timeline": [
+      {"year": 1855, "event": "Classified a Premier Grand Cru Classé", "type": "milestone"},
+      {"year": 1977, "event": "André Mentzelopoulos acquires the estate", "type": "change"},
+      {"year": 2015, "event": "Norman Foster-designed cellar complex inaugurated", "type": "milestone"}
+    ]
+  },
+  {
+    "id": "opus-one-winery",
+    "name": "Opus One Winery",
+    "type": "winery",
+    "countryId": "united-states",
+    "regionId": "napa-valley",
+    "location": "Oakville, Napa Valley, California, USA",
+    "lat": 38.4406,
+    "lng": -122.4041,
+    "founded": 1979,
+    "parentCompany": "Constellation Brands & Baron Philippe de Rothschild S.A. (50/50)",
+    "masterDistiller": "Michael Silacci (winemaker)",
+    "website": "opusonewinery.com",
+    "description": "Opus One is the Oakville estate born of a handshake between Napa's Robert Mondavi and Bordeaux's Baron Philippe de Rothschild — a single Bordeaux-blend red made each year to marry Napa fruit with First Growth discipline. Its crescent-shaped, partly buried winery is a valley landmark, and its distribution through the Bordeaux négociant system gives it a global reach few American wines match.",
+    "history": "Robert Mondavi and Baron Philippe de Rothschild of Château Mouton Rothschild agreed to the joint venture during a 1978 meeting in Hawaii, and the first vintage was made in 1979 within Mondavi's To Kalon facility. The partnership was announced in 1980, the name Opus One chosen in 1982, and the debut 1979 and 1980 vintages released together in 1984. The purpose-built winery opened in 1991. Ownership followed the founders' successions — the Baroness Philippine de Rothschild on one side, and Constellation Brands after its 2004 purchase of the Mondavi company on the other — while the estate consolidated its four Oakville vineyard parcels and en primeur sales via the Place de Bordeaux from 2004 onward.",
+    "signatureBottleIds": ["opus-one-2019"],
+    "facts": [
+      "The label bears the joined profiles of both founders and both signatures.",
+      "Overture, the second wine, is blended from declassified lots across multiple years.",
+      "Opus One farms roughly 68 hectares of tightly spaced Bordeaux varieties around the winery."
+    ],
+    "timeline": [
+      {"year": 1979, "event": "First vintage produced at the Robert Mondavi Winery", "type": "milestone"},
+      {"year": 1984, "event": "Debut vintages released at a record Napa price", "type": "release"},
+      {"year": 1991, "event": "Estate winery in Oakville completed", "type": "milestone"},
+      {"year": 2004, "event": "Constellation Brands succeeds Mondavi as 50% partner", "type": "change"}
+    ]
+  },
+  {
+    "id": "marchesi-antinori",
+    "name": "Marchesi Antinori",
+    "type": "winery",
+    "countryId": "italy",
+    "regionId": "tuscany",
+    "location": "Bargino, San Casciano Val di Pesa, Tuscany, Italy",
+    "lat": 43.643,
+    "lng": 11.185,
+    "founded": 1385,
+    "parentCompany": null,
+    "masterDistiller": "Renzo Cotarella (chief oenologist)",
+    "website": "antinori.it",
+    "description": "The Antinori family has made wine in Tuscany for more than six centuries and 26 generations, making it one of the world's oldest family businesses. From its striking hillside winery at Bargino in Chianti Classico, the house spans estates across Italy and abroad, but its identity rests on the Super Tuscan revolution it ignited with Tignanello and Solaia — sangiovese and cabernet treated with uncompromising modern technique.",
+    "history": "Giovanni di Piero Antinori enrolled in Florence's winemakers' guild, the Arte Fiorentina dei Vinattieri, in 1385, beginning an unbroken family line in the trade. The modern era belongs to Marchese Piero Antinori, who took charge in 1966 and, with oenologist Giacomo Tachis, created Tignanello (first solo vintage 1971) and Solaia (1978), wines that defied DOC rules and forced Italian wine law to modernize. The company expanded with estates in Bolgheri (Guado al Tasso), Umbria, Piedmont, Washington State and beyond, always family-owned. In 2012 the gravity-flow, earth-covered Antinori nel Chianti Classico winery opened at Bargino; Piero's daughter Albiera became president in 2017, with sisters Allegra and Alessia alongside and Renzo Cotarella as long-serving chief oenologist.",
+    "signatureBottleIds": ["tignanello-2020"],
+    "facts": [
+      "26 consecutive generations of the Antinori family have run the business since 1385.",
+      "House oenologists Giacomo Tachis and later Renzo Cotarella shaped the entire Super Tuscan category.",
+      "The Bargino headquarters winery is buried under a working vineyard, with a spiral staircase carved in corten steel."
+    ],
+    "timeline": [
+      {"year": 1385, "event": "Giovanni di Piero Antinori joins the Florentine winemakers' guild", "type": "milestone"},
+      {"year": 1971, "event": "Tignanello bottled as a stand-alone wine, launching the Super Tuscans", "type": "release"},
+      {"year": 2012, "event": "Antinori nel Chianti Classico winery opens at Bargino", "type": "milestone"}
+    ]
+  },
+  {
+    "id": "caymus-vineyards",
+    "name": "Caymus Vineyards",
+    "type": "winery",
+    "countryId": "united-states",
+    "regionId": "napa-valley",
+    "location": "Rutherford, Napa Valley, California, USA",
+    "lat": 38.4635,
+    "lng": -122.3907,
+    "founded": 1972,
+    "parentCompany": "Wagner Family of Wine",
+    "masterDistiller": "Chuck Wagner (winemaker)",
+    "website": "caymus.com",
+    "description": "Caymus is the Rutherford house of the Wagner family and the maker of America's most famous steakhouse cabernet. Its style — dark, ripe, plush and immediately generous — defined a commercial ideal for Napa Valley cabernet sauvignon, while the limited Special Selection bottling built its critical reputation. The family's broader portfolio spans Conundrum, Mer Soleil, Belle Glos and ventures beyond California.",
+    "history": "Charlie Wagner, his wife Lorna Belle Glos Wagner and their son Chuck founded Caymus in 1972 on farmland in Rutherford, naming it for the Rancho Caymus land grant. The first vintage was made that year in modest quantities, and the flagship cabernet grew steadily on a reputation for consistency and approachability. Special Selection, introduced with the 1975 vintage, was twice named Wine Spectator's Wine of the Year — the only wine so honored. Chuck Wagner has led winemaking for decades, pioneering extended hang time for supple tannins, while his children launched their own labels within Wagner Family of Wine. The company has since expanded with vineyards in Suisun Valley and projects outside California, remaining wholly family-owned.",
+    "signatureBottleIds": ["caymus-cabernet"],
+    "facts": [
+      "Named for Rancho Caymus, the 1836 Mexican land grant covering the Rutherford area.",
+      "Caymus Special Selection is the only wine named Wine Spectator Wine of the Year twice.",
+      "Three generations of Wagners have made wine at the Rutherford property."
+    ],
+    "timeline": [
+      {"year": 1972, "event": "Caymus founded; first cabernet vintage produced", "type": "milestone"},
+      {"year": 1975, "event": "First Special Selection vintage", "type": "release"}
+    ]
+  },
+  {
+    "id": "cloudy-bay-vineyards",
+    "name": "Cloudy Bay Vineyards",
+    "type": "winery",
+    "countryId": "new-zealand",
+    "regionId": "marlborough",
+    "location": "Jacksons Road, Blenheim, Marlborough, New Zealand",
+    "lat": -41.493,
+    "lng": 173.863,
+    "founded": 1985,
+    "parentCompany": "LVMH (Moët Hennessy)",
+    "masterDistiller": null,
+    "website": "cloudybay.co.nz",
+    "description": "Cloudy Bay is the winery that made Marlborough — and New Zealand — famous. Its explosively aromatic sauvignon blanc became the international benchmark for the variety within a few vintages of its 1985 debut, defining a national style of passionfruit, cut grass and racy acidity. Now part of LVMH, it also produces chardonnay, pinot noir, the late-disgorged sparkling Pelorus and the oak-aged sauvignon Te Koko.",
+    "history": "David Hohnen, founder of Cape Mentelle in Western Australia, established Cloudy Bay in 1985 after tasting early Marlborough sauvignon blancs — barely a decade after the region's first commercial vines went in (1973). Founding winemaker Kevin Judd made the debut vintage partly in borrowed space, and UK demand turned the label into a cult allocation by the late 1980s. Veuve Clicquot bought a majority stake in 1990, bringing the house fully into LVMH by 2003 and funding vineyard expansion across the Wairau Valley and a pinot noir outpost in Central Otago. Judd departed in 2009 to found Greywacke; the house style — precise, aromatic, screwcap-sealed — has remained deliberately consistent.",
+    "signatureBottleIds": ["cloudy-bay-sauvignon-blanc"],
+    "facts": [
+      "Named for the bay at the Wairau River mouth charted by Captain James Cook in 1770.",
+      "One of the first five wineries established in Marlborough.",
+      "Founding winemaker Kevin Judd's vineyard photography shaped the brand's imagery for two decades."
+    ],
+    "timeline": [
+      {"year": 1985, "event": "Winery founded by David Hohnen; first sauvignon blanc vintage", "type": "milestone"},
+      {"year": 1990, "event": "Veuve Clicquot acquires a majority stake", "type": "change"},
+      {"year": 2003, "event": "Fully absorbed into LVMH's wine and spirits division", "type": "change"}
+    ]
+  },
+  {
+    "id": "dr-loosen",
+    "name": "Weingut Dr. Loosen",
+    "type": "winery",
+    "countryId": "germany",
+    "regionId": "mosel",
+    "location": "St. Johannishof, Bernkastel-Kues, Mosel, Germany",
+    "lat": 49.921,
+    "lng": 7.057,
+    "founded": null,
+    "parentCompany": null,
+    "masterDistiller": "Ernst Loosen (owner)",
+    "website": "drloosen.com",
+    "description": "Dr. Loosen is one of the Mosel's flagship riesling estates, farming steep slate vineyards in a string of legendary sites — Wehlener Sonnenuhr, Ürziger Würzgarten, Erdener Prälat among them — many planted with old, ungrafted vines. The house spans the full Prädikat spectrum from featherweight Kabinett to nobly sweet rarities, plus long-aged dry Grosses Gewächs bottlings, and its garrulous owner Ernst Loosen is German riesling's best-known global evangelist.",
+    "history": "The estate at St. Johannishof has been in the Loosen family for over two hundred years, but its modern reputation dates to 1988, when Ernst 'Erni' Loosen — a trained archaeologist — reluctantly took over, slashed yields, abandoned fertilizers and refocused on the old vines in the family's grand-cru-class parcels. Recognition followed rapidly, including membership of the VDP growers' association and international acclaim. Loosen built parallel ventures without diluting the estate: the high-volume Dr. L rieslings from purchased Mosel fruit, the Eroica collaboration with Chateau Ste. Michelle in Washington State (from 1999), and projects in the Pfalz (Villa Wolf) and Oregon. Longtime cellar master Bernhard Schug shaped the winemaking alongside him for three decades.",
+    "signatureBottleIds": ["dr-loosen-riesling-kabinett"],
+    "facts": [
+      "Holdings include ungrafted, pre-phylloxera riesling vines more than a century old.",
+      "Ernst Loosen co-created the Eroica riesling joint venture in Washington State in 1999.",
+      "The estate helped lead the revival of long-cask-aged dry Mosel riesling under the GG banner."
+    ],
+    "timeline": [
+      {"year": 1988, "event": "Ernst Loosen takes over the family estate", "type": "change"},
+      {"year": 1999, "event": "Eroica joint venture with Chateau Ste. Michelle launches", "type": "milestone"}
+    ]
+  },
+  {
+    "id": "chateau-desclans",
+    "name": "Château d'Esclans",
+    "type": "winery",
+    "countryId": "france",
+    "regionId": "provence",
+    "location": "La Motte-en-Provence, Var, France",
+    "lat": 43.499,
+    "lng": 6.562,
+    "founded": 2006,
+    "parentCompany": "Moët Hennessy (LVMH), majority owner",
+    "masterDistiller": null,
+    "website": "esclans.com",
+    "description": "Château d'Esclans, in the hills above the Esclans valley east of the Côtes de Provence, is the estate that turned pale Provençal rosé into a global luxury category. Its tiered range runs from the phenomenon Whispering Angel through Rock Angel and Les Clans to Garrus — an oak-fermented old-vine rosé priced like fine white burgundy — all built on grenache and the local rolle grape.",
+    "history": "The site's winemaking history is ancient and its château nineteenth-century, but the modern story begins in 2006 when Sacha Lichine — son of Bordeaux author-négociant Alexis Lichine — sold Château Prieuré-Lichine in Margaux and bought d'Esclans to prove rosé could be serious. With the late Patrick Léon, former technical director of Mouton Rothschild, he built a range topped by Garrus from 80-plus-year-old vines and floated Whispering Angel as the accessible entry. American demand made it a cultural phenomenon. Moët Hennessy bought 55% in 2019 and later increased its stake, scaling Whispering Angel into one of the world's best-selling premium rosés while the estate wines kept the critical franchise.",
+    "signatureBottleIds": ["whispering-angel-rose"],
+    "facts": [
+      "The name Whispering Angel comes from cherubs carved in the estate chapel.",
+      "Garrus, the top cuvée, ferments and ages entirely in large new oak demi-muids — almost unheard of for rosé.",
+      "Sacha Lichine sold a classified-growth Margaux estate to fund the rosé gamble."
+    ],
+    "timeline": [
+      {"year": 2006, "event": "Sacha Lichine acquires the estate and creates Whispering Angel", "type": "milestone"},
+      {"year": 2019, "event": "Moët Hennessy takes a 55% stake", "type": "change"}
+    ]
+  },
+  {
+    "id": "taylor-fladgate",
+    "name": "Taylor's (Taylor, Fladgate & Yeatman)",
+    "type": "winery",
+    "countryId": "portugal",
+    "regionId": "douro",
+    "location": "Vila Nova de Gaia, Portugal",
+    "lat": 41.136,
+    "lng": -8.613,
+    "founded": 1692,
+    "parentCompany": "The Fladgate Partnership",
+    "masterDistiller": "David Guimaraens (head winemaker)",
+    "website": "taylor.pt",
+    "description": "Taylor's is one of the great names of vintage port and the anchor house of The Fladgate Partnership, with over three centuries of unbroken trade from its lodges in Vila Nova de Gaia. Its vintage ports from Quinta de Vargellas and Quinta de Terra Feita are among the category's most collected, while its aged tawny program and the invention of Late Bottled Vintage shaped how everyday drinkers meet port.",
+    "history": "Founded in 1692 by Job Bearsley, the firm evolved through the names of successive partners — Taylor arriving in 1816, Fladgate in 1837, Yeatman in 1844 — while never leaving family-linked control or being absorbed by a drinks conglomerate. It bought the flagship Quinta de Vargellas estate in the remote upper Douro in 1893, rebuilding it after phylloxera. In 1970 Taylor's released the first commercial Late Bottled Vintage, democratizing vintage-style port. The modern Fladgate Partnership grew around it, acquiring Fonseca (long affiliated), Croft and Krohn, and diversifying into Porto hospitality with the World of Wine district. David Guimaraens, of the Fonseca family line, has led winemaking across the houses since the 1990s.",
+    "signatureBottleIds": ["taylors-10-tawny"],
+    "facts": [
+      "More than 330 years old and still outside conglomerate ownership — rare among major port houses.",
+      "Released the first commercial Late Bottled Vintage port (1965 vintage, released 1970).",
+      "Quinta de Vargellas has its own railway halt in the upper Douro."
+    ],
+    "timeline": [
+      {"year": 1692, "event": "House founded in the Douro trade by Job Bearsley", "type": "milestone"},
+      {"year": 1893, "event": "Quinta de Vargellas acquired", "type": "milestone"},
+      {"year": 1970, "event": "First commercial LBV port released", "type": "release"}
+    ]
+  },
+  {
+    "id": "gonzalez-byass",
+    "name": "González Byass",
+    "type": "winery",
+    "countryId": "spain",
+    "regionId": "jerez",
+    "location": "Jerez de la Frontera, Andalusia, Spain",
+    "lat": 36.682,
+    "lng": -6.14,
+    "founded": 1835,
+    "parentCompany": null,
+    "masterDistiller": "Antonio Flores (master blender & oenologist)",
+    "website": "gonzalezbyass.com",
+    "description": "González Byass is the Jerez bodega behind Tío Pepe, the world's best-known fino sherry, and a custodian of the region's most celebrated cellars — including the Gustave Eiffel-linked circular bodega La Concha. Family-owned into its fifth and sixth generations, it spans the full sherry spectrum from bone-dry finos through VORS-certified ancient soleras, plus brandy and a portfolio of Spanish still-wine estates.",
+    "history": "Manuel María González Ángel founded the bodega in 1835 at age 23, mentored by his uncle José Ángel de la Peña — the original Tío Pepe, whose butt of pale dry fino became the house's calling card in the 1840s. London agent Robert Blake Byass became a partner in 1855, giving the firm its binational name and its grip on the British market; the Byass interest was bought out in 1988, returning the company wholly to the González family. The bodega complex grew into a city within a city — cathedral-scale aging halls, the famous sherry-drinking mice legend, and soleras holding wines well over a century old. Master blender Antonio Flores, born within the bodega walls, has become the modern face of fino.",
+    "signatureBottleIds": ["tio-pepe-fino"],
+    "facts": [
+      "The giant illuminated Tío Pepe sign over Madrid's Puerta del Sol is a protected city landmark.",
+      "The circular La Concha bodega is traditionally associated with Gustave Eiffel's engineering office.",
+      "Cellar tradition includes setting out a tiny glass of sherry — with a ladder — for the bodega mice."
+    ],
+    "timeline": [
+      {"year": 1835, "event": "Manuel María González founds the bodega in Jerez", "type": "milestone"},
+      {"year": 1855, "event": "Robert Blake Byass becomes partner; firm renamed González Byass", "type": "change"},
+      {"year": 1988, "event": "González family buys out the Byass shareholding", "type": "change"}
+    ]
+  }
+]

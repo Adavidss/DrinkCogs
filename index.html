@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="clean-white">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>DrinkCogs — The Drinks Encyclopedia & Collection Manager</title>
+  <meta name="description" content="DrinkCogs is an interactive encyclopedia of alcoholic beverages — whiskey, rum, gin, wine, beer, sake and more — with a private personal collection manager. No accounts, no tracking: everything lives in your browser.">
+  <meta name="color-scheme" content="light dark">
+  <meta property="og:title" content="DrinkCogs — The Drinks Encyclopedia">
+  <meta property="og:description" content="Browse a curated encyclopedia of the world's drinks, chart flavor profiles, and manage your personal bottle collection — all in a fast, offline-capable app.">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="assets/icons/icon-512.png">
+  <meta name="theme-color" content="#faf8f5">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="assets/icons/favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="assets/icons/icon-192.png" type="image/png">
+  <link rel="apple-touch-icon" href="assets/icons/apple-touch-icon.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="DrinkCogs">
+  <script>
+    // Apply saved theme before first paint to avoid a flash.
+    (function () {
+      try {
+        var t = localStorage.getItem('drinkcogs:theme');
+        if (!t && window.matchMedia && matchMedia('(prefers-color-scheme: dark)').matches) t = 'dark';
+        if (t) document.documentElement.dataset.theme = t;
+      } catch (e) { /* private mode etc. */ }
+    })();
+  </script>
+  <link rel="stylesheet" href="css/base.css?v=2">
+  <link rel="stylesheet" href="css/themes.css?v=2">
+  <link rel="stylesheet" href="css/components.css?v=2">
+  <link rel="stylesheet" href="css/pages.css?v=2">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "DrinkCogs",
+    "description": "Interactive encyclopedia and personal collection manager for alcoholic beverages.",
+    "url": "https://kidsdc.org/DrinkCogs/"
+  }
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#view">Skip to content</a>
+
+  <header class="site-header" id="siteHeader">
+    <div class="header-inner">
+      <a class="brand" href="#/" aria-label="DrinkCogs home">
+        <span class="brand-mark" id="brandMark" aria-hidden="true"></span>
+        <span class="brand-name">Drink<b>Cogs</b></span>
+      </a>
+
+      <div class="headsearch" role="search">
+        <span class="headsearch-icon" id="headSearchIcon" aria-hidden="true"></span>
+        <input id="globalSearch" type="search" placeholder="Search bottles, distilleries, countries…"
+               autocomplete="off" spellcheck="false" aria-label="Search the encyclopedia"
+               aria-expanded="false" aria-controls="searchSuggest" role="combobox">
+        <kbd class="headsearch-kbd" aria-hidden="true">/</kbd>
+        <div id="searchSuggest" class="suggest" role="listbox" hidden></div>
+      </div>
+
+      <nav class="main-nav" aria-label="Primary">
+        <a href="#/browse" data-nav="browse"><span class="nav-ic" data-ic="grid"></span>Browse</a>
+        <a href="#/explore" data-nav="explore"><span class="nav-ic" data-ic="compass"></span>Explore</a>
+        <a href="#/collection" data-nav="collection"><span class="nav-ic" data-ic="book"></span>Collection</a>
+        <a href="#/dashboard" data-nav="dashboard"><span class="nav-ic" data-ic="chart"></span>Dashboard</a>
+      </nav>
+
+      <div class="header-actions">
+        <button class="iconbtn" id="randomBtn" title="Random bottle (r)" aria-label="Random bottle"></button>
+        <button class="iconbtn" id="themeBtn" title="Theme" aria-label="Choose theme" aria-haspopup="menu"></button>
+      </div>
+    </div>
+    <div id="themeMenu" class="theme-menu" role="menu" hidden></div>
+  </header>
+
+  <main id="view" class="view" tabindex="-1">
+    <div class="boot-splash">
+      <div class="boot-mark" aria-hidden="true"></div>
+      <p>Pouring the encyclopedia…</p>
+    </div>
+  </main>
+
+  <div id="compareTray" class="tray" hidden></div>
+  <div id="toasts" class="toasts" aria-live="polite"></div>
+  <div id="modalRoot"></div>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p><b>DrinkCogs</b> — an open encyclopedia of the world's drinks. Your collection and notes are stored only in this browser.</p>
+      <p class="footer-links">
+        <a href="#/about">About</a> · <a href="#/browse">All bottles</a> · <a href="#/explore">Explore</a> ·
+        <a href="https://github.com/Adavidss/DrinkCogs" rel="noopener" target="_blank">GitHub</a>
+      </p>
+      <p class="footer-fine">Prices are approximate estimates. Trademarks belong to their owners; bottle artwork is original illustration. Please enjoy responsibly.</p>
+    </div>
+  </footer>
+
+  <noscript><div class="noscript-msg">DrinkCogs is an interactive encyclopedia and needs JavaScript to run.</div></noscript>
+  <script type="module" src="js/app.js?v=2"></script>
+</body>
+</html>

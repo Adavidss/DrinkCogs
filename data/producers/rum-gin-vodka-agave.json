@@ -1,0 +1,166 @@
+[
+  {
+    "id": "appleton-estate",
+    "name": "Appleton Estate",
+    "type": "distillery",
+    "countryId": "jamaica",
+    "regionId": "saint-elizabeth",
+    "location": "Nassau Valley, Saint Elizabeth, Jamaica",
+    "lat": 18.23,
+    "lng": -77.74,
+    "founded": 1749,
+    "parentCompany": "Campari Group",
+    "masterDistiller": "Joy Spence (Master Blender)",
+    "website": "appletonestate.com",
+    "description": "Appleton Estate is Jamaica's flagship rum producer and its oldest sugar estate in continuous cultivation, distilling in the lush Nassau Valley since the 18th century. The house style blends copper pot and column still rums aged in the tropics without added sugar: fruity but polished, marked by orange peel, nuts and dry oak. Operated by J. Wray & Nephew under Campari Group, it defines the refined end of Jamaican rum.",
+    "history": "Cane has been grown and rum made on the Appleton Estate since 1749, in a valley bounded by the karst hills of Cockpit Country. Merchant house J. Wray & Nephew, founded in Kingston in 1825, acquired the estate in 1916, uniting Jamaica's biggest rum brand with its most storied source. Through the 20th century Appleton became the island's signature export, its aged blends distinguishing themselves from bulk high-ester exports. Chemist Joy Spence joined in 1981 and was named master blender in 1997 — the first woman in the industry to hold the title — creating or refining the modern range including the 12 Year Rare Casks and the record-setting 50 Year bottling. Campari Group bought parent company Lascelles deMercado in 2012 and has invested in the estate's visitor experience, the Joy Spence Appleton Estate Rum Experience, since.",
+    "signatureBottleIds": ["appleton-estate-12"],
+    "facts": [
+      "All Appleton rums are aged, blended and bottled in Jamaica with water from a limestone-filtered spring on the estate.",
+      "Joy Spence became the spirits industry's first female master blender in 1997 and marked 25 years in the role in 2022.",
+      "The estate released a 50 Year Old rum in 2012 to mark Jamaica's 50 years of independence."
+    ],
+    "timeline": [
+      {"year": 1749, "event": "Estate established in the Nassau Valley", "type": "milestone"},
+      {"year": 1916, "event": "J. Wray & Nephew acquires Appleton Estate", "type": "change"},
+      {"year": 1997, "event": "Joy Spence appointed master blender", "type": "milestone"},
+      {"year": 2012, "event": "Campari Group acquires J. Wray & Nephew", "type": "change"}
+    ]
+  },
+  {
+    "id": "hampden-estate",
+    "name": "Hampden Estate",
+    "type": "distillery",
+    "countryId": "jamaica",
+    "regionId": "trelawny",
+    "location": "Trelawny Parish, Jamaica",
+    "lat": 18.43,
+    "lng": -77.72,
+    "founded": 1753,
+    "parentCompany": "Everglades Farms Ltd (Hussey family)",
+    "masterDistiller": "Vivian Wisdom (Master Distiller)",
+    "website": "hampdenestaterum.com",
+    "description": "Hampden Estate in Trelawny is the world temple of high-ester rum, working essentially as it did in the 18th century: wild multi-week fermentations fed by dunder and muck pits, all-pot-still distillation and full tropical aging. Its rums are classified by historic ester marks and prized for explosive tropical-fruit 'funk'. Once an anonymous bulk supplier to European blenders, it is now one of the most collected names in rum.",
+    "history": "Founded in 1753 and long held by the Stirling family, Hampden spent more than two and a half centuries selling nearly its entire production in bulk, its ester-rich marks perfuming European blends and German 'rum-verschnitt'. The estate fell into disrepair as Jamaica's sugar economy contracted, and in 2009 the government-brokered sale brought in Everglades Farms, the Hussey family firm, which restored the distillery and its Georgian great house. In 2018 Hampden partnered with Italian importer Velier to launch its first estate-branded bottlings, including the flagship 8 Year, instantly establishing a cult following. The distillery has since expanded warehousing while refusing to modernize its fermentation or stills, positioning its methods — wild yeast, dunder, muck and pot stills — as living industrial heritage.",
+    "signatureBottleIds": ["hampden-estate-8"],
+    "facts": [
+      "Hampden classifies its rums by historic ester marks, from lighter OWH up to DOK, which brushes Jamaica's legal ester ceiling.",
+      "The estate's dunder and muck pits — cultivated beds of acids and wild microbes — are central to its flavor and almost unique in modern distilling.",
+      "Its first rums under its own label appeared only in 2018, 265 years after founding."
+    ],
+    "timeline": [
+      {"year": 1753, "event": "Hampden Estate established in Trelawny", "type": "milestone"},
+      {"year": 2009, "event": "Everglades Farms acquires and restores the estate", "type": "change"},
+      {"year": 2018, "event": "First estate-branded bottlings launched with Velier", "type": "release"}
+    ]
+  },
+  {
+    "id": "demerara-distillers",
+    "name": "Demerara Distillers Ltd",
+    "type": "distillery",
+    "countryId": "guyana",
+    "regionId": "demerara",
+    "location": "Diamond, East Bank Demerara, Guyana",
+    "lat": 6.73,
+    "lng": -58.17,
+    "founded": 1983,
+    "parentCompany": null,
+    "masterDistiller": "Sharon Sue-Hang Baksh (Master Blender)",
+    "website": "demeraradistillers.com",
+    "description": "Demerara Distillers Ltd (DDL) is Guyana's sole surviving rum distillery and custodian of the Demerara style: dark, weighty, smoky-sweet rums from a still park unlike any other, including the world's last working wooden pot and Coffey stills. Its El Dorado range brought estate marks like Port Mourant and Enmore from blenders' ledgers to consumers, though its sweetened house style divides purists.",
+    "history": "Hundreds of sugar estates once lined Guyana's rivers, each distilling its own mark. Two centuries of consolidation funneled their stills and recipes into ever fewer hands, ending at the Diamond estate on the east bank of the Demerara River. Demerara Distillers Ltd was formed in 1983 to unify the survivors, inheriting the Enmore wooden Coffey still (1880), the Versailles single wooden pot still and the Port Mourant double wooden pot still, whose design dates to 1732. In 1992 DDL launched the El Dorado aged range, converting a bulk-supply business into a global consumer brand and making 'Demerara rum' a shelf category. The publicly traded Guyanese company also supplies aged stock to independent bottlers worldwide, and its heritage stills remain in weekly production.",
+    "signatureBottleIds": ["el-dorado-12"],
+    "facts": [
+      "DDL operates the last wooden stills in commercial rum production, made of greenheart wood and maintained plank by plank.",
+      "Each historic still produces a named 'mark' traceable to a vanished sugar estate, still used in blending recipes today.",
+      "DDL is one of Guyana's largest public companies, with rum aging in tropical conditions that evaporate several percent per year."
+    ],
+    "timeline": [
+      {"year": 1732, "event": "Port Mourant estate founded; its double wooden pot still survives in service", "type": "milestone"},
+      {"year": 1983, "event": "Demerara Distillers Ltd formed, consolidating Guyana's distilling at Diamond", "type": "milestone"},
+      {"year": 1992, "event": "El Dorado premium range launched", "type": "release"}
+    ]
+  },
+  {
+    "id": "destilerias-unidas",
+    "name": "Destilerías Unidas S.A. (DUSA)",
+    "type": "distillery",
+    "countryId": "venezuela",
+    "regionId": null,
+    "location": "La Miel, Lara State, Venezuela",
+    "lat": 9.88,
+    "lng": -69.57,
+    "founded": 1959,
+    "parentCompany": null,
+    "masterDistiller": "Tito Cordero (Master Blender)",
+    "website": "rondiplomatico.com",
+    "description": "Destilerías Unidas S.A. (DUSA) operates one of Latin America's most versatile distillery complexes at La Miel in Venezuela's Andean foothills, running column, copper pot and rare batch-kettle stills side by side. It is best known worldwide for Diplomático, the polished, openly sweet sipping rum that became Venezuela's flagship export spirit. The house ferments both molasses and sugar-cane honeys, blending across still types for its layered, dessert-leaning profile.",
+    "history": "The La Miel complex was built in 1959 as Licorerías Unidas S.A., a Seagram-linked plant producing rum and other spirits for the Venezuelan market. When the Seagram empire was dismantled, a group of local investors and employees acquired the site in 2002, renaming it Destilerías Unidas S.A. The Diplomático brand, created under the previous ownership, became the company's international engine, with master blender Tito Cordero shaping Reserva Exclusiva into one of the world's best-selling premium rums. Operating through Venezuela's economic turmoil, DUSA kept exports flowing and inventories aging. In 2023 Brown-Forman completed its acquisition of the Diplomático brand and related bottling assets, while DUSA continues to distill the rum at La Miel under long-term supply arrangements.",
+    "signatureBottleIds": ["diplomatico-reserva-exclusiva"],
+    "facts": [
+      "DUSA runs an unusual trio of still types — multi-column, copper pot and batch kettle — under one roof.",
+      "Pot-still components for Diplomático are fermented from concentrated sugar-cane honeys rather than molasses alone.",
+      "The distillery draws water from the foothills of Terepaima National Park in Lara State."
+    ],
+    "timeline": [
+      {"year": 1959, "event": "Distillery complex built at La Miel by Licorerías Unidas", "type": "milestone"},
+      {"year": 2002, "event": "Local investors acquire the plant, forming DUSA", "type": "change"},
+      {"year": 2023, "event": "Brown-Forman completes purchase of the Diplomático brand; DUSA remains the distiller", "type": "change"}
+    ]
+  },
+  {
+    "id": "mount-gay-distillery",
+    "name": "Mount Gay Distilleries",
+    "type": "distillery",
+    "countryId": "barbados",
+    "regionId": "saint-lucy",
+    "location": "Saint Lucy, Barbados (visitor center in Bridgetown)",
+    "lat": 13.32,
+    "lng": -59.63,
+    "founded": 1703,
+    "parentCompany": "Rémy Cointreau",
+    "masterDistiller": "Trudiann Branker (Master Blender)",
+    "website": "mountgayrum.com",
+    "description": "Mount Gay is the world's oldest continuously operating rum distillery, documented by a 1703 deed from the Mount Gilboa estate in Barbados' northern parish of Saint Lucy. Its rums embody the balanced Barbados style — pot and column distillates married in ex-bourbon and other casks, never sweetened — with banana, almond and baking-spice signatures. Under Rémy Cointreau it has moved steadily upmarket while reviving estate cane growing.",
+    "history": "A 1703 inventory listing two stone windmills, a boiling house and pot stills at Mount Gilboa provides rum's oldest continuous paper trail. The estate was renamed in honor of Sir John Gay Alleyne, the brilliant manager hired in 1747 — 'Mount Alleyne' being taken, his middle name served. Mount Gay rum fueled Barbados' claim as rum's birthplace and sailed with the Royal Navy and transatlantic yachtsmen, an association the brand still courts. Rémy Cointreau acquired Mount Gay in 1989, keeping distillation in Saint Lucy and blending and bottling near Bridgetown. In 2019 Trudiann Branker became the first female master blender in the company's three centuries, reworking the range — including XO Triple Cask Blend — and expanding single-cask and estate projects as Barbados pursued a rum GI.",
+    "signatureBottleIds": ["mount-gay-xo"],
+    "facts": [
+      "The 1703 deed on every label is the oldest surviving document of a continuously operating rum distillery.",
+      "Barbados rum tradition prohibits added sugar and flavoring, keeping the house style dry and cask-driven.",
+      "Trudiann Branker, appointed 2019, is the distillery's first female master blender in over 300 years."
+    ],
+    "timeline": [
+      {"year": 1703, "event": "Deed documents distilling at the Mount Gilboa estate, Saint Lucy", "type": "milestone"},
+      {"year": 1989, "event": "Rémy Cointreau acquires Mount Gay", "type": "change"},
+      {"year": 2019, "event": "Trudiann Branker appointed master blender", "type": "milestone"}
+    ]
+  },
+  {
+    "id": "maison-ferrand",
+    "name": "Maison Ferrand",
+    "type": "producer",
+    "countryId": "france",
+    "regionId": "cognac",
+    "location": "Château de Bonbonnet, Ars, Cognac, France",
+    "lat": 45.62,
+    "lng": -0.07,
+    "founded": 1989,
+    "parentCompany": null,
+    "masterDistiller": "Alexandre Gabriel (Master Blender)",
+    "website": "maisonferrand.com",
+    "description": "Maison Ferrand is Alexandre Gabriel's independent spirits house in the Cognac region, producing Pierre Ferrand cognac, Citadelle gin and the Planteray (formerly Plantation) rum range. Its trademark is applying cognac cellar craft — double aging, cask curation and disclosed 'dosage' — across categories, and it is unusual in owning production at both ends: Charente cellars and stills in France, and Barbados' historic West Indies Rum Distillery.",
+    "history": "Alexandre Gabriel joined forces with the Ferrand family in 1989 to revive their first-cru cognac vineyards, building Pierre Ferrand into a bartender-beloved house based at Château de Bonbonnet in Ars. He fought a decade-long legal battle to distill gin in Cognac stills during the off-season, launching Citadelle in 1996, and began the Plantation rum range in the 1990s by finishing sourced Caribbean rums in cognac casks. In 2017 Ferrand acquired majority control of the West Indies Rum Distillery (founded 1893) in Barbados, becoming a distiller in the Caribbean and a partner in Jamaica's Long Pond and Clarendon. In June 2023, after sustained criticism of the Plantation name's slavery connotations, the company announced the brand's transition to Planteray, completed on shelves from 2024.",
+    "signatureBottleIds": ["planteray-barbados-5", "pierre-ferrand-1840"],
+    "facts": [
+      "Ferrand pioneered 'double aging' for rum — tropical maturation in the Caribbean finished with a second aging in Charente cognac casks.",
+      "Citadelle, launched in 1996, was among the first French artisanal gins, distilled in cognac pot stills during the legal off-season window Gabriel secured.",
+      "Through West Indies Rum Distillery, Ferrand holds a stake in Jamaica's historic Long Pond and Clarendon distilleries."
+    ],
+    "timeline": [
+      {"year": 1989, "event": "Alexandre Gabriel partners with the Ferrand family to revive Pierre Ferrand cognac", "type": "milestone"},
+      {"year": 1996, "event": "Citadelle gin launched from Charente stills", "type": "release"},
+      {"year": 2017, "event": "Acquires majority of West Indies Rum Distillery, Barbados", "type": "milestone"},
+      {"year": 2023, "event": "Plantation rum brand renamed Planteray", "type": "change"}
+    ]
+  }
+]
