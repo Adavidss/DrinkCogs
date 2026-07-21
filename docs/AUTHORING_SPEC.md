@@ -438,3 +438,28 @@ angry-orchard, eric-bordelet.
 - Prices: MSRP = official/typical retail; estValue = what you'd realistically
   pay today (secondary for allocated bottles). Be honest about bourbon madness
   (e.g. Pappy 23 MSRP ≈ $300 vs street ≈ $3,000+).
+
+## Photos, purchase & review links (added v1.1)
+
+- **Photos** live outside the bottle schema. `scripts/fetch_images.py` sources
+  them (priority: `data/image-overrides.json` manual URL → Wikimedia Commons →
+  Open Food Facts), downsizes to ≤720 px and writes `assets/bottles/<id>.jpg` +
+  the `data/images.json` manifest (file, dimensions, source, credit). Bottles
+  without a manifest entry automatically fall back to the procedural SVG art,
+  so photo coverage is optional per bottle. To fix a wrong/ugly photo: put a
+  direct image URL in `data/image-overrides.json` under the bottle id and
+  re-run the script.
+- **Buy & review links** are generated at runtime from URL templates
+  (`js/links.js`) — Wine-Searcher, Total Wine, The Whisky Exchange, Distiller,
+  Whiskybase, Vivino, Untappd, BeerAdvocate, Reddit, YouTube… chosen by
+  category. Optionally add hand-picked links to a bottle:
+
+  ```json
+  "links": [
+    {"label": "Buffalo Trace gift shop", "url": "https://…", "type": "buy"},
+    {"label": "Breaking Bourbon review", "url": "https://…", "type": "review"}
+  ]
+  ```
+
+  Curated links render first with a "picked" badge. The `links` field is
+  optional and absent from most entries.

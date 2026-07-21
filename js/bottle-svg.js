@@ -129,6 +129,49 @@ function labelMarkup(s, b, withText) {
  * @param {object} b bottle record
  * @param {object} opts {h: px height, fill: 0–1 liquid level, label: bool}
  */
+/** Rasterize a bottle's SVG art to a transparent PNG blob (2x for crispness). */
+export function bottleIconPng(b, height = 256) {
+  const svg = bottleSVG(b, { h: height });
+  return new Promise((resolve, reject) => {
+    const img = new Image();
+    const url = URL.createObjectURL(new Blob([svg], { type: 'image/svg+xml' }));
+    img.onload = () => {
+      const canvas = document.createElement('canvas');
+      canvas.width = Math.round(height * (100 / 260)) * 2;
+      canvas.height = height * 2;
+      canvas.getContext('2d').drawImage(img, 0, 0, canvas.width, canvas.height);
+      URL.revokeObjectURL(url);
+      canvas.toBlob(blob => blob ? resolve(blob) : reject(new Error('rasterize failed')), 'image/png');
+    };
+    img.onerror = () => { URL.revokeObjectURL(url); reject(new Error('svg load failed')); };
+    img.src = url;
+  });
+}
+
+/**
+ * Copy the bottle's icon to the clipboard as a PNG image (pastes into
+ * iMessage/WhatsApp/Slack/etc). Falls back to downloading the PNG where the
+ * async clipboard image API isn't available. Returns 'copied' | 'downloaded'.
+ */
+export async function copyBottleIcon(b) {
+  try {
+    if (navigator.clipboard?.write && window.ClipboardItem) {
+      // Promise form keeps Safari happy (write must start inside the gesture).
+      await navigator.clipboard.write([new ClipboardItem({ 'image/png': bottleIconPng(b, 256) })]);
+      return 'copied';
+    }
+    throw new Error('clipboard images unsupported');
+  } catch {
+    const blob = await bottleIconPng(b, 256);
+    const a = document.createElement('a');
+    a.href = URL.createObjectURL(blob);
+    a.download = `${b.id}-icon.png`;
+    a.click();
+    setTimeout(() => URL.revokeObjectURL(a.href), 4000);
+    return 'downloaded';
+  }
+}
+
 export function bottleSVG(b, opts = {}) {
   const s = shapeOf(b);
   const h = opts.h ?? 150;
@@ -145,7 +188,7 @@ export function bottleSVG(b, opts = {}) {
   const bodyFill = s.solid ? liquid : (glassTint || 'rgba(165,190,210,.16)');
   const liquidRect = s.solid ? '' : `<rect x="0" y="${liquidY}" width="100" height="${s.bottom - liquidY}" fill="${liquid}" opacity="${glassTint ? 0.35 : 0.93}" clip-path="url(#${id})"/>`;
 
-  return `<svg viewBox="0 0 100 260" width="${w}" height="${h}" role="img" aria-label="${esc(b.shortName || b.name)} bottle illustration">
+  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 260" width="${w}" height="${h}" role="img" aria-label="${esc(b.shortName || b.name)} bottle illustration">
     <defs><clipPath id="${id}"><path d="${s.body}"/></clipPath></defs>
     <g transform="translate(0 ${dy})">
       <ellipse cx="50" cy="250" rx="${Math.min(40, 30 + h * 0.04)}" ry="4" fill="rgba(0,0,0,.14)"/>

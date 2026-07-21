@@ -1,9 +1,25 @@
 // DrinkCogs — cards.js: bottle card / row / strip components shared across pages.
 
-import { bottleName, producerOf, catLabelOf, flagOf } from './db.js';
+import { bottleName, producerOf, catLabelOf, flagOf, photoOf } from './db.js';
 import { bottleSVG } from './bottle-svg.js';
 import * as store from './store.js';
 import { esc, icon, money, num, AVAILABILITY } from './ui.js';
+
+/**
+ * Bottle media: real photo when the manifest has one, procedural SVG art
+ * otherwise. `h` is the box height in px. Pass {art: true} to force the art
+ * (shelf, tray and suggest keep the illustrated look on purpose).
+ */
+export function bottleMedia(b, opts = {}) {
+  const h = opts.h ?? 124;
+  const p = opts.art ? null : photoOf(b);
+  if (p) {
+    return `<img class="bphoto" src="${esc(p.file)}" alt="${esc(bottleName(b))} bottle"
+      loading="lazy" decoding="async" style="max-height:${h}px"
+      onerror="this.remove()">`;
+  }
+  return bottleSVG(b, { h, label: opts.label });
+}
 
 export function bottleCard(b, opts = {}) {
   const owned = store.hasStatus(b.id, 'owned');
@@ -22,7 +38,7 @@ export function bottleCard(b, opts = {}) {
   <div class="bcard" data-bottle="${b.id}">
     <a class="bcard-cover" href="#/bottle/${b.id}" aria-label="${esc(b.name)}"></a>
     ${owned ? `<span class="badge badge-accent bcard-own">${icon('check')} Owned</span>` : ''}
-    <div class="bcard-fig">${bottleSVG(b, { h: opts.figH ?? 124 })}</div>
+    <div class="bcard-fig">${bottleMedia(b, { h: opts.figH ?? 124 })}</div>
     <div class="bcard-name">${esc(bottleName(b))}</div>
     <div class="bcard-sub">${flagOf(b)} ${esc(catLabelOf(b))}${rating != null ? ` · <b>★ ${esc(rating)}</b>` : ''}</div>
     <div class="bcard-meta">${meta.join('')}</div>
@@ -42,7 +58,7 @@ export function bottleRow(b) {
   const p = producerOf(b);
   return `
   <a class="brow" href="#/bottle/${b.id}">
-    <div class="brow-fig">${bottleSVG(b, { h: 56, label: false })}</div>
+    <div class="brow-fig">${bottleMedia(b, { h: 56, label: false })}</div>
     <div>
       <div class="brow-name">${esc(bottleName(b))} ${store.hasStatus(b.id, 'owned') ? `<span class="badge badge-accent">Owned</span>` : ''}</div>
       <div class="brow-sub">${flagOf(b)} ${esc(catLabelOf(b))}${p ? ` · ${esc(p.name)}` : ''}${b.style ? ` · ${esc(b.style)}` : ''}</div>

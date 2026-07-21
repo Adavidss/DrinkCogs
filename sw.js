@@ -2,7 +2,7 @@
 // Strategy: precache the app shell + database on install; stale-while-revalidate
 // at runtime so updates roll in on the next visit.
 
-const VERSION = 'drinkcogs-v2';
+const VERSION = 'drinkcogs-v3';
 
 // Development kill-switch: on localhost the worker uninstalls itself so the
 // dev server is always hit directly. Production (GitHub Pages) is unaffected.
@@ -46,6 +46,7 @@ const SHELL = [
   './data/categories.json',
   './data/cocktails.json',
   './data/flavors.json',
+  './data/images.json',
   './assets/icons/icon.svg',
   './assets/icons/favicon.svg',
   './assets/icons/icon-192.png',

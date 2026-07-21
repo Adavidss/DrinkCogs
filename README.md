@@ -19,6 +19,8 @@ Think *Discogs for drinks*: a curated, metadata-rich catalog of bourbon, scotch,
 - **Virtual shelf** — your bottles drawn to scale on wooden shelves, sortable by color, height, age, proof, country and more.
 - **Compare mode** — up to four bottles side-by-side with difference highlighting and a flavor radar overlay.
 - **23 cocktail recipes** matched to bottles in the database (and to bottles you own).
+- **Real bottle photos** (Wikimedia Commons / Open Food Facts, attributed) with the illustrated art as automatic fallback — plus per-bottle **buy & review links** into Wine-Searcher, Total Wine, Distiller, Whiskybase, Vivino, Untappd and more.
+- **Copyable bottle icons** — every bottle's illustration copies to the clipboard as a PNG for pasting into chats.
 - **10 themes** — Clean White (default), Dark, Bourbon Barrel, Speakeasy, Vintage Paper, Midnight Blue, Emerald, Modern Glass, Warm Coffee, High Contrast.
 - **PWA** — installable, fully offline after first visit.
 

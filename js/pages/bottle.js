@@ -1,8 +1,9 @@
 // DrinkCogs — pages/bottle.js: the drink detail page.
 
-import { DB, bottleName, producerOf, countryOf, regionOf, catEntryOf, topCatOf, catLabelOf, bottlesOf, brandsOf } from '../db.js';
-import { esc, icon, money, num, sizeText, setTitle, availBadge, copyText, debounce } from '../ui.js';
-import { bottleSVG, glassSVG, labelSVG } from '../bottle-svg.js';
+import { DB, bottleName, producerOf, countryOf, regionOf, catEntryOf, topCatOf, catLabelOf, bottlesOf, brandsOf, photoOf } from '../db.js';
+import { esc, icon, money, num, sizeText, setTitle, availBadge, copyText, debounce, toast } from '../ui.js';
+import { bottleSVG, glassSVG, labelSVG, copyBottleIcon } from '../bottle-svg.js';
+import { buyLinks, reviewLinks } from '../links.js';
 import { radarSVG, radarAxesFor, flavorBarsHTML } from '../charts.js';
 import { recommendationsFor } from '../recommend.js';
 import { bottleStrip, sectionHead } from '../cards.js';
@@ -64,8 +65,13 @@ export async function render(root, [id]) {
   const axes = radarAxesFor(DB.flavors, [b.flavor]);
   const family = p ? bottlesOf(p.bottleIds) : [];
 
+  const photo = photoOf(b);
   const galleryViews = [
-    { id: 'bottle', label: 'Bottle', main: () => bottleSVG(b, { h: 300 }) },
+    ...(photo ? [{
+      id: 'photo', label: 'Photo',
+      main: () => `<img class="stage-photo" src="${esc(photo.file)}" alt="${esc(b.name)} bottle photo" decoding="async">`,
+    }] : []),
+    { id: 'bottle', label: 'Illustration', main: () => bottleSVG(b, { h: 300 }) },
     { id: 'glass', label: 'In the glass', main: () => glassSVG(b, { h: 220 }) },
     { id: 'label', label: 'Label', main: () => labelSVG(b, { h: 220 }) },
   ];
@@ -83,9 +89,12 @@ export async function render(root, [id]) {
         <div class="bottle-stage" id="bottleStage">${galleryViews[0].main()}</div>
         <div class="gallery-thumbs" role="tablist" aria-label="Views">
           ${galleryViews.map((v, i) => `<button role="tab" aria-selected="${i === 0}" class="${i === 0 ? 'on' : ''}" data-view="${v.id}" title="${v.label}">
-            ${v.id === 'bottle' ? bottleSVG(b, { h: 42, label: false }) : v.id === 'glass' ? glassSVG(b, { h: 34 }) : labelSVG(b, { h: 34 })}
+            ${v.id === 'photo' ? `<img class="thumb-photo" src="${esc(photo.file)}" alt="">`
+              : v.id === 'bottle' ? bottleSVG(b, { h: 42, label: false })
+              : v.id === 'glass' ? glassSVG(b, { h: 34 }) : labelSVG(b, { h: 34 })}
           </button>`).join('')}
         </div>
+        ${photo ? `<p class="photo-credit">Photo: ${esc(photo.credit || 'see source')} · <a href="${esc(photo.url)}" target="_blank" rel="noopener">source</a></p>` : ''}
       </div>
       <div class="bottle-title">
         <div class="bottle-kicker">
@@ -94,7 +103,14 @@ export async function render(root, [id]) {
           ${b.discontinued ? '<span class="badge badge-danger">Discontinued</span>' : ''}
           ${b.featured ? '<span class="badge badge-accent">Featured</span>' : ''}
         </div>
-        <h1>${esc(b.name)}</h1>
+        <div class="title-row">
+          <h1>${esc(b.name)}</h1>
+          <button class="icon-glyph no-print" id="copyIconBtn"
+                  title="Copy this bottle's icon — paste it in any chat"
+                  aria-label="Copy bottle icon to clipboard">
+            ${bottleSVG(b, { h: 46, label: false })}
+          </button>
+        </div>
         <p class="bottle-byline">
           ${p ? `by <a href="#/producer/${p.id}">${esc(p.name)}</a>` : ''}
           ${country ? ` · <a href="#/country/${country.id}">${country.flag} ${esc(country.name)}</a>` : ''}
@@ -106,6 +122,7 @@ export async function render(root, [id]) {
         <div class="chip-row mt-2 no-print">
           <button class="chip" data-act="compare" data-id="${b.id}">${icon('compare')} Compare</button>
           <button class="chip" id="shareBtn">${icon('copy')} Copy link</button>
+          <button class="chip" id="copyIconBtn2" title="Paste it in any chat: “Just got a new 🥃”">${icon('sparkle')} Copy icon</button>
           <a class="chip" href="#/random">${icon('dice')} Random</a>
         </div>
         <div class="prose mt-2"><p>${esc(b.description || '')}</p></div>
@@ -147,6 +164,35 @@ export async function render(root, [id]) {
                 return c ? `<a class="chip" href="#/cocktail/${c.id}">🍸 ${esc(c.name)}</a>` : '';
               }).join('')}
             </div>` : ''}
+        </section>
+
+        <section class="section no-print" id="get">
+          ${sectionHead('Where to buy & what people think')}
+          <div class="get-grid">
+            <div class="card">
+              <div class="card-title">${icon('external')}<h3>Find a bottle</h3></div>
+              <div class="linkout-list">
+                ${buyLinks(b).map(l => `
+                  <a class="linkout" href="${esc(l.url)}" target="_blank" rel="noopener nofollow">
+                    <span class="lo-label">${esc(l.label)}${l.curated ? ' <span class="badge badge-accent">picked</span>' : ''}</span>
+                    <span class="lo-note">${esc(l.note || '')}</span>
+                    ${icon('external', 'lo-ic')}
+                  </a>`).join('')}
+              </div>
+            </div>
+            <div class="card">
+              <div class="card-title">${icon('star')}<h3>Reviews & ratings</h3></div>
+              <div class="linkout-list">
+                ${reviewLinks(b).map(l => `
+                  <a class="linkout" href="${esc(l.url)}" target="_blank" rel="noopener nofollow">
+                    <span class="lo-label">${esc(l.label)}${l.curated ? ' <span class="badge badge-accent">picked</span>' : ''}</span>
+                    <span class="lo-note">${esc(l.note || '')}</span>
+                    ${icon('external', 'lo-ic')}
+                  </a>`).join('')}
+              </div>
+            </div>
+          </div>
+          <p class="small faint mt-1">Links open third-party sites prefilled for this bottle. DrinkCogs has no affiliation and earns nothing — availability and prices vary by region; know your local laws.</p>
         </section>
 
         <section class="section" id="production">
@@ -256,6 +302,20 @@ export async function render(root, [id]) {
   }));
 
   root.querySelector('#shareBtn')?.addEventListener('click', () => copyText(location.href));
+
+  /* copy the bottle icon as a pasteable PNG */
+  const doCopyIcon = async () => {
+    try {
+      const how = await copyBottleIcon(b);
+      toast(how === 'copied'
+        ? 'Icon copied — paste it in any chat 🥂'
+        : 'Clipboard blocked — icon downloaded instead');
+    } catch {
+      toast('Could not create the icon image');
+    }
+  };
+  root.querySelector('#copyIconBtn')?.addEventListener('click', doCopyIcon);
+  root.querySelector('#copyIconBtn2')?.addEventListener('click', doCopyIcon);
 
   /* collection panel */
   renderColPanel(root.querySelector('#colPanel'), b);

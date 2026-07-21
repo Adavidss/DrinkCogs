@@ -3,6 +3,7 @@
 import { DB, bottleName, producerOf, countryOf, regionOf, catLabelOf } from '../db.js';
 import { esc, icon, money, num, sizeText, setTitle, debounce, AVAILABILITY } from '../ui.js';
 import { bottleSVG } from '../bottle-svg.js';
+import { bottleMedia } from '../cards.js';
 import { radarSVG, radarAxesFor } from '../charts.js';
 import { searchBottles } from '../search.js';
 import * as store from '../store.js';
@@ -120,7 +121,7 @@ export async function render(root, _params, sp) {
               ${bottles.map(b => `
                 <th>
                   <div class="compare-col-head">
-                    <div class="c-fig">${bottleSVG(b, { h: 90, label: false })}</div>
+                    <div class="c-fig">${bottleMedia(b, { h: 90, label: false })}</div>
                     <a href="#/bottle/${b.id}">${esc(bottleName(b))}</a>
                     <button class="btn btn-ghost btn-sm no-print" data-remove="${b.id}">${icon('x')} Remove</button>
                   </div>

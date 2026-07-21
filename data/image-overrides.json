@@ -1,0 +1,9 @@
+{
+ "_comment": "bottleId \u2192 direct image URL. Fill and run scripts/fetch_images.py. Empty string = photo still wanted / needs a better shot.",
+ "sierra-nevada-pale-ale": "",
+ "wild-turkey-101": "",
+ "freixenet-cordon-negro": "",
+ "eagle-rare-10": "",
+ "titos": "",
+ "makers-mark": ""
+}

@@ -357,3 +357,6 @@ textarea.input { resize: vertical; min-height: 74px; }
 
 .rating-badge { display: inline-flex; align-items: center; gap: 4px; font-weight: 800; color: var(--warn); font-variant-numeric: tabular-nums; }
 .rating-badge svg { width: 14px; height: 14px; }
+
+/* ---------- Bottle photos (real product shots; SVG art is the fallback) ---------- */
+.bphoto { width: auto; max-width: 92%; object-fit: contain; border-radius: 6px; }

@@ -2,7 +2,7 @@
 
 import { DB, bottleName, producerOf, countryOf, topCatOf } from '../db.js';
 import { esc, icon, money, num, setTitle, plural } from '../ui.js';
-import { bottleSVG } from '../bottle-svg.js';
+import { bottleMedia } from '../cards.js';
 import { donutHTML, barsHTML, histogramHTML, radarSVG, radarAxesFor } from '../charts.js';
 import { sectionHead } from '../cards.js';
 import * as store from '../store.js';
@@ -165,7 +165,7 @@ export async function render(root) {
   function highlight(kicker, b, sub) {
     return `
       <a class="card highlight-card" href="#/bottle/${b.id}" style="text-decoration:none;color:var(--text)">
-        <div class="h-fig">${bottleSVG(b, { h: 82, label: false })}</div>
+        <div class="h-fig">${bottleMedia(b, { h: 82, label: false })}</div>
         <div>
           <div class="h-kicker">${kicker}</div>
           <div class="h-name">${esc(bottleName(b))}</div>

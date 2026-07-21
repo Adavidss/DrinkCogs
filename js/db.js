@@ -19,9 +19,16 @@ export async function loadDB() {
     return r.json();
   }));
   [DB.bottles, DB.producers, DB.countries, DB.regions, DB.categories, DB.cocktails, DB.flavors] = results;
+  // Photo manifest is optional — bottles without photos fall back to SVG art.
+  DB.images = await fetch('data/images.json').then(r => r.ok ? r.json() : {}).catch(() => ({}));
   index();
   DB.ready = true;
   return DB;
+}
+
+/** Photo manifest entry for a bottle, or null when only SVG art exists. */
+export function photoOf(b) {
+  return (DB.images && DB.images[b.id]) || null;
 }
 
 function index() {
